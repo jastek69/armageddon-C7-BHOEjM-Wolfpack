@@ -31,12 +31,13 @@ Each LAB is tracked in its own branch with unique deliverables and tasks.
 # [🌐 LAB1]
 ## LAB1A-B
 
-([T.I.Q.S]())
-([John Sweeney](https://github.com/jastek69/Armageddon-C7-SEIR_Foundations/tree/LAB2/LAB1-DELIVERABLES))
+#### Deliverables
+* [T.I.Q.S]
+* [John Sweeney - Deliverable](https://github.com/jastek69/Armageddon-C7-SEIR_Foundations/tree/LAB2/LAB1-DELIVERABLES))
 
 
 
-[Lab1a explanation](https://github.com/BalericaAI/armageddon/blob/main/SEIR_Foundations/LAB1/1a_explanation.md?plain=1)
+### [Lab1a Explanation](https://github.com/BalericaAI/armageddon/blob/main/SEIR_Foundations/LAB1/1a_explanation.md?plain=1)
 Project Overview (What You Are Building)
 In this lab, you will build a classic cloud application architecture:
 A compute layer running on an Amazon EC2 instance
@@ -45,7 +46,7 @@ Secure connectivity between the two using VPC networking and security groups
 Credential management using AWS Secrets Manager
 A simple application that writes and reads data from the database
 
-[Lab1b - explanation](https://github.com/BalericaAI/armageddon/blob/main/SEIR_Foundations/LAB1/1b_Incident_response.md?plain=1)
+### [Lab1b - explanation](https://github.com/BalericaAI/armageddon/blob/main/SEIR_Foundations/LAB1/1b_Incident_response.md?plain=1)
 Lab 1b — Incident Response Scenario
 Prerequisite: Lab 1a + Lab 1b infrastructure completed
 
@@ -258,7 +259,8 @@ This is exactly what separates:
 
 ## Lab 1C — Terraform: EC2 → RDS + Secrets/Params + Observability + Incident Alerts
 ### LAB1C-H
-[John Sweeney](https://github.com/jastek69/armageddon-C7-LAB1C-H/tree/main/LAB1C-H-DELIVERABLES)
+#### Deliverables
+* [John Sweeney - Deliverables 1C-I](https://github.com/jastek69/armageddon-C7-LAB1C-H/tree/main/LAB1C-H-DELIVERABLES)
 
 
 ### Purpose
@@ -409,7 +411,8 @@ When students can Terraform this, they’re doing real cloud engineering.
 
 
 ## LAB1C-Bonus-D - Route53 Apex and Logging
-[John Sweeney](https://github.com/jastek69/armageddon-C7-LAB1C-H/tree/main/LAB1C-H-DELIVERABLES)
+#### Deliverables
+* [John Sweeney - Deliverables](https://github.com/jastek69/armageddon-C7-LAB1C-H/tree/main/LAB1C-H-DELIVERABLES)
 
 
 Ready to Suffer? —here’s the next realism bump for Lab 1C-Bonus-D:
@@ -501,7 +504,8 @@ Combined with WAF logs/metrics and ALB 5xx alarms, you can do real triage:
 
 
 ## LAB1C-Bonus-E - WAF
-[John Sweeney](https://github.com/jastek69/armageddon-C7-LAB1C-H/tree/main/LAB1C-H-DELIVERABLES)
+#### Deliverables
+* [John Sweeney - Deliverables](https://github.com/jastek69/armageddon-C7-LAB1C-H/tree/main/LAB1C-H-DELIVERABLES)
 
 Key update since “the old days”: AWS WAF logging can go directly to CloudWatch Logs, S3, or Kinesis Data Firehose, 
 and you can associate one destination per Web ACL. Also, the destination name must start with aws-waf-logs-. 
@@ -608,7 +612,8 @@ This is precisely why WAF logging destinations include CloudWatch Logs (fast sea
 
 
 ## LAB1C-Bonus-F Cloudwatch
-[John Sweeney](https://github.com/jastek69/armageddon-C7-LAB1C-H/tree/main/LAB1C-H-DELIVERABLES)
+#### Deliverables
+* [John Sweeney - Deliverables](https://github.com/jastek69/armageddon-C7-LAB1C-H/tree/main/LAB1C-H-DELIVERABLES)
 
 Here’s a CloudWatch Logs Insights query pack you can drop straight into the Lab 1C-Bonus-B incident runbook.
 
@@ -767,7 +772,8 @@ Step 4 — Verify recovery
 
 
 ## LAB1C-Bonus-G Cloudwatch + Bedrock
-[John Sweeney](https://github.com/jastek69/armageddon-C7-LAB1C-H/tree/main/LAB1C-H-DELIVERABLES)
+#### Deliverables
+* [John Sweeney - Deliverables](https://github.com/jastek69/armageddon-C7-LAB1C-H/tree/main/LAB1C-H-DELIVERABLES)
 
 
 Bedrock-powered “auto-IR” pipeline for advanced students who can actually build and demo.
@@ -858,7 +864,8 @@ Documenation: https://aws.amazon.com/blogs/machine-learning/automate-it-operatio
 
 
 ## LAB1C-Bonus-H Bedrock Auto-Generated Incident Reports
-[John Sweeney](https://github.com/jastek69/armageddon-C7-LAB1C-H/tree/main/LAB1C-H-DELIVERABLES)
+#### Deliverables
+* [John Sweeney - Deliverables](https://github.com/jastek69/armageddon-C7-LAB1C-H/tree/main/LAB1C-H-DELIVERABLES)
 
 
 What you’re building:
@@ -1038,7 +1045,8 @@ Documentation: https://docs.aws.amazon.com/waf/latest/developerguide/logging-des
 
 
 ## LAB1C-Bonus-I Auto-IR Runbook
-[John Sweeney](https://github.com/jastek69/armageddon-C7-LAB1C-H/tree/main/LAB1C-H-DELIVERABLES)
+#### Deliverables
+* [John Sweeney - Deliverables](https://github.com/jastek69/armageddon-C7-LAB1C-H/tree/main/LAB1C-H-DELIVERABLES)
 
 
 Human + Amazon Bedrock Incident Response
@@ -1057,9 +1065,9 @@ Bedrock accelerates analysis. Humans own correctness.
 ---
 
 ## [🌐 LAB2]
-
-[John Sweeney LAB2 - DELIVERABLES](https://github.com/jastek69/Armageddon-C7-SEIR_Foundations/tree/LAB2/LAB2-DELIVERABLES)
-[John Sweeney LAB2 - Code](https://github.com/jastek69/Armageddon-C7-SEIR_Foundations)
+#### Deliverables
+* [John Sweeney LAB2 - DELIVERABLES](https://github.com/jastek69/Armageddon-C7-SEIR_Foundations/tree/LAB2/LAB2-DELIVERABLES)
+* [John Sweeney LAB2 - Code](https://github.com/jastek69/Armageddon-C7-SEIR_Foundations)
 
 
 ### Repurpose
