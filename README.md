@@ -18,10 +18,10 @@ Each LAB is tracked in its own branch with unique deliverables and tasks.
 
 ---
 
-## DELIVERABLES
+## GROUP MEMBER DELIVERABLES/REPOs
 **Group Co-Leader: T.I.Q.S**
 - **Labs 1A - LAB 3:** [tiqsclass6 - Overview](https://github.com/tiqsclass6)
-
+#
 **Group Co-Leader: John Sweeney**
 
 - Lab1A-B: [LAB1 DELIVERABLES](https://github.com/jastek69/armageddon-C7-LAB1C-H/tree/main/LAB1-DELIVERABLES)
@@ -31,10 +31,11 @@ Each LAB is tracked in its own branch with unique deliverables and tasks.
 - LAB3 - Deliverables: [LAB3 - DELIVERABLES](https://github.com/jastek69/Armageddon-C7-Lab3-SEIR_Foundations/tree/main)
 - LAB3 - Code: [LAB3 - Code](https://github.com/jastek69/Armageddon-C7-Lab3-SEIR_Foundations/tree/main)
 
+#
+**Member: Ernest Morris**
+- Labs 1A-B: [Deliverables](https://github.com/jastek69/armageddon-C7-BHOEjM-Wolfpack.git)
 
-
-
-
+#
 ___
 
 # [🌐 LAB1]
@@ -42,7 +43,9 @@ ___
 
 #### Deliverables
 - [tiqsclass6 - Overview](https://github.com/tiqsclass6)
-* [John Sweeney - Deliverable](https://github.com/jastek69/Armageddon-C7-SEIR_Foundations/tree/LAB2/LAB1-DELIVERABLES)
+- [John Sweeney - Deliverable](https://github.com/jastek69/Armageddon-C7-SEIR_Foundations/tree/LAB2/LAB1-DELIVERABLES)
+- [Ernest Morris - Deliverables](https://github.com/jastek69/armageddon-C7-BHOEjM-Wolfpack.git)
+
 
 
 
