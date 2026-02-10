@@ -46,9 +46,6 @@ ___
 - [John Sweeney - Deliverable](https://github.com/jastek69/Armageddon-C7-SEIR_Foundations/tree/LAB2/LAB1-DELIVERABLES)
 - [Ernest Morris - Deliverables](https://github.com/jastek69/armageddon-C7-BHOEjM-Wolfpack.git)
 
-
-
-
 ### [Lab1a Explanation](https://github.com/BalericaAI/armageddon/blob/main/SEIR_Foundations/LAB1/1a_explanation.md?plain=1)
 Project Overview (What You Are Building)
 In this lab, you will build a classic cloud application architecture:
@@ -1507,5 +1504,8 @@ That answer signals maturity.
 
 * **Author and Group Leaders** T.I.Q.S., John Sweeney
 * **Team Member:** 
+<<<<<<< HEAD
 
 
+=======
+>>>>>>> 604246675bf89273af0f34410a9b6ce78fe9f35b
