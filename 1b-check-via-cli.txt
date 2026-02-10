@@ -1,0 +1,94 @@
+    #7.1
+
+7.1 Verify Parameter Store Values
+
+     aws ssm get-parameters \
+      --names /armageddon/1b/database/endpoint /armageddon/1b/database/port /armageddon/1b/database/name \
+      --with-decryption \
+      --output table
+
+Expected:
+  Parameter names returned
+  Correct DB endpoint and port
+
+    #7.2
+
+  7.2 Verify Secrets Manager Value
+  
+      aws secretsmanager get-secret-value \
+        --secret-id lab1a-rds-mysql-v28 \
+        --output table
+
+Expected:
+  JSON output
+  Fields: 
+    username 
+    password 
+    host 
+    port
+
+      
+
+    #7.3
+
+    7.3 Verify EC2 Can Read Both Systems
+From EC2:
+
+    aws ssm get-parameter --name /armageddon/1b/database/endpoint 
+    aws secretsmanager get-secret-value --secret-id lab1a-rds-mysql-v28 \
+    --output table
+
+Expected:
+  Both commands succeed
+  No AccessDeniedException
+  
+  
+
+    #7.4
+
+7.4 Verify CloudWatch Log Group Exists
+    
+   aws logs describe-log-groups \
+      --log-group-name-prefix /aws/ec2/armageddon-7.0-lab/ec2-to-rds-logs \
+      --output table
+
+Expected:
+  Log group present    
+
+    
+
+# 7.5 Verify DB Failure Logs Appear
+Simulate failure (examples):
+  Stop RDS
+  Change DB password in Secrets Manager without updating DB
+  Block SG temporarily
+
+Then check logs:
+
+    aws logs filter-log-events \
+      --log-group-name /aws/ec2/armageddon-7.0-lab/ec2-to-rds-logs \
+      --filter-pattern "ERROR" \
+      --output table
+
+    
+    aws logs filter-log-events \
+      --log-group-name /aws/ec2/armageddon-7.0-lab/ec2-to-rds-logs \
+      --filter-pattern "failed" \
+      --output table
+
+  t
+
+
+Expected:
+  Explicit DB connection failure messages
+
+
+ # 7.6 Verify CloudWatch Alarm
+
+    aws cloudwatch describe-alarms \
+      --alarm-name-prefix armageddon-7.0-lab-db-connection-failure \
+      --output table 
+
+Expected:
+  Alarm present
+  State transitions to ALARM during failure

@@ -1,0 +1,23 @@
+4) PASS/FAIL: Resolve instance profile → role name
+
+
+  ROLE_NAME="$(aws iam get-instance-profile \
+  --instance-profile-name "armageddon-7.0-lab-ec2-profile" \
+  --query "InstanceProfile.Roles[0].RoleName" \
+  --output text 2>/dev/null)"
+
+[ -n "$ROLE_NAME" ] && [ "$ROLE_NAME" != "None" ] \
+  && echo "PASS: role name = $ROLE_NAME" \
+  || (echo "FAIL: could not resolve role from instance profile"; exit 1)
+
+
+5) PASS/FAIL: Role has some Secrets Manager read capability (rough check)
+This is a basic guardrail—useful for labs, not a full audit.
+
+aws iam list-attached-role-policies \
+  --role-name "ec2-to-secretsmanager-rolev2" \
+  --query "AttachedPolicies[].PolicyArn" \
+  --output text 2>/dev/null \
+  | grep -Eq 'SecretsManager|secretsmanager' \
+  && echo "PASS: role likely has Secrets Manager-related policy attached ($ROLE_NAME)" \
+  || (echo "FAIL: role appears to lack Secrets Manager-related managed policies ($ROLE_NAME)"; exit 1)

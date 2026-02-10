@@ -1,0 +1,36 @@
+Student verification (CLI)
+1) Confirm hosted zone exists (if managed)
+  aws route53 list-hosted-zones-by-name \
+    --dns-name madibamaximus.click \
+    --query "HostedZones[].Id"
+
+2) Confirm app record exists
+  aws route53 list-resource-record-sets \
+  --hosted-zone-id Z03960566UZQZIZPHD3F \
+  --query "ResourceRecordSets[?Name=='app.madibamaximus.click.']"
+
+  aws route53 list-resource-record-sets \
+  --hosted-zone-id Z03960566UZQZIZPHD3F \
+  --query "ResourceRecordSets[?Name=='madibamaximus.click.']"
+
+3) Confirm certificate issued
+  aws acm describe-certificate \
+  --certificate-arn arn:aws:acm:us-east-1:314146336018:certificate/1494f0ea-05d3-4437-9088-4894dfd48822 \
+  --query "Certificate.Status"
+
+Expected: ISSUED
+
+4) Confirm HTTPS works
+  curl -I https://app.madibamaximus.click
+
+Expected: HTTP/1.1 200 (or 301 then 200 depending on your app)
+
+What YOU must understand (career point)
+This is exactly how companies do it:
+  DNS points to ingress
+  TLS via ACM
+  ALB handles secure public entry
+  private compute does the work
+  WAF + alarms defend and alert
+
+When students can Terraform this, they’re doing real cloud engineering.

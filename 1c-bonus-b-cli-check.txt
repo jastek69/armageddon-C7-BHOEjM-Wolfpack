@@ -1,0 +1,50 @@
+#Note: Start Session Manager Not Necessary
+
+
+EC2 runs app on the target port
+They must ensure their user-data/app listens on port 80 (or update TG/SG accordingly).
+
+Verification commands (CLI) for Bonus-B
+1) ALB exists and is active
+   
+      aws elbv2 describe-load-balancers \
+        --names armageddon-7-0-lab-alb01 \
+        --query "LoadBalancers[0].State.Code" 
+
+#Note:table doesn't work here
+
+3) HTTPS listener exists on 443
+   
+      aws elbv2 describe-listeners \
+        --load-balancer-arn arn:aws:elasticloadbalancing:us-east-1:314146336018:loadbalancer/app/armageddon-7-0-lab-alb01/8b60a3ab6082a336 \
+        --query "Listeners[].Port" \
+        --output table
+
+4) Target is healthy
+   
+      aws elbv2 describe-target-health \
+        --target-group-arn arn:aws:elasticloadbalancing:us-east-1:314146336018:targetgroup/armageddon-7-0-lab-tg01/92d56830d119e6e4 \
+        --output table
+
+5) WAF attached
+   
+      aws wafv2 get-web-acl-for-resource \
+        --resource-arn arn:aws:elasticloadbalancing:us-east-1:314146336018:loadbalancer/app/armageddon-7-0-lab-alb01/8b60a3ab6082a336 \
+        --output table
+
+7) Alarm created (ALB 5xx) #table is too long
+   
+      aws cloudwatch describe-alarms \
+        --alarm-name-prefix armageddon-7-0-lab-alb-5xx 
+        
+
+9) Dashboard exists
+    
+      aws cloudwatch list-dashboards \
+        --dashboard-name-prefix armageddon-7-0-lab \
+        --output table
+
+
+
+
+

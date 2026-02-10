@@ -1,0 +1,40 @@
+Student verification (CLI) — DNS + Logs
+1) Verify apex record exists
+  aws route53 list-resource-record-sets \
+    --hosted-zone-id Z03960566UZQZIZPHD3F \
+    --query "ResourceRecordSets[?Name=='madibamaximus.click.']"
+
+2) Verify ALB logging is enabled
+  aws elbv2 describe-load-balancers \
+    --names armageddon-7-0-lab-alb01 \
+    --query "LoadBalancers[0].LoadBalancerArn"
+
+Then:
+  aws elbv2 describe-load-balancer-attributes \
+  --load-balancer-arn arn:aws:elasticloadbalancing:us-east-1:314146336018:loadbalancer/app/armageddon-7-0-lab-alb01/be9d2104b7e67e98
+
+  Expected attributes include:
+  access_logs.s3.enabled = true
+  access_logs.s3.bucket = your bucket
+  access_logs.s3.prefix = your prefix
+
+3) Generate some traffic
+  curl -I https://madibamaximus.click
+  curl -I https://app.madibamaximus.click
+
+4) Verify logs arrived in S3 (may take a few minutes)
+  aws s3 ls s3://armageddon-7-0-lab-alb-logs-314146336018/armageddon-alb-access-logs/AWSLogs/314146336018/elasticloadbalancing/ --recursive | head
+
+
+
+Why this matters to YOU (career-critical point)
+This is incident response fuel:
+  Access logs tell you:
+    client IPs
+    paths
+    response codes
+    target behavior
+    latency
+
+Combined with WAF logs/metrics and ALB 5xx alarms, you can do real triage:
+  “Is it attackers, misroutes, or downstream failure?”
