@@ -1,25 +1,15 @@
-# Class 7 Armageddon - Brotherhood of Evil jerMutants - Wolfpack
+# ☁️ Class 7 Armageddon - Brotherhood of Evil jerMutants - Wolfpack
 
-![AWS](https://img.shields.io/badge/Cloud-AWS-orange?logo=amazon-aws&logoColor=white)
-![EC2](https://img.shields.io/badge/Service-EC2-blue?logo=amazon-aws&logoColor=white)
-![Git](https://img.shields.io/badge/Git-Branching-yellow?logo=git&logoColor=white)
 
-![Status 1a](https://img.shields.io/badge/Lab1a-success?logo=github)
-![Status 1b](https://img.shields.io/badge/Lab1b-success?logo=github)
-![Status 1cA](https://img.shields.io/badge/Lab1c_bonus-A-success?logo=github)
-![Status 1cB](https://img.shields.io/badge/Lab1c_bonus-B-success?logo=github)
-![Status 1cC](https://img.shields.io/badge/Lab1c_bonus-C-success?logo=github)
-![Status 1cD](https://img.shields.io/badge/Lab1c_bonus-D-success?logo=github)
-![Status 1cE](https://img.shields.io/badge/Lab1c_bonus-E-success?logo=github)
-![Status 1cF](https://img.shields.io/badge/Lab1c_bonus-F-success?logo=github)
-![Status 1cG](https://img.shields.io/badge/Lab1c_bonus-G-success?logo=github)
-![Status 1cH](https://img.shields.io/badge/Lab1c_bonus-H-success?logo=github)
-![Status 1cI](https://img.shields.io/badge/Lab1c_bonus-I-success?logo=github)
-![Status 2a](https://img.shields.io/badge/Lab2a-success?logo=github)
-![Status 2b](https://img.shields.io/badge/Lab2b-success?logo=github)
-![Status 3a](https://img.shields.io/badge/Lab3a-success?logo=github)
-![Status 3b](https://img.shields.io/badge/Lab3b-success?logo=github)
-![Status 4](https://img.shields.io/badge/Lab4-inprogress?logo=github)
+![AWS](https://img.shields.io/badge/AWS-Cloud-orange?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-%E2%89%A51.9-844FBA?style=for-the-badge&logo=terraform&logoColor=white)
+![CloudFront](https://img.shields.io/badge/CloudFront-Edge_Security-yellow?style=for-the-badge&logo=amazon-aws)
+![WAFv2](https://img.shields.io/badge/AWS_WAFv2-Real_Time_Logging-red?style=for-the-badge&logo=amazonaws)
+![Bedrock](https://img.shields.io/badge/Amazon_Bedrock-Auto_IR-black?style=for-the-badge&logo=amazon-aws)
+![Multi_Region](https://img.shields.io/badge/Multi_Region-Transit_Gateway-blue?style=for-the-badge)
+![Compliance](https://img.shields.io/badge/Compliance-HIPAA_Inspired-purple?style=for-the-badge)
+![Observability](https://img.shields.io/badge/Observability-CloudWatch_&_Bedrock-green?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-Production_Grade-success?style=for-the-badge)
 
 
 
@@ -28,12 +18,31 @@ Each LAB is tracked in its own branch with unique deliverables and tasks.
 
 ---
 
+## DELIVERABLES
+**Group Co-Leader: T.I.Q.S**
+- **Labs 1A - LAB 3:** [tiqsclass6 - Overview](https://github.com/tiqsclass6)
+
+**Group Co-Leader: John Sweeney**
+
+- Lab1A-B: [LAB1 DELIVERABLES](https://github.com/jastek69/armageddon-C7-LAB1C-H/tree/main/LAB1-DELIVERABLES)
+- Lab1C-H: [LAB1C-H DELIVERABLES](https://github.com/jastek69/armageddon-C7-LAB1C-H/tree/main/LAB1-DELIVERABLES)
+- Labb2A-B: [LAB2 - DELIVERABLES](https://github.com/jastek69/Armageddon-C7-SEIR_Foundations/tree/LAB2/LAB2-DELIVERABLES)
+- Lab2A-B: Code: [LAB2 - Code](https://github.com/jastek69/Armageddon-C7-SEIR_Foundations)
+- LAB3 - Deliverables: [LAB3 - DELIVERABLES](https://github.com/jastek69/Armageddon-C7-Lab3-SEIR_Foundations/tree/main)
+- LAB3 - Code: [LAB3 - Code](https://github.com/jastek69/Armageddon-C7-Lab3-SEIR_Foundations/tree/main)
+
+
+
+
+
+___
+
 # [🌐 LAB1]
 ## LAB1A-B
 
 #### Deliverables
-* [T.I.Q.S]
-* [John Sweeney - Deliverable](https://github.com/jastek69/Armageddon-C7-SEIR_Foundations/tree/LAB2/LAB1-DELIVERABLES))
+- [tiqsclass6 - Overview](https://github.com/tiqsclass6)
+* [John Sweeney - Deliverable](https://github.com/jastek69/Armageddon-C7-SEIR_Foundations/tree/LAB2/LAB1-DELIVERABLES)
 
 
 
@@ -260,6 +269,7 @@ This is exactly what separates:
 ## Lab 1C — Terraform: EC2 → RDS + Secrets/Params + Observability + Incident Alerts
 ### LAB1C-H
 #### Deliverables
+- [tiqsclass6 - Overview](https://github.com/tiqsclass6)
 * [John Sweeney - Deliverables 1C-I](https://github.com/jastek69/armageddon-C7-LAB1C-H/tree/main/LAB1C-H-DELIVERABLES)
 
 
@@ -412,6 +422,7 @@ When students can Terraform this, they’re doing real cloud engineering.
 
 ## LAB1C-Bonus-D - Route53 Apex and Logging
 #### Deliverables
+- [tiqsclass6 - Overview](https://github.com/tiqsclass6)
 * [John Sweeney - Deliverables](https://github.com/jastek69/armageddon-C7-LAB1C-H/tree/main/LAB1C-H-DELIVERABLES)
 
 
@@ -505,6 +516,7 @@ Combined with WAF logs/metrics and ALB 5xx alarms, you can do real triage:
 
 ## LAB1C-Bonus-E - WAF
 #### Deliverables
+- [tiqsclass6 - Overview](https://github.com/tiqsclass6)
 * [John Sweeney - Deliverables](https://github.com/jastek69/armageddon-C7-LAB1C-H/tree/main/LAB1C-H-DELIVERABLES)
 
 Key update since “the old days”: AWS WAF logging can go directly to CloudWatch Logs, S3, or Kinesis Data Firehose, 
@@ -613,6 +625,7 @@ This is precisely why WAF logging destinations include CloudWatch Logs (fast sea
 
 ## LAB1C-Bonus-F Cloudwatch
 #### Deliverables
+- [tiqsclass6 - Overview](https://github.com/tiqsclass6)
 * [John Sweeney - Deliverables](https://github.com/jastek69/armageddon-C7-LAB1C-H/tree/main/LAB1C-H-DELIVERABLES)
 
 Here’s a CloudWatch Logs Insights query pack you can drop straight into the Lab 1C-Bonus-B incident runbook.
@@ -765,14 +778,9 @@ Step 4 — Verify recovery
 
 
 
-
-
-
-
-
-
 ## LAB1C-Bonus-G Cloudwatch + Bedrock
 #### Deliverables
+- [tiqsclass6 - Overview](https://github.com/tiqsclass6)
 * [John Sweeney - Deliverables](https://github.com/jastek69/armageddon-C7-LAB1C-H/tree/main/LAB1C-H-DELIVERABLES)
 
 
@@ -860,11 +868,9 @@ Documenation: https://aws.amazon.com/blogs/machine-learning/automate-it-operatio
 
 
 
-
-
-
 ## LAB1C-Bonus-H Bedrock Auto-Generated Incident Reports
 #### Deliverables
+- [tiqsclass6 - Overview](https://github.com/tiqsclass6)
 * [John Sweeney - Deliverables](https://github.com/jastek69/armageddon-C7-LAB1C-H/tree/main/LAB1C-H-DELIVERABLES)
 
 
@@ -1035,17 +1041,9 @@ Documentation: https://docs.aws.amazon.com/waf/latest/developerguide/logging-des
 
 
 
-
-
-
-
-
-
-
-
-
 ## LAB1C-Bonus-I Auto-IR Runbook
 #### Deliverables
+
 * [John Sweeney - Deliverables](https://github.com/jastek69/armageddon-C7-LAB1C-H/tree/main/LAB1C-H-DELIVERABLES)
 
 
@@ -1066,8 +1064,9 @@ Bedrock accelerates analysis. Humans own correctness.
 
 ## [🌐 LAB2]
 #### Deliverables
-* [John Sweeney LAB2 - DELIVERABLES](https://github.com/jastek69/Armageddon-C7-SEIR_Foundations/tree/LAB2/LAB2-DELIVERABLES)
-* [John Sweeney LAB2 - Code](https://github.com/jastek69/Armageddon-C7-SEIR_Foundations)
+- [tiqsclass6 - Overview](https://github.com/tiqsclass6)
+- [John Sweeney LAB2 - DELIVERABLES](https://github.com/jastek69/Armageddon-C7-SEIR_Foundations/tree/LAB2/LAB2-DELIVERABLES)
+- [John Sweeney LAB2 - Code](https://github.com/jastek69/Armageddon-C7-SEIR_Foundations)
 
 
 ### Repurpose
@@ -1094,30 +1093,416 @@ Bedrock accelerates analysis. Humans own correctness.
 
 ---
 
-## [🌐 LAB 3]
-[John Sweeney LAB3 - Deliverables](https://github.com/jastek69/Armageddon-C7-Lab3-SEIR_Foundations/tree/main/LAB3-DELIVERABLES)
-[John Sweeney LAB3 - Code](https://github.com/jastek69/Armageddon-C7-Lab3-SEIR_Foundations/tree/main)
+## [🌐 LAB 3] AWS - Transit Gateway
+- [tiqsclass6 - Overview](https://github.com/tiqsclass6)
+- [John Sweeney LAB3 - Deliverables](https://github.com/jastek69/Armageddon-C7-Lab3-SEIR_Foundations/tree/main/LAB3-DELIVERABLES)
+- [John Sweeney LAB3 - Code](https://github.com/jastek69/Armageddon-C7-Lab3-SEIR_Foundations/tree/main)
 
 
 ## 📝 Summary
 
-Through these challenges, you will learn how to:
+Lab 3 — Japan Medical
+Cross-Region Architecture with Legal Data Residency (APPI Compliance)
+Scenario Overview
+  A Japanese medical organization operates:
+  A primary medical data system in Tokyo
+  A satellite medical office in São Paulo
+  A single global application URL: chewbacca-growls.com
+  Global access via CloudFront
+  Strict legal requirement:
+    All Japanese patient medical data (PHI) must remain physically stored in Japan
 
-* Launch and configure a **custom webserver** on AWS EC2
-* Serve personalized content through Apache and HTML
-* Connect to a live instance and update it in real time
-* Troubleshoot AWS instances with security groups, Apache service, and logs
-* Build confidence in maintaining a **live cloud service**
-* Scale infrastructure using multi-region Terraform deployments
-* Perform Git operations including listing, branching, and pull requests
-* Practice Git merge workflows with pull requests and screenshots
-* **Automate and secure infrastructure** using Terraform for multi-region design
+This is not a theoretical exercise.
+This is how regulated global healthcare systems are actually built.
 
-👉 Completing these tasks is the **next step in the Be A Man journey** toward mastering cloud automation.
+Why This Lab Exists (Read This Carefully)
+Japan’s privacy law — 個人情報保護法 (APPI) — requires that personally identifiable medical information for Japanese citizens must not be stored outside Japan, unless extremely specific legal mechanisms are in place.
+
+For healthcare:
+  The safe, standard interpretation is:
+    Store PHI only inside Japan
+
+Even if:
+    The patient is traveling
+    The doctor is overseas
+    The application is globally accessible
+
+📌 Access is allowed. Storage is not.
+That single sentence is the key mental shift.
+
+Legal Reality → Architectural Consequence
+
+Because of APPI:
+| Component             | Allowed Location                           |
+| --------------------- | ------------------------------------------ |
+| RDS (Medical Records) | **Tokyo only** (`ap-northeast-1`)          |
+| Backups / snapshots   | **Tokyo only**                             |
+| Read replicas         | ❌ Not allowed outside Japan                |
+| App access            | ✅ Allowed globally                         |
+| CloudFront            | ✅ Allowed (edge cache, no PHI persistence) |
+| EC2 in São Paulo      | ✅ Allowed (stateless compute only)         |
+
+This forces a hub-and-spoke architecture:
+  Tokyo is the data authority
+  Other regions are compute-only extensions
+
+Regional Architecture Breakdown
+🇯🇵 Tokyo — Primary Region (ap-northeast-1)
+Tokyo hosts everything that touches patient data at rest:
+    RDS (MySQL / PostgreSQL)
+    Primary VPC
+    Application tier (EC2 / ASG)
+    Transit Gateway attachment
+    Parameter Store & Secrets Manager (authoritative)
+    Logging, auditing, backups
+
+Tokyo is the single source of truth.
+If Tokyo goes down:
+    The system degrades
+    But data residency is never violated
+
+This is intentional.
+
+🇧🇷 São Paulo — Satellite Region (sa-east-1)
+São Paulo exists only to improve access latency for doctors and staff physically located there.
+São Paulo contains:
+    VPC
+    EC2 + Auto Scaling Group
+    No databases
+    No local persistence of PHI
+    No backups
+    No replicas
+
+Every read/write:
+    Traverses the AWS backbone
+    Goes directly to Tokyo RDS
+    Is encrypted in transit
+    Is logged and auditable
+São Paulo is stateless compute.
+
+Why Transit Gateway Is Used (Not VPC Peering)
+At this scale and sensitivity:
+    VPC peering becomes brittle
+    Routing rules multiply
+    Auditing cross-region flows becomes harder
+Transit Gateway provides:
+    Centralized routing
+    Explicit control of allowed paths
+    Clear inspection points
+    Enterprise-grade segmentation
+In regulated environments:
+    Transit Gateway is preferred because it creates a visible, controllable data corridor.
+
+That matters for audits.
+
+CloudFront’s Role (Single URL, Multiple Regions)
+  There is only one public URL: https://chewbacca-growls.com
+
+CloudFront:
+    Terminates TLS
+    Applies WAF
+    Routes users to the nearest healthy region
+    Never stores PHI
+    Only caches:
+        Static assets
+        Non-sensitive responses
+        Content explicitly marked cacheable
+
+  CloudFront is legally safe because:
+    It is not a data stor
+    It does not persist medical records
+    It respects cache control rules
+
+Data Flow (End-to-End)
+
+Let’s walk a real example.
+
+Example: Japanese patient visiting São Paulo
+    1. Patient visits clinic in São Paulo
+    2. Doctor opens chewbacca-growls.com
+    3. CloudFront routes request to São Paulo EC2
+    4. São Paulo EC2:
+        Authenticates request
+        Does not store PHI locally
+        Opens encrypted connection to Tokyo RDS via Transit Gateway
+    5. Data is read/written only in Tokyo
+    6. Response is returned to São Paulo doctor
+
+At no point:
+    Is PHI stored outside Japan
+    Is data replicated
+    Is a local database created
+
+This satisfies APPI compliance.
+
+Why This Is the Correct Tradeoff
+What Japan cares about
+    Data sovereignty
+    Auditability
+    Legal certainty
+
+What the business cares about
+    Doctors can work where patients are
+    Latency is reasonable
+    Single global app
+    No duplicated systems
+
+This architecture:
+    Accepts slightly higher latency
+    In exchange for legal compliance and operational simplicity
+
+That is the correct trade in healthcare.
+
+What Would Be Illegal (And Why)
+
+❌ RDS Read Replica in São Paulo
+→ Data at rest outside Japan
+
+❌ Aurora Global Database
+→ Storage replication outside Japan
+
+❌ Local cache of patient records on EC2 disk
+→ Persistent PHI outside Japan
+
+❌ CloudFront caching PHI
+→ Edge persistence outside Japan
+
+These are not “bad practices.”
+They are compliance violations.
+
+Why This Lab Matters for Your Career
+  Most engineers:
+    Learn “multi-region for availability”
+    Learn “replicate everything everywhere”
+
+Regulated reality is different.
+This lab teaches you to:
+    Translate law into architecture
+    Design global systems with asymmetric constraints
+    Explain why a slower design is the correct one
+    Speak confidently to:
+      Security
+      Legal
+      Compliance
+      Auditors
+
+If you can explain this architecture clearly, you are senior-level.
+
+How to Talk About This in an Interview
+
+    “I designed a multi-region medical application where all PHI remained in Japan to comply with APPI.
+    CloudFront provided global access, São Paulo ran stateless compute only, and all reads/writes traversed a Transit Gateway to Tokyo RDS.
+    The design intentionally traded some latency for legal certainty and auditability.”
+
+That answer will stop the room.
+
+One Sentence to Remember
+  ---> Global access does not require global storage.
+
+That sentence is the heart of modern regulated cloud architecture.
+
 
 ---
+
+## [🌐 LAB 4] Japan Medical - AWS GCP Integration
+- tiqsclass6 - WIP
+- John Sweeney LAB3 - WIP
+
+
+
+Multi-Cloud Reality in Regulated Healthcare
+
+⚖️ Why This Lab Exists
+Many engineers fail in real life because:
+    They optimize locally
+    They assume uniform platforms
+    They treat compliance as “someone else’s problem”
+
+This lab teaches:
+    Cross-cloud thinking
+    Legal translation into architecture
+    Responsibility beyond your own stack
+    Professional restraint
+
+🎯 What This Lab Is About
+
+In this lab, you are not solving a technical problem first.
+You are solving a human, legal, and organizational problem.
+
+A Japanese medical center operates globally.
+    Tokyo is the data authority
+    Compliance is non-negotiable
+    And now:
+      The New York branch refuses to use AWS.
+
+Instead, they deploy on Google Cloud Platform (GCP).
+No negotiations. No exceptions.
+Your job is not to convince them otherwise.
+Your job is to make the system work — legally and responsibly.
+
+🧠 The First Reality: Technology Is Not the Decision
+Many engineers assume:
+    “If we pick the right platform, the problem goes away.”
+
+In real organizations:
+    Technology choices are political
+    Vendor preferences exist
+    Contracts predate architecture
+    Teams have autonomy
+    Mergers create fragmentation
+
+You will encounter:
+    AWS in one region
+    GCP in another
+    Azure somewhere else
+    Oracle, IBM, OpenShift, or on-prem in legacy branches
+
+📌 Compliance does not change just because technology does.
+
+
+🏥 Legal Constraint Still Applies (This Does Not Change)
+Even in a multi-cloud world:
+    --> Japanese patient medical data (PHI) must be stored only in Japan.
+
+This rule does not bend for:
+    GCP
+    Azure
+    “Better latency”
+    “Local autonomy”
+    “It’s inconvenient”
+
+There is:
+    No exemption
+    No workaround
+    No “temporary” exception
+
+
+🌎 What the New York Branch Is Allowed to Do
+The New York branch (on GCP) may:
+    Deploy compute only (VMs, autoscaling groups)
+    Serve doctors locally
+    Authenticate users
+    Process requests in memory
+    Call APIs across providers
+    Read and write data remotely
+
+The New York branch may not:
+    Store patient data at rest
+    Deploy databases
+    Cache medical records
+    Replicate data
+    Snapshot, export, or log PHI
+
+This is exactly the same rule as São Paulo — the platform changed, the law did not.
+
+🔗 Connectivity Must Respect Compliance
+You are now operating across:
+    Cloud providers
+    Legal jurisdictions
+    Organizational boundaries
+
+The system must ensure:
+    Secure connectivity from GCP → Japan
+    Clear network paths
+    Encryption in transit
+    Strong identity and access controls
+    Complete auditability
+
+And critically:
+    --> No accidental data persistence outside Japan
+
+This includes:
+    Disk
+    Logs
+    Queues
+    Caches
+    Backups
+    Temporary files
+
+🧑‍⚕️ Focus on the Human Experience
+    This lab is not just infrastructure.
+    You must consider three people:
+
+👩‍⚕️ Doctor (New York)
+Expectations:
+    Fast, reliable access to patient records
+    No concern about where data lives
+    No manual compliance steps
+    Trust that the system is legal
+
+Risks:
+    Latency
+    Connectivity failures
+    Partial outages
+
+Your responsibility:
+    --> Design systems where doctors never have to think about compliance — because you already did.
+
+
+🧑‍🦽 Patient (Japanese Citizen)
+Expectations:
+    Their data is protected
+    Their data is not exported
+    Their rights are respected
+    Their records are accurate
+
+Patients do not care about:
+    AWS vs GCP
+    Cloud vendors
+    Network topology
+
+They care about:
+    --> Trust
+
+Your responsibility:
+    --> Architect in a way that never betrays that trust.
+
+🧑‍💼 Manager / Executive
+Expectations:
+    Branch autonomy
+    Regulatory safety
+    No headlines
+    No fines
+    No “why didn’t you tell us?”
+
+Managers expect engineers to:
+    Anticipate risk
+    Explain tradeoffs clearly
+    Say “no” when required
+    Provide defensible designs
+
+Your responsibility:
+    --> Make compliance boring and invisible.
+
+🧠 The Core Lesson of Lab 4
+    You do not control the technology landscape.
+    You control how responsibly it is connected.
+
+Multi-cloud is not a badge of honor.
+It is a constraint.
+
+Good engineers complain.
+Great engineers adapt without breaking the law.
+
+
+🗣️ How You Should Talk About This Lab
+  If asked in an interview:
+      “We supported a medical branch on GCP while keeping all PHI in Japan.
+      The branch ran stateless compute only, and all patient data was accessed remotely under strict controls.
+      Compliance dictated the architecture — not cloud preference.”
+
+That answer signals maturity.
+
+
+
+
+
+
+
 
 ## ✍️ Authors & Acknowledgments
 
 * **Author and Group Leaders** T.I.Q.S., John Sweeney
 * **Team Member:** 
+
+
