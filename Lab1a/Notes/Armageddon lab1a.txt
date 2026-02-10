@@ -1,0 +1,124 @@
+Armageddon lab1a
+
+Region- us east-2 Ohio
+10.238.0.0/16
+
+Public
+10.238.1.0/24
+10.238.2.0/24
+10.238.3.0/24
+private
+10.238.11.0/24
+10.238.12.0/24
+10.238.13.0/24
+
+
+
+1. Create VPC
+Create a custom vpc with subnet
+Enable Regional NAT gateway 
+
+2. Security Groups=stateful virtual firewalls-Multi Layered layer 3,4,7
+
+Create two security groups
+
+One for the EC2 -
+Security group for EC2 (sg-ec2-lab) 
+Inbound HTTP TCP 80 from 0.0.0.0/0   
+SSH TCP 22 
+
+Outbound allow-all (default)
+
+
+
+One for the RDS -RDS SG 
+Type = MYSQL/Aurora 3306 custom IP = EC2 Security group
+inbound rule Set Source = sg-ec2-lab for TCP 3306
+
+
+
+3. Create RDS Database
+	1.Select full configuration
+	2.Select MySQL
+	3.Select Engine Version 8.4.7
+	4.Edit database Identifier = Name
+	5.Create Master Password = Lab1apassword
+		user name- admin
+	6. Edit Burstable classes to T.3.Micro
+	7. Edit VPC- Select your VPC
+	8. Edit existing Vpc security groups
+	   Select your RDS SG
+	9. Create Database
+4.Create Secret
+	1. Go to secrets manager- Select store new secret
+	2. Edit username and Password
+		username= admin
+		Password= Lab1apassword
+	3. Under Database tab
+	   select lab1a-database. Then click Next
+        4. Edit Secret name and description
+           Name = lab1adbsecret1
+	   Description= Secret for RDS
+	5.  Click next
+	6. Leave Configuration default--- Click next
+	7. Review page, at the bottom click store secrets
+5. Create Iam Role
+	1. Go to IAm Dashboard
+	2. Click the Roles tab in the sidebar
+	3. Click create Role
+	4. trusted Entity settings stay default
+	5. Use Case = EC2-----Select from the drop down.
+	6. Click next
+	7. Permission policies
+	   Search for secretsmanagerReadWrite
+	   Select     secretsmanagerReadWrite
+	8. Click next
+	9. Edit name--- click create
+	10. View role
+	11. In permission policies menu select your policy --SecretsmanagerReadwrite then click add permissions.
+	13 in the dropdown select create inline policy
+	14. select JSON
+        15. copy inline policy for lab1a, from the Armageddon GitHub repo
+	16. To fix the error in line 8, copy your lab1a secret ARN paste starting at the region bracket
+		
+
+
+{
+  "Version": "2012-10-17",
+  "Statement": [
+    {
+      "Sid": "ReadSpecificSecret",
+      "Effect": "Allow",
+      "Action": ["secretsmanager:GetSecretValue"],
+      "Resource": arn:aws:secretsmanager:us-east-2:571938892172:secret:1a-rds-mysql*"
+    }
+  ]
+}
+
+
+
+
+
+	17. Create policy
+6.Create Ec2
+	1. Name ec2 Lab1a Ec2
+	2. Create key pair
+	3. Edit Network settings. Select your vpc
+	4. Select existing security groups
+	    In the drop down select your Ec2-Sg
+	5. Edit advanced details
+		Edit Iam instance profile
+		Enable auto assign public IP
+		Edit user data- Copy userdata script from Armageddon GitHub lab1a
+		Edit lines 15.18,105  with your Region, and Secretid
+
+
+http://3.12.120.38/init
+http://3.12.120.38/add?note=blue_passpot_200k_traveler
+http://3.12.120.38/add?note=this_is-200k_work
+http://3.12.120.38/add?note=lab_1a-armageddon_is_successful
+http://3.12.120.38/add?note=Armageddon_is_hell
+http://3.12.120.38/add?note=blue_book_gentlemen
+http://3.12.120.38/list
+
+
