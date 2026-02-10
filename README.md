@@ -36,6 +36,8 @@ Each LAB is tracked in its own branch with unique deliverables and tasks.
 - Labs 1A-B: [Deliverables](https://github.com/jastek69/armageddon-C7-BHOEjM-Wolfpack.git)
 
 #
+**Member: Michael Dale**
+- Lab 1A through Lab 1C-Bonus-F: [Deliverables](https://github.com/MichaelDale1/Class-7-Armageddon-2026-Dale)
 ___
 
 # [🌐 LAB1]
