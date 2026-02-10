@@ -34,6 +34,8 @@ Each LAB is tracked in its own branch with unique deliverables and tasks.
 #### Deliverables
 * [T.I.Q.S]
 * [John Sweeney - Deliverable](https://github.com/jastek69/Armageddon-C7-SEIR_Foundations/tree/LAB2/LAB1-DELIVERABLES))
+* [Ernest Morris - Deliverables (https://github.com/jastek69/armageddon-C7-BHOEjM-Wolfpack.git)
+* 
 
 
 
