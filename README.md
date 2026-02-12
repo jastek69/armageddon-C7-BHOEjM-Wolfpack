@@ -26,6 +26,7 @@
   - [**Lab 1 — Secure Two-Tier Application Foundation**](#-lab-1--secure-two-tier-application-foundation)
   - [**Lab 2 — CloudFront Edge Security & Caching Mastery**](#-lab-2--cloudfront-edge-security--caching-mastery)
   - [**Lab 3 — Multi-Region Healthcare Architecture**](#-lab-3--multi-region-healthcare-architecture)
+  - [**Lab 4 — Japan Medical Multi-Cloud Reality in Regulated Healthcare**](#-lab-4--japan-medical-multi-cloud-reality-in-regulated-healthcare)
 - [**Ways Ahead / Future Enhancements**](#-ways-ahead--future-enhancements)
 - [**Why This Portfolio Stands Out**](#-why-this-portfolio-stands-out)
 - [**References**](#-references)
@@ -137,6 +138,9 @@ aws-armageddon-terraform/
 │
 ├── lab-3a/                # Cross-region base architecture (Shinjuku ↔ Liberdade)
 ├── lab-3b/                # Healthcare-grade multi-region design (PHI isolation)
+│
+├── lab-4/                 # COMING SOON
+|
 ├── Screenshots/           # Consolidated visual evidence (~200+ screenshots)
 └── README.md              # Primary portfolio documentation
 ```
@@ -291,6 +295,14 @@ terraform destroy
    - **Task**: Deliver compliance-aware multi-region architecture  
    - **Synopsis**: Enforces strict PHI residency in primary region, deploys stateless ASG in secondary region, includes full audit pack.  
    - **Key Artifacts**: Explicit PHI isolation, Transit Gateway routing, audit pack & Python scripts, end-to-end observability
+
+---
+
+### 🌍 Lab 4 — Japan Medical Multi-Cloud Reality in Regulated Healthcare
+
+![lab4-diagram](/images/lab4-diagram.png)
+
+1. [**Lab 4A - (COMING SOON)**](https://github.com/tiqsclass6/aws-armageddon-class-7.0/tree/lab-4a)  
 
 ---
 
