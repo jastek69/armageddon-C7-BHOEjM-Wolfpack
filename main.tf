@@ -125,7 +125,7 @@ resource "aws_route_table_association" "lab1c_private_rta" {
 # Security Groups (EC2 + RDS)
 ############################################
 
-resource "aws_security_group" "lab1c_ec2_sg1" {
+resource "aws_security_group" "lab1c-ec2-sg1" {
   name        = "${local.name_prefix}-ec2-sg1"
   description = "EC2 app security group"
   vpc_id      = aws_vpc.lab1c_vpc1.id
@@ -158,7 +158,7 @@ resource "aws_security_group" "lab1c_ec2_sg1" {
   }
 }
 
-resource "aws_security_group" "lab1c_rds_sg1" {
+resource "aws_security_group" "lab1c-rds-sg1" {
   name        = "${local.name_prefix}-rds-sg1"
   description = "RDS security group"
   vpc_id      = aws_vpc.lab1c_vpc1.id
@@ -169,7 +169,7 @@ resource "aws_security_group" "lab1c_rds_sg1" {
     to_port     = 3306
     protocol    = "tcp"
     security_groups = [
-      aws_security_group.lab1c_ec2_sg1.id
+      aws_security_group.lab1c-ec2-sg1.id
     ]
   }
 
@@ -205,7 +205,7 @@ resource "aws_db_instance" "lab1c_rds1" {
   password               = var.db_password
 
   db_subnet_group_name   = aws_db_subnet_group.lab1c_rds_subnet_group1.name
-  vpc_security_group_ids = [aws_security_group.lab1c_rds_sg1.id]
+  vpc_security_group_ids = [aws_security_group.lab1c-rds-sg1.id]
 
   publicly_accessible    = false
   skip_final_snapshot    = true
@@ -245,7 +245,7 @@ resource "aws_iam_role_policy" "lab1c_ec2_inline_policy" {
         Action = [
           "secretsmanager:GetSecretValue"
         ]
-        Resource = aws_secretsmanager_secret.lab1c_db_secret19.arn
+        Resource = aws_secretsmanager_secret.lab1c_db_secret20.arn
       },
       {
         Sid    = "EC2Describe"
@@ -273,7 +273,7 @@ resource "aws_instance" "lab1c_ec2" {
   ami                    = var.ec2_ami_id
   instance_type          = var.ec2_instance_type
   subnet_id              = aws_subnet.lab1c_public_subnets[0].id
-  vpc_security_group_ids = [aws_security_group.lab1c_ec2_sg1.id]
+  vpc_security_group_ids = [aws_security_group.lab1c-ec2-sg1.id]
   iam_instance_profile   = aws_iam_instance_profile.lab1c_instance_profile1.name
 
   key_name = "lab1c"
@@ -321,12 +321,12 @@ resource "aws_ssm_parameter" "lab1c_db_name_param" {
 # Secrets Manager (DB Credentials)
 ############################################
 
-resource "aws_secretsmanager_secret" "lab1c_db_secret19" {
-  name = "${local.name_prefix}/rds-mysql18"
+resource "aws_secretsmanager_secret" "lab1c_db_secret20" {
+  name = "${local.name_prefix}/rds-mysql20"
 }
 
-resource "aws_secretsmanager_secret_version" "lab1c_db_secret_version19" {
-  secret_id = aws_secretsmanager_secret.lab1c_db_secret19.id
+resource "aws_secretsmanager_secret_version" "lab1c_db_secret_version20" {
+  secret_id = aws_secretsmanager_secret.lab1c_db_secret20.id
 
   secret_string = jsonencode({
     username = var.db_username
