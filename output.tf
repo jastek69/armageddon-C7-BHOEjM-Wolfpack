@@ -41,7 +41,7 @@ output "lab1c_log_group_name" {
 }
 
 output "lab1c_db_secret_arn" {
-  value = aws_secretsmanager_secret.lab1c_db_secret19.arn
+  value = aws_secretsmanager_secret.lab1c_db_secret20.arn
 }
 
 output "lab1c_ssm_db_endpoint_param" {
