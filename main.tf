@@ -321,12 +321,12 @@ resource "aws_ssm_parameter" "lab1c_db_name_param" {
 # Secrets Manager (DB Credentials)
 ############################################
 
-resource "aws_secretsmanager_secret" "lab1c_db_secret20" {
-  name = "${local.name_prefix}/rds-mysql20"
+resource "aws_secretsmanager_secret" "lab1c_db_secret21" {
+  name = "${local.name_prefix}/rds-mysql21"
 }
 
-resource "aws_secretsmanager_secret_version" "lab1c_db_secret_version20" {
-  secret_id = aws_secretsmanager_secret.lab1c_db_secret20.id
+resource "aws_secretsmanager_secret_version" "lab1c_db_secret_version21" {
+  secret_id = aws_secretsmanager_secret.lab1c_db_secret21.id
 
   secret_string = jsonencode({
     username = var.db_username
