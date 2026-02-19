@@ -40,6 +40,12 @@ variable "ec2_ami_id" {
   default     = "ami-0532be01f26a3de55"
 }
 
+variable "aws_key_pair_name" {
+  description = "To allow SSH access into ec2"
+  type = string
+  default = "lab1c"
+}
+
 variable "ec2_instance_type" {
   description = "EC2 instance type"
   type        = string

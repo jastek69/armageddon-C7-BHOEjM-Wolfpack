@@ -1,5 +1,5 @@
 ############################################
-# Locals (naming convention: lab1c-*)
+# Locals
 ############################################
 locals {
   name_prefix = var.project_name
@@ -78,7 +78,7 @@ resource "aws_nat_gateway" "lab1c_nat" {
 }
 
 ############################################
-# Routing (Public + Private Route Tables)
+# Routing (Public + Private)
 ############################################
 
 resource "aws_route_table" "lab1c_public_rt1" {
@@ -130,6 +130,29 @@ resource "aws_security_group" "lab1c_ec2_sg1" {
   description = "EC2 app security group"
   vpc_id      = aws_vpc.lab1c_vpc1.id
 
+  ingress {
+    description = "SSH"
+    from_port   = 22
+    to_port     = 22
+    protocol    = "tcp"
+    cidr_blocks = ["0.0.0.0/0"]
+  }
+
+  ingress {
+    description = "HTTP"
+    from_port   = 80
+    to_port     = 80
+    protocol    = "http"
+    cidr_blocks = ["0.0.0.0/0"]
+  }
+
+  egress {
+    from_port   = 0
+    to_port     = 0
+    protocol    = "-1"
+    cidr_blocks = ["0.0.0.0/0"]
+  }
+
   tags = {
     Name = "${local.name_prefix}-ec2-sg1"
   }
@@ -140,11 +163,20 @@ resource "aws_security_group" "lab1c_rds_sg1" {
   description = "RDS security group"
   vpc_id      = aws_vpc.lab1c_vpc1.id
 
+  ingress {
+    description = "MySQL from EC2 only"
+    from_port   = 3306
+    to_port     = 3306
+    protocol    = "tcp"
+    security_groups = [
+      aws_security_group.lab1c_ec2_sg1.id
+    ]
+  }
+
   tags = {
     Name = "${local.name_prefix}-rds-sg1"
   }
 }
-
 
 ############################################
 # RDS Subnet Group
@@ -164,19 +196,19 @@ resource "aws_db_subnet_group" "lab1c_rds_subnet_group1" {
 ############################################
 
 resource "aws_db_instance" "lab1c_rds1" {
-  identifier        = "${local.name_prefix}-rds1"
-  engine            = var.db_engine
-  instance_class    = var.db_instance_class
-  allocated_storage = 20
-  db_name           = var.db_name
-  username          = var.db_username
-  password          = var.db_password
+  identifier             = "${local.name_prefix}-rds1"
+  engine                 = var.db_engine
+  instance_class         = var.db_instance_class
+  allocated_storage      = 20
+  db_name                = var.db_name
+  username               = var.db_username
+  password               = var.db_password
 
   db_subnet_group_name   = aws_db_subnet_group.lab1c_rds_subnet_group1.name
   vpc_security_group_ids = [aws_security_group.lab1c_rds_sg1.id]
 
-  publicly_accessible = false
-  skip_final_snapshot = true
+  publicly_accessible    = false
+  skip_final_snapshot    = true
 
   tags = {
     Name = "${local.name_prefix}-rds1"
@@ -184,7 +216,7 @@ resource "aws_db_instance" "lab1c_rds1" {
 }
 
 ############################################
-# IAM Role + Instance Profile for EC2
+# IAM Role + Inline Policy + Instance Profile
 ############################################
 
 resource "aws_iam_role" "lab1c_ec2_role1" {
@@ -193,32 +225,30 @@ resource "aws_iam_role" "lab1c_ec2_role1" {
   assume_role_policy = jsonencode({
     Version = "2012-10-17"
     Statement = [{
-      Effect    = "Allow"
+      Effect = "Allow"
       Principal = { Service = "ec2.amazonaws.com" }
-      Action    = "sts:AssumeRole"
+      Action = "sts:AssumeRole"
     }]
   })
 }
 
-resource "aws_iam_user" "lab1c_ilp" {
-  name = "role_access"
-}
-
-resource "aws_iam_user_policy" "secrets_inline_policy" {
-  name = "lab1c-inline-policy"
-  user = aws_iam_user.lab1c_ilp.name
+resource "aws_iam_role_policy" "lab1c_ec2_inline_policy" {
+  name = "${local.name_prefix}-ec2-inline-policy"
+  role = aws_iam_role.lab1c_ec2_role1.id
 
   policy = jsonencode({
     Version = "2012-10-17"
     Statement = [
       {
-        Sid      = "ReadSpecificSecret"
-        Effect   = "Allow"
-        Action   = ["secretsmanager:GetSecretValue"]
-        Resource = "${aws_secretsmanager_secret.lab1c-db-secret13.arn}"
+        Sid    = "ReadDBSecret"
+        Effect = "Allow"
+        Action = [
+          "secretsmanager:GetSecretValue"
+        ]
+        Resource = aws_secretsmanager_secret.lab1c_db_secret19.arn
       },
       {
-        Sid    = "EC2ReadAccess"
+        Sid    = "EC2Describe"
         Effect = "Allow"
         Action = [
           "ec2:DescribeInstances",
@@ -228,21 +258,6 @@ resource "aws_iam_user_policy" "secrets_inline_policy" {
       }
     ]
   })
-}
-
-resource "aws_iam_role_policy_attachment" "lab1c_ec2_ssm_attach" {
-  role       = aws_iam_role.lab1c_ec2_role1.name
-  policy_arn = "arn:aws:iam::aws:policy/AmazonSSMManagedInstanceCore"
-}
-
-resource "aws_iam_role_policy_attachment" "lab1c_ec2_secrets_attach" {
-  role       = aws_iam_role.lab1c_ec2_role1.name
-  policy_arn = "arn:aws:iam::aws:policy/SecretsManagerReadWrite"
-}
-
-resource "aws_iam_role_policy_attachment" "lab1c_ec2_cw_attach" {
-  role       = aws_iam_role.lab1c_ec2_role1.name
-  policy_arn = "arn:aws:iam::aws:policy/CloudWatchAgentServerPolicy"
 }
 
 resource "aws_iam_instance_profile" "lab1c_instance_profile1" {
@@ -261,15 +276,11 @@ resource "aws_instance" "lab1c_ec2" {
   vpc_security_group_ids = [aws_security_group.lab1c_ec2_sg1.id]
   iam_instance_profile   = aws_iam_instance_profile.lab1c_instance_profile1.name
 
+  key_name = "lab1c"
+
   tags = {
     Name = "${local.name_prefix}-ec2"
   }
-}
-
-module "key_pair" {
-  source = "terraform-aws-modules/key-pair/aws"
-  key_name = "lab1ckey"
-  create_private_key = true
 }
 
 ############################################
@@ -310,12 +321,12 @@ resource "aws_ssm_parameter" "lab1c_db_name_param" {
 # Secrets Manager (DB Credentials)
 ############################################
 
-resource "aws_secretsmanager_secret" "lab1c-db-secret13" {
-  name = "${local.name_prefix}/rds-mysql-1"
+resource "aws_secretsmanager_secret" "lab1c_db_secret19" {
+  name = "${local.name_prefix}/rds-mysql18"
 }
 
-resource "aws_secretsmanager_secret_version" "lab1-db-secret-version13" {
-  secret_id = aws_secretsmanager_secret.lab1c-db-secret13.id
+resource "aws_secretsmanager_secret_version" "lab1c_db_secret_version19" {
+  secret_id = aws_secretsmanager_secret.lab1c_db_secret19.id
 
   secret_string = jsonencode({
     username = var.db_username
@@ -330,7 +341,7 @@ resource "aws_secretsmanager_secret_version" "lab1-db-secret-version13" {
 # CloudWatch Logs (Log Group)
 ############################################
 
-resource "aws_cloudwatch_log_group" "lab1c-log-group1" {
+resource "aws_cloudwatch_log_group" "lab1c_log_group1" {
   name              = "/aws/ec2/${local.name_prefix}-rds-app"
   retention_in_days = 7
 
@@ -343,12 +354,12 @@ resource "aws_cloudwatch_log_group" "lab1c-log-group1" {
 # Custom Metric + Alarm
 ############################################
 
-resource "aws_cloudwatch_metric_alarm" "lab1c-db-alarm1" {
+resource "aws_cloudwatch_metric_alarm" "lab1c_db_alarm1" {
   alarm_name          = "${local.name_prefix}-db-connection-failure"
   comparison_operator = "GreaterThanOrEqualToThreshold"
   evaluation_periods  = 1
   metric_name         = "DBConnectionErrors"
-  namespace           = "Lab/RDSApp"
+  namespace           = "lab/rdsapp"
   period              = 300
   statistic           = "Sum"
   threshold           = 3
@@ -373,3 +384,4 @@ resource "aws_sns_topic_subscription" "lab1c_sns_sub1" {
   protocol  = "email"
   endpoint  = var.sns_email_endpoint
 }
+
