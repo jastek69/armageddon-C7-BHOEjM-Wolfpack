@@ -26,7 +26,7 @@
   - [**Lab 1 — Secure Two-Tier Application Foundation**](#-lab-1--secure-two-tier-application-foundation)
   - [**Lab 2 — CloudFront Edge Security & Caching Mastery**](#-lab-2--cloudfront-edge-security--caching-mastery)
   - [**Lab 3 — Multi-Region Healthcare Architecture**](#-lab-3--multi-region-healthcare-architecture)
-  - [**Lab 4 — Japan Medical Multi-Cloud Reality in Regulated Healthcare**](#-lab-4--japan-medical-multi-cloud-reality-in-regulated-healthcare)
+  - [**Lab 4 — Japan Medical Multi-Cloud Reality in Regulated Healthcare (AWS-GCP VPN and TGW's)**](#-lab-4--japan-medical-multi-cloud-reality-in-regulated-healthcare-aws-gcp-vpn-and-tgws)
 - [**Ways Ahead / Future Enhancements**](#-ways-ahead--future-enhancements)
 - [**Why This Portfolio Stands Out**](#-why-this-portfolio-stands-out)
 - [**References**](#-references)
@@ -38,7 +38,7 @@
 
 ## 📘 Project Overview
 
-This repository contains a **comprehensive, production-oriented AWS Terraform portfolio** developed through three progressively advanced labs and their complete bonus tracks.
+This repository contains a **comprehensive, production-oriented AWS Terraform portfolio** developed through four progressively advanced labs and their complete bonus tracks.
 
 The portfolio demonstrates **enterprise-grade cloud engineering practices**, including:
 
@@ -67,6 +67,7 @@ All infrastructure is provisioned declaratively using **Terraform**, follows **l
 - **Lab 1**: EC2, RDS, Secrets Manager, SSM, WAF, Bedrock access
 - **Lab 2**: CloudFront + ALB integration, custom domains, short TTL testing
 - **Lab 3**: Multi-region architecture, Transit Gateway permissions, compliance mindset
+- **Lab 4**: Japan Medical Multi-Cloud Reality in Regulated Healthcare (AWS-GCP VPN and TGW's)
 
 ---
 
@@ -108,6 +109,7 @@ The labs follow a deliberate progression from secure foundations to edge mastery
 1. **Lab 1** — Secure two-tier architecture, observability, automated incident response
 2. **Lab 2** — CDN correctness, origin cloaking, edge security discipline
 3. **Lab 3** — Compliance-aware multi-region architecture using Transit Gateways
+4. **Lab 4** — (COMING SOON) Multi-cloud reality with AWS-GCP VPN and Transit Gateway
 
 > Each lab includes self-contained Terraform code, bootstrap scripts, screenshots, CLI verification steps, and operational runbooks where applicable.
 
@@ -129,6 +131,7 @@ aws-armageddon-terraform/
 ├── lab-1c-bonus-f/        # CloudWatch Logs Insights incident response & correlation pack
 ├── lab-1c-bonus-g/        # Automated IR pipeline (CloudWatch → Lambda → Bedrock v1)
 ├── lab-1c-bonus-h/        # Final MTTR automation with guardrailed Bedrock reporting
+├── lab-1c-bonus-i/        # Amazon Bedrock–Assisted Incident Response Runbook
 │
 ├── lab-2a/                # CloudFront origin cloaking with WAF + ALB (edge-only ingress)
 ├── lab-2b/                # Origin-driven caching correctness (static vs dynamic paths)
@@ -138,10 +141,9 @@ aws-armageddon-terraform/
 │
 ├── lab-3a/                # Cross-region base architecture (Shinjuku ↔ Liberdade)
 ├── lab-3b/                # Healthcare-grade multi-region design (PHI isolation)
-│
-├── lab-4/                 # COMING SOON
 |
-├── Screenshots/           # Consolidated visual evidence (~200+ screenshots)
+├── lab-4/                # (COMING SOON) AWS-GCP VPN + Transit Gateway multi-cloud reality
+|
 └── README.md              # Primary portfolio documentation
 ```
 
@@ -242,6 +244,12 @@ terraform destroy
     - **Synopsis**: Refines Bedrock prompt engineering, enforces secret redaction, validates no-leak reports, and tests end-to-end pipeline.  
     - **Key Artifacts**: Guardrailed Bedrock template, **Lambda** test harness, verified Markdown & JSON deliverables, no-secrets validation
 
+11. [**Lab 1C (Bonus I) - Amazon Bedrock–Assisted Incident Response Runbook**](https://github.com/tiqsclass6/aws-armageddon-class-7.0/tree/lab-1c-bonus-i)  
+
+    - **Task**: Develop an Amazon Bedrock–assisted incident response runbook  
+    - **Synopsis**: Creates a structured runbook for leveraging Bedrock in incident response, including evidence collection, analysis, and remediation steps.  
+    - **Key Artifacts**: Incident response runbook document, example incident scenario with Bedrock-assisted analysis, remediation playbook
+
 ---
 
 ### 🌐 Lab 2 — CloudFront Edge Security & Caching Mastery
@@ -260,19 +268,19 @@ terraform destroy
    - **Synopsis**: Separates static (aggressive) and dynamic (no-cache) behaviors with managed policies and header validation.  
    - **Key Artifacts**: Managed cache & origin request policies, `Hit`, `Miss`, `Cache-Control` proof, HTTP header screenshots
 
-3. [**Lab 2B (BAM Challenge A) - Secure Front-Door Reinforcement**](https://github.com/tiqsclass6/aws-armageddon-class-7.0/tree/lab-2b-bam-a)  
+3. [**Lab 2B (BAM Challenge A) - Honors**](https://github.com/tiqsclass6/aws-armageddon-class-7.0/tree/lab-2b-bam-a)  
 
    - **Task**: Reinforce secure front-door pattern  
    - **Synopsis**: Strengthens origin protection with header gating, origin-driven caching, and IMDSv2 enforcement.  
    - **Key Artifacts**: Header-based ALB rule, cache policy disabled for dynamic paths, IMDSv2 proof, direct origin blocked
 
-4. [**Lab 2B (BAM Challenge B) - Disciplined Cache Invalidation Practice**](https://github.com/tiqsclass6/aws-armageddon-class-7.0/tree/lab-2b-bam-b)  
+4. [**Lab 2B (BAM Challenge B) - Honors+**](https://github.com/tiqsclass6/aws-armageddon-class-7.0/tree/lab-2b-bam-b)  
 
    - **Task**: Establish disciplined cache invalidation practice  
    - **Synopsis**: Prefers versioned assets, reserves invalidations for break-glass scenarios, minimizes blast radius and cost.  
    - **Key Artifacts**: Path-specific invalidation command, before/after cache header proof, break-glass runbook
 
-5. [**Lab 2B (BAM Challenge C) - Protocol-Level Caching Correctness**](https://github.com/tiqsclass6/aws-armageddon-class-7.0/tree/lab-2b-bam-c)  
+5. [**Lab 2B (BAM Challenge C) - Honors++**](https://github.com/tiqsclass6/aws-armageddon-class-7.0/tree/lab-2b-bam-c)  
 
    - **Task**: Demonstrate protocol-level caching correctness  
    - **Synopsis**: Proves conditional revalidation with `ETag`/`Last-Modified`, showing `RefreshHit` after TTL expiry.  
@@ -298,11 +306,11 @@ terraform destroy
 
 ---
 
-### 🌍 Lab 4 — Japan Medical Multi-Cloud Reality in Regulated Healthcare
+### 🧬 Lab 4 — Japan Medical Multi-Cloud Reality in Regulated Healthcare (AWS-GCP VPN and TGW's)
 
 ![lab4-diagram](/images/lab4-diagram.png)
 
-1. [**Lab 4A - (COMING SOON)**](https://github.com/tiqsclass6/aws-armageddon-class-7.0/tree/lab-4a)  
+1. [**Lab 4 - (COMING SOON)**](https://github.com/tiqsclass6/aws-armageddon-class-7.0/tree/lab-4)  
 
 ---
 
