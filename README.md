@@ -19,7 +19,30 @@ Each LAB is tracked in its own branch with unique deliverables and tasks.
 
 ### **Group Co-Leader: T.I.Q.S**
 
-- **Labs 1A – LAB 3:** [tiqsclass6 - Overview](https://github.com/tiqsclass6)
+| Lab                          | Deliverables                                                                                                  | Repo                                                                               |
+|------------------------------|---------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------|
+| **Lab 1A**                   | [README](https://github.com/tiqsclass6/aws-armageddon-class-7.0/blob/lab-1a/README.md)                        | [Repo](https://github.com/tiqsclass6/aws-armageddon-class-7.0/tree/lab-1a)         |
+| **Lab 1B/1C**                | [README](https://github.com/tiqsclass6/aws-armageddon-class-7.0/blob/lab-1b-1c/README.md)                     | [Repo](https://github.com/tiqsclass6/aws-armageddon-class-7.0/tree/lab-1b-1c)      |
+| **Lab 1C (Bonus A)**         | [README](https://github.com/tiqsclass6/aws-armageddon-class-7.0/blob/lab-1c-bonus-a/README.md)                | [Repo](https://github.com/tiqsclass6/aws-armageddon-class-7.0/tree/lab-1c-bonus-a) |
+| **Lab 1C (Bonus B)**         | [README](https://github.com/tiqsclass6/aws-armageddon-class-7.0/blob/lab-1c-bonus-b/README.md)                | [Repo](https://github.com/tiqsclass6/aws-armageddon-class-7.0/tree/lab-1c-bonus-b) |
+| **Lab 1C (Bonus C)**         | [README](https://github.com/tiqsclass6/aws-armageddon-class-7.0/blob/lab-1c-bonus-c/README.md)                | [Repo](https://github.com/tiqsclass6/aws-armageddon-class-7.0/tree/lab-1c-bonus-c) |
+| **Lab 1C (Bonus D)**         | [README](https://github.com/tiqsclass6/aws-armageddon-class-7.0/blob/lab-1c-bonus-d/README.md)                | [Repo](https://github.com/tiqsclass6/aws-armageddon-class-7.0/tree/lab-1c-bonus-d) |
+| **Lab 1C (Bonus E)**         | [README](https://github.com/tiqsclass6/aws-armageddon-class-7.0/blob/lab-1c-bonus-e/README.md)                | [Repo](https://github.com/tiqsclass6/aws-armageddon-class-7.0/tree/lab-1c-bonus-e) |
+| **Lab 1C (Bonus F)**         | [README](https://github.com/tiqsclass6/aws-armageddon-class-7.0/blob/lab-1c-bonus-f/README.md)                | [Repo](https://github.com/tiqsclass6/aws-armageddon-class-7.0/tree/lab-1c-bonus-f) |
+| **Lab 1C (Bonus G)**         | [README](https://github.com/tiqsclass6/aws-armageddon-class-7.0/blob/lab-1c-bonus-g/README.md)                | [Repo](https://github.com/tiqsclass6/aws-armageddon-class-7.0/tree/lab-1c-bonus-g) |
+| **Lab 1C (Bonus G)**         | [scripts-results](https://github.com/tiqsclass6/aws-armageddon-class-7.0/tree/lab-1c-bonus-g/scripts-results) | N/A                                                                                |
+| **Lab 1C (Bonus H)**         | [README](https://github.com/tiqsclass6/aws-armageddon-class-7.0/blob/lab-1c-bonus-h/README.md)                | [Repo](https://github.com/tiqsclass6/aws-armageddon-class-7.0/tree/lab-1c-bonus-h) |
+| **Lab 1C (Bonus H)**         | [deliverables](https://github.com/tiqsclass6/aws-armageddon-class-7.0/tree/lab-1c-bonus-h/deliverables)       | N/A                                                                                |
+| **Lab 1C (Bonus I)**         | [README](https://github.com/tiqsclass6/aws-armageddon-class-7.0/blob/lab-1c-bonus-i/README.md)                | [Repo](https://github.com/tiqsclass6/aws-armageddon-class-7.0/tree/lab-1c-bonus-i) |
+| **Lab 2A**                   | [README](https://github.com/tiqsclass6/aws-armageddon-class-7.0/blob/lab-2a/README.md)                        | [Repo](https://github.com/tiqsclass6/aws-armageddon-class-7.0/tree/lab-2a)         |
+| **Lab 2B**                   | [README](https://github.com/tiqsclass6/aws-armageddon-class-7.0/blob/lab-2b/README.md)                        | [Repo](https://github.com/tiqsclass6/aws-armageddon-class-7.0/tree/lab-2b)         |
+| **Lab 2B (BAM Challenge A)** | [README](https://github.com/tiqsclass6/aws-armageddon-class-7.0/blob/lab-2b-bam-a/README.md)                  | [Repo](https://github.com/tiqsclass6/aws-armageddon-class-7.0/tree/lab-2b-bam-a)   |
+| **Lab 2B (BAM Challenge B)** | [README](https://github.com/tiqsclass6/aws-armageddon-class-7.0/blob/lab-2b-bam-b/README.md)                  | [Repo](https://github.com/tiqsclass6/aws-armageddon-class-7.0/tree/lab-2b-bam-b)   |
+| **Lab 2B (BAM Challenge C)** | [README](https://github.com/tiqsclass6/aws-armageddon-class-7.0/blob/lab-2b-bam-c/README.md)                  | [Repo](https://github.com/tiqsclass6/aws-armageddon-class-7.0/tree/lab-2b-bam-c)   |
+| **Lab 3A**                   | [README](https://github.com/tiqsclass6/aws-armageddon-class-7.0/blob/lab-3a/README.md)                        | [Repo](https://github.com/tiqsclass6/aws-armageddon-class-7.0/tree/lab-3a)         |
+| **Lab 3B**                   | [README](https://github.com/tiqsclass6/aws-armageddon-class-7.0/blob/lab-3b/README.md)                        | [Repo](https://github.com/tiqsclass6/aws-armageddon-class-7.0/tree/lab-3b)         |
+| **Lab 3B**                   | [audit-pack](https://github.com/tiqsclass6/aws-armageddon-class-7.0/tree/lab-3b/audit-pack)                   | N/A                                                                                |
+| **Lab 3B**                   | [deliverables](https://github.com/tiqsclass6/aws-armageddon-class-7.0/tree/lab-3b/deliverables)               | N/A                                                                                |
 
 ### **Group Co-Leader: John Sweeney**
 
