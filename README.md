@@ -43,6 +43,8 @@ Each LAB is tracked in its own branch with unique deliverables and tasks.
 | **Lab 3B**                   | [README](https://github.com/tiqsclass6/aws-armageddon-class-7.0/blob/lab-3b/README.md)                        | [Repo](https://github.com/tiqsclass6/aws-armageddon-class-7.0/tree/lab-3b)         |
 | **Lab 3B**                   | [audit-pack](https://github.com/tiqsclass6/aws-armageddon-class-7.0/tree/lab-3b/audit-pack)                   | N/A                                                                                |
 | **Lab 3B**                   | [deliverables](https://github.com/tiqsclass6/aws-armageddon-class-7.0/tree/lab-3b/deliverables)               | N/A                                                                                |
+| **Lab 4**                    | [README](https://github.com/tiqsclass6/aws-armageddon-class-7.0/blob/lab-4/README.md)                         | [Repo](https://github.com/tiqsclass6/aws-armageddon-class-7.0/tree/lab-4)          |
+| **Lab 4**                    | [audit-pack](https://github.com/tiqsclass6/aws-armageddon-class-7.0/tree/lab-4/full-audit-2026)               | N/A                                                                                |
 
 ### **Group Co-Leader: John Sweeney**
 
