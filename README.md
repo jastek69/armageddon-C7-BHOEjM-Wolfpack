@@ -71,8 +71,10 @@ Each LAB is tracked in its own branch with unique deliverables and tasks.
 
 ### **Member: Jordan**
 
-- Lab 1A-Lab 1B: [Deliverables](https://github.com/Jordan14Ford/Jordan-SEIR-Armageddon)
-
+- Lab 1A-Lab 1C: [Deliverables](https://github.com/Jordan14Ford/Jordan-SEIR-Armageddon)
+-Lab 1A
+-Lab 1B
+-Lab 1C
 ---
 
 ## 🌐 LAB 1
