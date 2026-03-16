@@ -63,7 +63,7 @@ Each LAB is tracked in its own branch with unique deliverables and tasks.
 
 ### **Member: Michael Dale**
 
-- Lab 1A through Lab 1C-Bonus-F: [Deliverables](https://github.com/MichaelDale1/Class-7-Armageddon-2026-Dale)
+- Lab 1A through Lab 3B: [Deliverables](https://github.com/MichaelDale1/Class-7-Armageddon-2026-Dale)
 
 ### **Member: Benji**
 
