@@ -103,7 +103,19 @@ Each LAB is tracked in its own branch with unique deliverables and tasks.
 ## Member: Samael King**
 
 - Lab 1 (A-C): [Deliverables & Repo](https://github.com/GodEmperorKing/Armageddon-7)
-- Lab 2A: [Deliverables & Repo](https://github.com/GodEmperorKing/Armageddon-7) 
+- Lab 2A: [Deliverables & Repo](https://github.com/GodEmperorKing/Armageddon-7)
+
+### Member: Chris Jamieson
+- lab1a https://github.com/jastek69/armageddon-C7-BHOEjM-Wolfpack/tree/main/Lab1a
+- Lab1b https://github.com/jastek69/armageddon-C7-BHOEjM-Wolfpack/tree/main/Lab1b
+- Lab1c https://github.com/jastek69/armageddon-C7-BHOEjM-Wolfpack/tree/main/lab1c
+- lab1c bonus a https://github.com/jastek69/armageddon-C7-BHOEjM-Wolfpack/tree/main/lab1c.A
+- Lab1C bonus b https://github.com/jastek69/armageddon-C7-BHOEjM-Wolfpack/tree/main/lab1c.B
+- Lab1C bonus C https://github.com/jastek69/armageddon-C7-BHOEjM-Wolfpack/tree/main/lab1c.C
+- Lab1C bonus D https://github.com/jastek69/armageddon-C7-BHOEjM-Wolfpack/tree/main/lab1c.D
+- Lab1C bonus E https://github.com/jastek69/armageddon-C7-BHOEjM-Wolfpack/tree/main/lab1c.e
+- Lab1C bonus Fhttps://github.com/jastek69/armageddon-C7-BHOEjM-Wolfpack/tree/main/lab1c.F
+- Lab2a https://github.com/jastek69/armageddon-C7-BHOEjM-Wolfpack/tree/main/lab2a
 
 ### LAB 1A-B
 
