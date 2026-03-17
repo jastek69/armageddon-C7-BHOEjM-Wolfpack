@@ -1,0 +1,182 @@
+Region- us-east-2
+instance id=i-077f56b5bcfe86a1c
+secret_ID=lab1asecret1/
+Acct_ID= 571938892172
+vpc-Id= vpc-0b433682945c71296
+
+
+
+#List all security groups in a region
+
+aws ec2 describe-security-groups \
+  --region us-east-2 \
+  --query "SecurityGroups[].{GroupId:GroupId,Name:GroupName,VpcId:VpcId}" \
+  --output table
+
+#Inspect a specific security group (inbound & outbound rules)
+
+aws ec2 describe-security-groups \
+  --group-ids sg-0a062a96fae555c58\
+  --region us-east-2 \
+  --output table
+
+
+#RDS instances
+
+aws rds describe-db-instances \
+  --region us-east-2 \
+  --query "DBInstances[?contains(VpcSecurityGroups[].VpcSecurityGroupId, 'sg-0ba7aceb09e6b8a3b')].DBInstanceIdentifier" \
+  --output table
+
+output= lab1a-rds
+
+#List all RDS instances
+
+aws rds describe-db-instances \
+  --region us-east-2 \
+  --query "DBInstances[].{DB:DBInstanceIdentifier,Engine:Engine,Public:PubliclyAccessible,Vpc:DBSubnetGroup.VpcId}" \
+  --output table
+
+#Inspect a specific RDS instance
+
+aws rds describe-db-instances \
+  --db-instance-identifier database-1 \
+  --region us-east-2 \
+  --output table
+
+#Critical checks "PubliclyAccessible": false Correct VPC Correct subnet group Correct security groups
+Verify RDS security groups explicitly
+
+aws rds describe-db-instances \
+  --db-instance-identifier database-1 \
+  --region us-east-2 \
+  --query "DBInstances[].VpcSecurityGroups[].VpcSecurityGroupId" \
+  --output table
+
+#Verify RDS subnet placement
+
+aws rds describe-db-subnet-groups \
+  --region us-east-2 \
+  --query "DBSubnetGroups[].{Name:DBSubnetGroupName,Vpc:VpcId,Subnets:Subnets[].SubnetIdentifier}" \
+  --output table
+
+#What you’re verifying Private subnets only No IGW route Correct AZ spread
+
+Verify Network Exposure (Fast Sanity Checks) Check if RDS is publicly reachable (quick flag)
+
+aws rds describe-db-instances \
+  --db-instance-identifier database-1 \
+  --region us-east-2 \
+  --query "DBInstances[].PubliclyAccessible" \
+  --output table
+
+#Verify Secrets Manager (Existence, Metadata, Access)
+
+aws secretsmanager list-secrets \
+  --region us-east-2 \
+  --query "SecretList[].{Name:Name,ARN:ARN,Rotation:RotationEnabled}" \
+  --output table
+
+
+
+#What you’re verifying Secret exists Rotation state is known Naming is intentional
+
+Describe a specific secret (NO value exposure)
+
+aws secretsmanager describe-secret \
+  --secret-id lab1asecret1 \
+  --region us-east-2 \
+  --output table
+
+#Verify which IAM principals can access the secret
+
+aws secretsmanager get-resource-policy \
+  --secret-id lab1asecret1 \
+  --region us-east-2 \
+  --output table
+
+
+
+#What you’re verifying Only expected roles are listed No wildcard principals No cross-account access unless justified
+
+Verify IAM Role Attached to an EC2 Instance Step 1: Identify the EC2 instance
+
+aws ec2 describe-instances \
+  --filters Name=tag:Name,Values=lab1a-ec2 \
+  --region us-east-2 \
+  --query "Reservations[].Instances[].InstanceId" \
+  --output table
+
+
+
+#Step 2: Check the IAM role attached to the instance
+
+aws ec2 describe-instances \
+  --instance-ids i-077f56b5bcfe86a1c \
+  --region us-east-2 \
+  --query "Reservations[].Instances[].IamInstanceProfile.Arn" \
+  --output table
+
+
+
+#Expected: arn:aws:iam::571938892172:role/lab1a-role
+
+If empty → no role attached (this is a finding).
+
+Step 3: Resolve instance profile → role name
+
+aws iam get-instance-profile \
+  --instance-profile-name lab1arole \
+  --query "InstanceProfile.Roles[].RoleName" \
+  --output table
+
+
+
+#Verify IAM Role Permissions (Critical) List policies attached to the role
+
+aws iam list-attached-role-policies \
+  --role-name lab1arole \
+  --output table
+
+
+
+#List inline policies (often forgotten)
+
+aws iam list-role-policies \
+  --role-name lab1arole \
+  --output table
+
+
+
+attached policies secret manager readwrite
+
+#Inspect a specific managed policy
+
+aws iam get-policy-version \
+  --policy-arn arn:aws:iam::aws:policy/SecretsManagerReadWrite \
+  --version-id v1 \
+  --output table
+
+#Verify EC2 → RDS access path (security-group–to–security-group)
+
+aws ec2 describe-security-groups \
+  --group-ids sg-0a062a96fae555c58 \
+  --region us-east-2 \
+  --query "SecurityGroups[].IpPermissions" \
+  --output table
+  
+
+#Verify That EC2 Can Actually Read the Secret (From the Instance) From inside the EC2 instance:
+
+1	` 
+
+
+Expected:Arn: arn:aws:sts::123456789012:assumed-role/MyEC2Role/i-0123456789abcdef0
+
+Then test access:
+
+aws secretsmanager describe-secret \
+  --secret-id lab1asecret1 \
+  --region us-east-2 \
+  --output table
+

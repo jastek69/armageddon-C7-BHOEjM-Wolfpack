@@ -1,0 +1,132 @@
+log group name:/aws/ec2/lab1c-rds-app
+Secret id:lab1c/secret10
+alarm name:lab1c-db-connection-failure
+Public IP:18.222.107.160
+
+
+Runbook 1.) Confirm the Alert
+
+aws cloudwatch describe-alarms \
+  --alarm-names lab1c-db-connection-failure \
+  --query "MetricAlarms[].StateValue" \
+  --region us-east-2
+
+Expected: ALARM
+
+
+Runbook 2.) Check your application logs
+GOAL: Identify failure type.= DB, Network, Credentials
+
+
+sda00.
+
+Expected: Clear DB connection failure messages
+
+Runbook 3.) Validate configuration Sources against stored parameter values
+
+export MSYS_NO_PATHCONV=1
+  aws ssm get-parameters \
+  --names /lab/db/endpoint /lab/db/port /lab/db/name \
+  --with-decryption \
+  --region us-east-2
+
+Expected: Endpoint + port returned
+
+
+Runbook 3.2) Validate Secrets manager value
+
+ aws secretsmanager get-secret-value \
+  --secret-id "lab1c/secret10" \
+  --region us-east-2
+
+Expected: Username/password visible Compare against known-good state
+
+5.)
+
+Verify Recovery curl http://18.222.107.160/list
+
+Expected: Application returns data No errors
+
+6.)
+
+aws cloudwatch describe-alarms \
+  --alarm-names lab1c-db-connection-failure \
+  --query "MetricAlarms[].StateValue" \
+  --region us-east-2
+Expected: OK
+
+
+7.)
+
+export MSYS_NO_PATHCONV=1
+
+aws logs filter-log-events \
+  --log-group-name "/aws/ec2/lab1c-rds-app" \
+  --filter-pattern "ERROR" \
+  --region us-east-2
+Expected: No new errors
+
+
+
+
+export MSYS_NO_PATHCONV=1
+
+aws logs filter-log-events \
+  --log-group-name "/aws/ec2/lab1c-rds-app" \
+  --max-items 10 \
+  --region us-east-2
+
+################################################################
+
+################################################################
+Verify Parameter Store Values
+
+MSYS_NO_PATHCONV=1 aws ssm get-parameters \
+  --names /lab/db/endpoint /lab/db/port /lab/db/name \
+  --with-decryption \
+  --region us-east-2
+
+
+Verify Secrets Manager Value 
+aws secretsmanager get-secret-value \
+  --secret-id lab1c/secret10 \
+  --region us-east-2
+
+
+Verify EC2 Can Read Both Systems From EC2
+
+MSYS_NO_PATHCONV=1 aws ssm get-parameter \
+  --name /lab/db/endpoint \
+  --with-decryption \
+  --region us-east-2
+
+
+
+aws secretsmanager get-secret-value \
+  --secret-id lab1c/secret10 \
+  --region us-east-2
+
+
+Verify CloudWatch Log Group Exists
+
+aws logs describe-log-groups \
+  --log-group-name-prefix /aws/ec2/lab1c-rds-app \
+  --region us-east-2
+
+
+Verify DB Failure Logs Appear Simulate failure (examples): Stop RDS Change DB password in Secrets Manager without updating DB Block SG temporarily
+
+
+
+aws logs filter-log-events \
+  --log-group-name "/aws/ec2/lab1c-rds-app" \
+  --filter-pattern "ERROR" \
+  --region us-east-2
+
+
+Verify CloudWatch Alarm
+aws cloudwatch describe-alarms \
+  --alarm-name-prefix lab-db-connection
+
+
+

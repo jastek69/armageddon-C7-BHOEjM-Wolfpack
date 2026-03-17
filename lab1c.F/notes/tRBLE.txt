@@ -1,0 +1,24 @@
+aws-waf-logs-lab1c-bucket01
+
+aws iam delete-instance-profile --instance-profile-name lab1c-instance-profile01
+
+
+aws iam list-instance-profiles-for-role --role-name role-name
+
+aws iam list-instance-profiles-for-role --role-name lab1c-ec2-role01
+
+lab1c-instance-profile01
+
+aws iam delete-role-policy --role-name lab1c-ec2-role01 --policy-name lab1c-lp-ssm-read01
+
+aws iam delete-role-policy --role-name lab1c-ec2-role01 --policy-name lab1c-lp-cwlogs01
+
+aws iam delete-role-policy --role-name lab1c-ec2-role01 --policy-name lab1c-lp-secrets-read01
+
+aws iam delete-policy \
+  --policy-arn arn:aws:iam::571938892172:policy/lab1c-lp-ssm-read01
+aws iam delete-policy \
+  --policy-arn arn:aws:iam::571938892172:policy/lab1c-lp-cwlogs01
+
+aws iam delete-policy \
+  --policy-arn arn:aws:iam::571938892172:policy/lab1c-lp-secrets-read01
