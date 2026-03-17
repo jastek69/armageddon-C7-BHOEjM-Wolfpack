@@ -97,6 +97,13 @@ Each LAB is tracked in its own branch with unique deliverables and tasks.
   - [Lab 1C Bonus A Deliverables](https://github.com/UriahVictorious/Class-7---Armageddon-Project/tree/Lab1C_Bonus/Lab1C_bonus_a/DELIVERABLES)
   - [Lab 1C Bonus B Deliverables](https://github.com/UriahVictorious/Class-7---Armageddon-Project/tree/Lab1C_Bonus/Lab1C_bonus_b/DELIVERABLES)
   - [Lab 1C Bonus C Deliverables](https://github.com/UriahVictorious/Class-7---Armageddon-Project/tree/Lab1C_Bonus/Lab1C_bonus_c/DELIVERABLES)
+ 
+### **Member: Ali Zachary**
+
+- Lab 1A - 1C
+
+  - [Lab 1A - 1B Deliverables](https://github.com/cloudfighter72/C7-armageddon/tree/Lab_1A_1B/Homework/Armageddon/armageddon_lab_1a_1b)
+  - [Lab 1C Deliverables](https://github.com/cloudfighter72/C7-armageddon/tree/lab_1c/scripts-results)
 
 ---
 
