@@ -64,7 +64,7 @@ Each LAB is tracked in its own branch with unique deliverables and tasks.
 - Lab 1C-Bonus A: [Deliverables](https://github.com/snailstampede-svg/C7_Armageddon/tree/main/lab1c_bonus_a)
 - Lab 1c- Bonus B: [Deliverables](https://github.com/snailstampede-svg/C7_Armageddon/tree/main/lab1c_bonus_b)
 - Labs 1C- Bonus C&D: [Deliverables](https://github.com/snailstampede-svg/C7_Armageddon/tree/main/lab1c_bonus_d)
-- Lab 1C- Bonus E-: [Deliverables](https://github.com/snailstampede-svg/C7_Armageddon/tree/main/lab1c_bonus_e)
+- Lab 1C- Bonus E: [Deliverables](https://github.com/snailstampede-svg/C7_Armageddon/tree/main/lab1c_bonus_e)
 - Lab 1C- Bonus F: [Deliverables](https://github.com/snailstampede-svg/C7_Armageddon/tree/main/lab1c_bonus_f)
 - Lab 2A: [Deliverables](https://github.com/snailstampede-svg/C7_Armageddon/tree/main/lab2a)
 - Lab 2B: [Deliverables](https://github.com/snailstampede-svg/C7_Armageddon/tree/main/lab2b)
