@@ -84,7 +84,7 @@ Each LAB is tracked in its own branch with unique deliverables and tasks.
 
 - Lab 1 (1A, 1B, 1C-V2 + bonuses A–G): [Deliverables](https://github.com/Jordan14Ford/Jordan-SEIR-Armageddon/tree/lab1B)
 - Lab 2
-- Lab 3
+- Lab 3 https://github.com/Jordan14Ford/armageddon-C7-BHOEjM-Wolfpack/tree/main/Lab3
 
 ### **Member: Vince**
 
