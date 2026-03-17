@@ -59,7 +59,7 @@ Each LAB is tracked in its own branch with unique deliverables and tasks.
 
 ### **Member: Ernest Morris**
 
-- Labs 1A-B: [Deliverables](https://github.com/jastek69/armageddon-C7-BHOEjM-Wolfpack.git)
+- Labs 1A-B: [Deliverables](https://github.com/snailstampede-svg/C7_Armageddon.git)
 
 ### **Member: Michael Dale**
 
