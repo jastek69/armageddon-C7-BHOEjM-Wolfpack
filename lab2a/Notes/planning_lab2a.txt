@@ -1,0 +1,83 @@
+
+
+
+
+
+
+Create an AMI
+
+
+
+
+
+
+
+
+update this in previous builds
+############################################
+# ACM Certificate (TLS) for app.aster-project.site
+############################################
+
+# Explanation: TLS is the diplomatic passport — browsers trust you, and lab1c stops growling at plaintext.
+resource "aws_acm_certificate" "lab1c_acm_cert01" {
+  domain_name       = local.lab1c_fqdn
+  validation_method = var.certificate_validation_method
+  subject_alternative_names = ["${var.app_subdomain}.${var.domain_name}"]
+
+  # TODO: students can add subject_alternative_names like var.domain_name if desired
+
+  tags = {
+    Name = "${var.project_name}-acm-cert01"
+  }
+}
+
+
+
+
+resource "aws_acm_certificate" "lab2a_cf_cert01" {
+  provider          = aws.use1
+  domain_name       = var.domain_name
+  validation_method = "DNS"
+
+  subject_alternative_names = [
+    "${var.app_subdomain}.${var.domain_name}"
+  ]
+
+  tags = {
+    Name = "${var.project_name}-cf-cert01"
+  }
+}
+
+
+aws secretsmanager delete-secret \
+  --secret-id "lab2a/secret12" \
+  --force-delete-without-recovery \
+  --region us-east-2
+
+
+
+Update to this in previous builds
+resource "aws_route53_record" "lab1c_apex_alias01" {
+  zone_id = local.lab1c_zone_id
+  name =  "var.domain_name"
+  type    = "A"
+
+  alias {
+    name                   = aws_lb.lab1c_alb01.dns_name
+    zone_id                = aws_lb.lab1c_alb01.zone_id
+    evaluate_target_health = true
+  }
+}
+resource "aws_route53_record" "lab1c_apex_alias02" {
+  zone_id = local.lab1c_zone_id
+  name =  "app.var.domain_name"
+  type    = "AAAA"
+
+  alias {
+    name                   = aws_lb.lab1c_alb01.dns_name
+    zone_id                = aws_lb.lab1c_alb01.zone_id
+    evaluate_target_health = true
+  }
+}
+
+run_all_gates_lab2_alb.sh- Fails trailing period issue, and internet facing ALB, Lab2 read me says ALB is internet facing, Theo's repo has terraform code with internet facing ALB as defualt "FAIL: WAF WebACL not associated with CloudFront.\nFAIL: Route53 A alias target mismatch (expected=d3r078ts9u69ls.cloudfront.net actual=d3r078ts9u69ls.cloudfront.net.).\nFAIL: Route53 AAAA alias target mismatch (expected=d3r078ts9u69ls.cloudfront.net actual=d3r078ts9u69ls.cloudfront.net.).\nFAIL: ALB scheme is not internal (scheme=internet-facing)."]

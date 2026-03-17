@@ -1,0 +1,32 @@
+Student verification (CLI) — DNS + Logs
+
+Verify apex record exists 
+
+aws route53 list-resource-record-sets \
+--hosted-zone-id Z0399699OHTA81X4UTPF \
+--query "ResourceRecordSets[?Name=='aster-project.site.']"
+
+Verify ALB logging is enabled 
+
+aws elbv2 describe-load-balancers \
+--region us-east-2 
+--names lab1c-alb01 \
+--query "LoadBalancers[0].LoadBalancerArn" \
+
+Then: 
+
+
+
+aws elbv2 describe-load-balancer-attributes \
+  --region us-east-2 \
+  --load-balancer-arn arn:aws:elasticloadbalancing:us-east-2:571938892172:loadbalancer/app/lab1c-alb01/d2fb5aff88b43629
+
+Expected attributes include: access_logs.s3.enabled = true access_logs.s3.bucket = your bucket access_logs.s3.prefix = your prefix
+
+Generate some traffic curl -I https://aster-project.site curl -I https://app.aster-project.site
+
+Verify logs arrived in S3 (may take a few minutes) aws s3 ls s3://lab1c-alb-logs-571938892172/alb-access-logs/AWSLogs/571938892172/elasticloadbalancing/ --recursive --region us-east-2 | head
+
+Why this matters to YOU (career-critical point) This is incident response fuel: Access logs tell you: client IPs paths response codes target behavior latency
+
+Combined with WAF logs/metrics and ALB 5xx alarms, you can do real triage: “Is it attackers, misroutes, or downstream failure?”

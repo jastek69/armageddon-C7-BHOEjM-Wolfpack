@@ -1,0 +1,44 @@
+aws elbv2 describe-load-balancers \
+  --region us-east-2 \
+  --names lab1c-alb01 \
+  --query "LoadBalancers[0].State.Code"
+
+Verification commands (CLI) for Bonus-B
+
+ALB exists and is active
+
+aws elbv2 describe-load-balancers \
+  --region us-east-2 \
+  --names lab1c-alb01 \
+  --query "LoadBalancers[0].State.Code"
+
+HTTPS listener exists on 443
+
+aws elbv2 describe-listeners \
+  --region us-east-2 \
+  --load-balancer-arn arn:aws:elasticloadbalancing:us-east-2:571938892172:loadbalancer/app/lab1c-alb01/40942a96571b8aec \
+  --query "Listeners[].Port"
+
+Target is healthy
+
+aws elbv2 describe-target-health \
+  --region us-east-2 \
+  --target-group-arn arn:aws:elasticloadbalancing:us-east-2:571938892172:targetgroup/lab1c-tg01/38cad3e2d27e9289
+
+WAF attached
+
+aws wafv2 get-web-acl-for-resource \
+  --region us-east-2 \
+  --resource-arn arn:aws:elasticloadbalancing:us-east-2:571938892172:loadbalancer/app/lab1c-alb01/40942a96571b8aec
+
+Alarm created (ALB 5xx)
+
+aws cloudwatch describe-alarms \
+  --region us-east-2 \
+  --alarm-name-prefix lab1c-alb-5xx
+
+Dashboard exists
+
+aws cloudwatch list-dashboards \
+--region us-east-2 \
+--dashboard-name-prefix lab1c
