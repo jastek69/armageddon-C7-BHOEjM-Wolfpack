@@ -114,7 +114,7 @@ Each LAB is tracked in its own branch with unique deliverables and tasks.
 - Lab1C bonus C https://github.com/jastek69/armageddon-C7-BHOEjM-Wolfpack/tree/main/lab1c.C
 - Lab1C bonus D https://github.com/jastek69/armageddon-C7-BHOEjM-Wolfpack/tree/main/lab1c.D
 - Lab1C bonus E https://github.com/jastek69/armageddon-C7-BHOEjM-Wolfpack/tree/main/lab1c.e
-- Lab1C bonus Fhttps://github.com/jastek69/armageddon-C7-BHOEjM-Wolfpack/tree/main/lab1c.F
+- Lab1C bonus https://github.com/jastek69/armageddon-C7-BHOEjM-Wolfpack/tree/main/lab1c.F
 - Lab2a https://github.com/jastek69/armageddon-C7-BHOEjM-Wolfpack/tree/main/lab2a
 
 ### LAB 1A-B
