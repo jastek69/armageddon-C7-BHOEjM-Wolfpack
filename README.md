@@ -64,7 +64,7 @@ Each LAB is tracked in its own branch with unique deliverables and tasks.
 - Lab 1C-Bonus A: [Deliverables](https://github.com/snailstampede-svg/C7_Armageddon/tree/main/lab1c_bonus_a)
 - Lab 1c- Bonus B: [Deliverables](https://github.com/snailstampede-svg/C7_Armageddon/tree/main/lab1c_bonus_b)
 - Labs 1C- Bonus C&D: [Deliverables](https://github.com/snailstampede-svg/C7_Armageddon/tree/main/lab1c_bonus_d)
-- Lab 1C- Bonus E-: [Deliverables](https://github.com/snailstampede-svg/C7_Armageddon/tree/main/lab1c_bonus_e)
+- Lab 1C- Bonus E: [Deliverables](https://github.com/snailstampede-svg/C7_Armageddon/tree/main/lab1c_bonus_e)
 - Lab 1C- Bonus F: [Deliverables](https://github.com/snailstampede-svg/C7_Armageddon/tree/main/lab1c_bonus_f)
 - Lab 2A: [Deliverables](https://github.com/snailstampede-svg/C7_Armageddon/tree/main/lab2a)
 - Lab 2B: [Deliverables](https://github.com/snailstampede-svg/C7_Armageddon/tree/main/lab2b)
@@ -82,10 +82,9 @@ Each LAB is tracked in its own branch with unique deliverables and tasks.
 
 ### **Member: Jordan**
 
-- Lab 1A-Lab 1C: [Deliverables](https://github.com/Jordan14Ford/Jordan-SEIR-Armageddon)
--Lab 1A
--Lab 1B
--Lab 1C
+- Lab 1 (1A, 1B, 1C-V2 + bonuses A–G): [Deliverables](https://github.com/Jordan14Ford/Jordan-SEIR-Armageddon/tree/lab1B)
+- Lab 2
+- Lab 3
 
 ### **Member: Vince**
 
@@ -97,6 +96,13 @@ Each LAB is tracked in its own branch with unique deliverables and tasks.
   - [Lab 1C Bonus A Deliverables](https://github.com/UriahVictorious/Class-7---Armageddon-Project/tree/Lab1C_Bonus/Lab1C_bonus_a/DELIVERABLES)
   - [Lab 1C Bonus B Deliverables](https://github.com/UriahVictorious/Class-7---Armageddon-Project/tree/Lab1C_Bonus/Lab1C_bonus_b/DELIVERABLES)
   - [Lab 1C Bonus C Deliverables](https://github.com/UriahVictorious/Class-7---Armageddon-Project/tree/Lab1C_Bonus/Lab1C_bonus_c/DELIVERABLES)
+ 
+### **Member: Ali Zachary**
+
+- Lab 1A - 1C
+
+  - [Lab 1A - 1B Deliverables](https://github.com/cloudfighter72/C7-armageddon/tree/Lab_1A_1B/Homework/Armageddon/armageddon_lab_1a_1b)
+  - [Lab 1C Deliverables](https://github.com/cloudfighter72/C7-armageddon/tree/lab_1c/scripts-results)
 
 ---
 
