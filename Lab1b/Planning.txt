@@ -1,0 +1,58 @@
+
+
+
+owner id =571938892172
+
+Region- us east-1 Virginia
+VPC CIDR: 10.238.0.0/16
+VPC ID:
+VPC Name: lab1a
+
+Public
+
+
+10.238.1.0/24
+
+10.238.2.0/24
+
+10.238.3.0/24
+
+
+
+private
+
+10.238.11.0/24
+
+10.238.12.0/24
+
+10.238.13.0/24
+
+VPC id = 
+
+###Security Groups
+
+Ec2 SG
+ID:
+
+DB SG
+ID:
+
+
+
+1.create vpc
+2.Create SG
+3. Create Aurora DB
+4.Create Secret
+5. Create IAM Policy role
+6. Create Ec2
+
+###################
+Part B
+
+1. Store DB "connection" values in Parameter Store
+2. Store DB credentials in Secrets Manager
+3. Log application DB connection failures to CloudWatch Logs
+4. Create a CloudWatch Alarm that triggers when failures exceed a threshold
+5. Simulate a DB outage or credential failure
+Recover the system using saved parameters/secrets without redeploying EC2
+
