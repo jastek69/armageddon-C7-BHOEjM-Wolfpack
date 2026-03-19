@@ -45,7 +45,7 @@ Each LAB is tracked in its own branch with unique deliverables and tasks.
 | **Lab 3B**                   | [deliverables](https://github.com/tiqsclass6/aws-armageddon-class-7.0/tree/lab-3b/deliverables)               | N/A                                                                                |
 | **Lab 4**                    | [README](https://github.com/tiqsclass6/aws-armageddon-class-7.0/blob/lab-4/README.md)                         | [Repo](https://github.com/tiqsclass6/aws-armageddon-class-7.0/tree/lab-4)          |
 | **Lab 4**                    | [audit-pack](https://github.com/tiqsclass6/aws-armageddon-class-7.0/tree/lab-4/full-audit-2026)               | N/A                                                                                |
-
+---
 ### **Group Co-Leader: John Sweeney**
 
 | Lab  | Deliverables | Repo |
@@ -53,56 +53,61 @@ Each LAB is tracked in its own branch with unique deliverables and tasks.
 | Lab 1 A-B:    | [LAB 1 A-B DELIVERABLES](https://github.com/jastek69/armageddon-C7-LAB1C-H/tree/main/LAB1-DELIVERABLES) | N/A 
 | Lab 1 C-I:     | [LAB 1 C-I DELIVERABLES](https://github.com/jastek69/armageddon-C7-LAB1C-H/tree/main/LAB1-DELIVERABLES)| N/A
 | Lab 2 A-B:     |  [LAB 2 A-B - DELIVERABLES](https://github.com/jastek69/Armageddon-C7-SEIR_Foundations/tree/LAB2/)     | [Lab 2 - Code](https://github.com/jastek69/Armageddon-C7-SEIR_Foundations) 
-| Lab 3 A-B   | [Lab 3 A-B DELIVERABLES](https://github.com/jastek69/Armageddon-C7-Lab3-SEIR_Foundations/tree/main/LAB3-DELIVERABLES) | [Lab 3 - Code](https://github.com/jastek69/Armageddon-C7-Lab3-SEIR_Foundations/tree/main)
-| Lab 4    | [LAB 4 - DELIVERABLES] | [Lab 4 Code](https://github.com/jastek69/Armageddon-C7-LAB4-SEIR)
-
+| Lab 3 A-B   | [LAB 3 A-B DELIVERABLES](https://github.com/jastek69/Armageddon-C7-Lab3-SEIR_Foundations/tree/main/LAB3-DELIVERABLES) | [Lab 3 - Code](https://github.com/jastek69/Armageddon-C7-Lab3-SEIR_Foundations/tree/main)
+| Lab 4    | [LAB 4 DELIVERABLES](https://github.com/jastek69/Armageddon-C7-LAB4-SEIR/tree/main/LAB4-DELIVERABLES) | [Lab 4 Code](https://github.com/jastek69/Armageddon-C7-LAB4-SEIR)
+---
 
 ### **Member: Ernest Morris**
-
-- Labs 1A-B: [Deliverables](https://github.com/snailstampede-svg/C7_Armageddon/tree/main/lab_1ab)
-- Lab 1C: [Deliverables](https://github.com/snailstampede-svg/C7_Armageddon/tree/main/lab1c)
-- Lab 1C-Bonus A: [Deliverables](https://github.com/snailstampede-svg/C7_Armageddon/tree/main/lab1c_bonus_a)
-- Lab 1c- Bonus B: [Deliverables](https://github.com/snailstampede-svg/C7_Armageddon/tree/main/lab1c_bonus_b)
-- Labs 1C- Bonus C&D: [Deliverables](https://github.com/snailstampede-svg/C7_Armageddon/tree/main/lab1c_bonus_d)
-- Lab 1C- Bonus E: [Deliverables](https://github.com/snailstampede-svg/C7_Armageddon/tree/main/lab1c_bonus_e)
-- Lab 1C- Bonus F: [Deliverables](https://github.com/snailstampede-svg/C7_Armageddon/tree/main/lab1c_bonus_f)
-- Lab 2A: [Deliverables](https://github.com/snailstampede-svg/C7_Armageddon/tree/main/lab2a)
-- Lab 2B: [Deliverables](https://github.com/snailstampede-svg/C7_Armageddon/tree/main/lab2b)
-- Lab 2B Be_A_Man_A: [Deliverables](https://github.com/snailstampede-svg/C7_Armageddon/tree/main/lab2b_Be_A_ManA)
-- Lab 2B Be_A_Man_B: [Deliverables](https://github.com/snailstampede-svg/C7_Armageddon/tree/main/lab2b_Be_A_ManB)
-- Lab 2B Be_A_Man_C: [Deliverables](https://github.com/snailstampede-svg/C7_Armageddon/tree/main/lab2b_Be_A_ManC)
-
+| Lab  | Deliverables |
+| ------------- |-------------|
+| Labs 1A-B: | [Deliverables](https://github.com/snailstampede-svg/C7_Armageddon/tree/main/lab_1ab)
+|Lab 1C: | [Deliverables](https://github.com/snailstampede-svg/C7_Armageddon/tree/main/lab1c)
+| Lab 1C-Bonus A: | [Deliverables](https://github.com/snailstampede-svg/C7_Armageddon/tree/main/lab1c_bonus_a)
+| Lab 1c- Bonus B: | [Deliverables](https://github.com/snailstampede-svg/C7_Armageddon/tree/main/lab1c_bonus_b)
+| Labs 1C- Bonus C&D: | [Deliverables](https://github.com/snailstampede-svg/C7_Armageddon/tree/main/lab1c_bonus_d)
+| Lab 1C- Bonus E: | [Deliverables](https://github.com/snailstampede-svg/C7_Armageddon/tree/main/lab1c_bonus_e)
+| Lab 1C- Bonus F: | [Deliverables](https://github.com/snailstampede-svg/C7_Armageddon/tree/main/lab1c_bonus_f)
+| Lab 2A: |[Deliverables](https://github.com/snailstampede-svg/C7_Armageddon/tree/main/lab2a)
+| Lab 2B: | [Deliverables](https://github.com/snailstampede-svg/C7_Armageddon/tree/main/lab2b)
+| Lab 2B Be_A_Man_A: | [Deliverables](https://github.com/snailstampede-svg/C7_Armageddon/tree/main/lab2b_Be_A_ManA)
+| Lab 2B Be_A_Man_B: | [Deliverables](https://github.com/snailstampede-svg/C7_Armageddon/tree/main/lab2b_Be_A_ManB)
+| Lab 2B Be_A_Man_C: | [Deliverables](https://github.com/snailstampede-svg/C7_Armageddon/tree/main/lab2b_Be_A_ManC)
+---
 ### **Member: Michael Dale**
-
-- Lab 1A through Lab 3B: [Deliverables](https://github.com/MichaelDale1/Class-7-Armageddon-2026-Dale)
-
+| Lab  | Deliverables
+| ------------- |-------------|
+|Lab 1A through Lab 3B: | [Deliverables](https://github.com/MichaelDale1/Class-7-Armageddon-2026-Dale)
+---
 ### **Member: Benji**
-
-- Lab 1A through Lab 1G: [Deliverables](https://github.com/Newest-IT-Bro/Armageddon-repo.git)
-
+| Lab  | Deliverables
+| ------------- |-------------|
+| Lab 1A through Lab 1G:| [Deliverables](https://github.com/Newest-IT-Bro/Armageddon-repo.git)
+---
 ### **Member: Jordan**
+| Lab  | Deliverables |
+| ------------- |-------------|
+|Lab 1A, 1B, 1C-V2 + bonuses A–G: | [Deliverables](https://github.com/Jordan14Ford/Jordan-SEIR-Armageddon/tree/lab1B)
 
 - Lab 1 (1A, 1B, 1C-V2 + bonuses A–G): [Deliverables](https://github.com/Jordan14Ford/Jordan-SEIR-Armageddon/tree/lab1B)
 - Lab 2
 - Lab 3 https://github.com/Jordan14Ford/armageddon-C7-BHOEjM-Wolfpack/tree/main/Lab3
+---
 
 ### **Member: Vince**
-
-- Lab 1A through Lab 1C-BonusC:
-
-  - [Lab 1A Deliverables](https://github.com/UriahVictorious/Class-7---Armageddon-Project/tree/Lab1A/Lab%201A)
-  - [Lab 1B Deliverables](https://github.com/UriahVictorious/Class-7---Armageddon-Project/tree/Lab1B/Screenshots)
-  - [Lab 1C Deliverables](https://github.com/UriahVictorious/Class-7---Armageddon-Project/tree/Lab1C/screenshots)
-  - [Lab 1C Bonus A Deliverables](https://github.com/UriahVictorious/Class-7---Armageddon-Project/tree/Lab1C_Bonus/Lab1C_bonus_a/DELIVERABLES)
-  - [Lab 1C Bonus B Deliverables](https://github.com/UriahVictorious/Class-7---Armageddon-Project/tree/Lab1C_Bonus/Lab1C_bonus_b/DELIVERABLES)
-  - [Lab 1C Bonus C Deliverables](https://github.com/UriahVictorious/Class-7---Armageddon-Project/tree/Lab1C_Bonus/Lab1C_bonus_c/DELIVERABLES)
- 
+| Lab  | Deliverables |
+| ------------- |-------------|
+| Lab 1A: |[Deliverables](https://github.com/UriahVictorious/Class-7---Armageddon-Project/tree/Lab1A/Lab%201A)
+| Lab 1B: |[Deliverables](https://github.com/UriahVictorious/Class-7---Armageddon-Project/tree/Lab1B/Screenshots)
+| Lab 1C: |[Deliverables](https://github.com/UriahVictorious/Class-7---Armageddon-Project/tree/Lab1C/screenshots)
+| Lab 1C Bonus A: |[Deliverables](https://github.com/UriahVictorious/Class-7---Armageddon-Project/tree/Lab1C_Bonus/Lab1C_bonus_a/DELIVERABLES)
+| Lab 1C Bonus B: |[Deliverables](https://github.com/UriahVictorious/Class-7---Armageddon-Project/tree/Lab1C_Bonus/Lab1C_bonus_b/DELIVERABLES)
+| Lab 1C Bonus C: |[Deliverables](https://github.com/UriahVictorious/Class-7---Armageddon-Project/tree/Lab1C_Bonus/Lab1C_bonus_c/DELIVERABLES)
+--- 
 ### **Member: Ali Zachary**
-
-- Lab 1A - 1C
-
-  - [Lab 1A - 1B Deliverables](https://github.com/cloudfighter72/C7-armageddon/tree/Lab_1A_1B/Homework/Armageddon/armageddon_lab_1a_1b)
-  - [Lab 1C Deliverables](https://github.com/cloudfighter72/C7-armageddon/tree/lab_1c/scripts-results)
+| Lab  | Deliverables |
+| ------------- |-------------|
+|Lab 1A: |[Deliverables](https://github.com/cloudfighter72/C7-armageddon/tree/Lab_1A_1B/Homework/Armageddon/armageddon_lab_1a_1b)
+|Lab 1C: |[Deliverables](https://github.com/cloudfighter72/C7-armageddon/tree/lab_1c/scripts-results)
 
 ---
 
@@ -111,6 +116,17 @@ Each LAB is tracked in its own branch with unique deliverables and tasks.
 - Lab 1 (A-C): [Deliverables & Repo](https://github.com/GodEmperorKing/Armageddon-7)
 - Lab 2A: [Deliverables & Repo](https://github.com/GodEmperorKing/Armageddon-7) 
 
+### **Member: Anthony Bailey**
+- Lab 1A through Lab 1C-Bonus F
+    - [Deliverables](https://github.com/yearninlearnin/armageddon-dayo)
+
+## **Member: Samael King**
+| Lab  | Deliverables |
+| ------------- |-------------|
+|Lab 1 (A-C): |[Deliverables & Repo](https://github.com/GodEmperorKing/Armageddon-7)
+|Lab 2A: | [Deliverables & Repo](https://github.com/GodEmperorKing/Armageddon-7) 
+#
+#
 ### LAB 1A-B
 
 #### Deliverables
@@ -988,24 +1004,14 @@ Where “Hit / Miss / RefreshHit” come from (student-facing truth)
     Values commonly include: Hit, Miss, RefreshHit, plus other states like Error, LimitExceeded, etc.
 
 That’s why the script reports “Other:*” — so students don’t blindly ignore unusual outcomes.
-
-
-
         
-
-
-
-
-
-
-
-
+#
 
 ## 🌐 LAB 4
 #### Deliverables
- [John Sweeney: LAB 4 - DELIVERABLES] | [Lab 4 Code](https://github.com/jastek69/Armageddon-C7-LAB4-SEIR)
+ John Sweeney | [DELIVERABLES](https://github.com/jastek69/Armageddon-C7-LAB4-SEIR/tree/main/LAB4-DELIVERABLES) | [Lab 4 Code](https://github.com/jastek69/Armageddon-C7-LAB4-SEIR)
 
-
+#
 
 #### Lab 4 — Japan Medical
 Multi-Cloud Reality in Regulated Healthcare
