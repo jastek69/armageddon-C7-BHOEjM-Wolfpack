@@ -84,6 +84,7 @@ Each LAB is tracked in its own branch with unique deliverables and tasks.
 | Lab 1A through Lab 1G:| [Deliverables](https://github.com/Newest-IT-Bro/Armageddon-repo.git)
 ---
 ### **Member: Jordan**
+<<<<<<< HEAD
 | Lab  | Deliverables |
 | ------------- |-------------|
 |Lab 1A, 1B, 1C-V2 + bonuses A–G: | [Deliverables](https://github.com/Jordan14Ford/Jordan-SEIR-Armageddon/tree/lab1B)
@@ -92,6 +93,22 @@ Each LAB is tracked in its own branch with unique deliverables and tasks.
 - Lab 2
 - Lab 3 https://github.com/Jordan14Ford/armageddon-C7-BHOEjM-Wolfpack/tree/main/Lab3
 ---
+=======
+Link to entire repo
+https://github.com/Jordan14Ford/Jordan-SEIR-Armageddon/tree/main
+- Lab 1 (1A, 1B, 1C-V2 + bonuses A–G): [Deliverables](https://github.com/Jordan14Ford/Jordan-SEIR-Armageddon/tree/lab1B)
+- Lab 2 https://github.com/Jordan14Ford/Jordan-SEIR-Armageddon/tree/main/Lab2
+- Lab 3 https://github.com/Jordan14Ford/Jordan-SEIR-Armageddon/tree/main/Lab3
+
+### **Member: Jordan**
+
+### Entire Repo 
+- [Full Repository](https://github.com/Jordan14Ford/Jordan-SEIR-Armageddon/tree/main)
+### Lab 1 to Lab 3
+- [Lab 1 (1A–1C + Bonuses A–G) Deliverables](https://github.com/Jordan14Ford/Jordan-SEIR-Armageddon/tree/lab1B)
+- [Lab 2 Deliverables](https://github.com/Jordan14Ford/Jordan-SEIR-Armageddon/tree/main/Lab2)
+- [Lab 3 Deliverables](https://github.com/Jordan14Ford/Jordan-SEIR-Armageddon/tree/main/Lab3)
+>>>>>>> 0b03960 (Update README with repository and lab links)
 
 ### **Member: Vince**
 | Lab  | Deliverables |
