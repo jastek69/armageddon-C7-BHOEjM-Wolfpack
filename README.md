@@ -45,55 +45,70 @@ Each LAB is tracked in its own branch with unique deliverables and tasks.
 | **Lab 3B**                   | [deliverables](https://github.com/tiqsclass6/aws-armageddon-class-7.0/tree/lab-3b/deliverables)               | N/A                                                                                |
 | **Lab 4**                    | [README](https://github.com/tiqsclass6/aws-armageddon-class-7.0/blob/lab-4/README.md)                         | [Repo](https://github.com/tiqsclass6/aws-armageddon-class-7.0/tree/lab-4)          |
 | **Lab 4**                    | [audit-pack](https://github.com/tiqsclass6/aws-armageddon-class-7.0/tree/lab-4/full-audit-2026)               | N/A                                                                                |
+
 ---
+
 ### **Group Co-Leader: John Sweeney**
 
 | Lab  | Deliverables | Repo |
 | ------------- |-------------|-------------:|
-| Lab 1 A-B:    | [LAB 1 A-B DELIVERABLES](https://github.com/jastek69/armageddon-C7-LAB1C-H/tree/main/LAB1-DELIVERABLES) | N/A 
+| Lab 1 A-B:    | [LAB 1 A-B DELIVERABLES](https://github.com/jastek69/armageddon-C7-LAB1C-H/tree/main/LAB1-DELIVERABLES) | N/A
 | Lab 1 C-I:     | [LAB 1 C-I DELIVERABLES](https://github.com/jastek69/armageddon-C7-LAB1C-H/tree/main/LAB1-DELIVERABLES)| N/A
-| Lab 2 A-B:     |  [LAB 2 A-B - DELIVERABLES](https://github.com/jastek69/Armageddon-C7-SEIR_Foundations/tree/LAB2/)     | [Lab 2 - Code](https://github.com/jastek69/Armageddon-C7-SEIR_Foundations) 
+| Lab 2 A-B:     |  [LAB 2 A-B - DELIVERABLES](https://github.com/jastek69/Armageddon-C7-SEIR_Foundations/tree/LAB2/)     | [Lab 2 - Code](https://github.com/jastek69/Armageddon-C7-SEIR_Foundations)
 | Lab 3 A-B   | [LAB 3 A-B DELIVERABLES](https://github.com/jastek69/Armageddon-C7-Lab3-SEIR_Foundations/tree/main/LAB3-DELIVERABLES) | [Lab 3 - Code](https://github.com/jastek69/Armageddon-C7-Lab3-SEIR_Foundations/tree/main)
 | Lab 4    | [LAB 4 DELIVERABLES](https://github.com/jastek69/Armageddon-C7-LAB4-SEIR/tree/main/LAB4-DELIVERABLES) | [Lab 4 Code](https://github.com/jastek69/Armageddon-C7-LAB4-SEIR)
+
 ---
 
 ### **Member: Ernest Morris**
+
 | Lab  | Deliverables |
 | ------------- |-------------|
 | Labs 1A-B: | [Deliverables](https://github.com/snailstampede-svg/C7_Armageddon/tree/main/lab_1ab)
 |Lab 1C: | [Deliverables](https://github.com/snailstampede-svg/C7_Armageddon/tree/main/lab1c)
-| Lab 1C-Bonus A: | [Deliverables](https://github.com/snailstampede-svg/C7_Armageddon/tree/main/lab1c_bonus_a)
-| Lab 1c- Bonus B: | [Deliverables](https://github.com/snailstampede-svg/C7_Armageddon/tree/main/lab1c_bonus_b)
-| Labs 1C- Bonus C&D: | [Deliverables](https://github.com/snailstampede-svg/C7_Armageddon/tree/main/lab1c_bonus_d)
-| Lab 1C- Bonus E: | [Deliverables](https://github.com/snailstampede-svg/C7_Armageddon/tree/main/lab1c_bonus_e)
-| Lab 1C- Bonus F: | [Deliverables](https://github.com/snailstampede-svg/C7_Armageddon/tree/main/lab1c_bonus_f)
-| Lab 2A: |[Deliverables](https://github.com/snailstampede-svg/C7_Armageddon/tree/main/lab2a)
+| Lab 1C: Bonus A: | [Deliverables](https://github.com/snailstampede-svg/C7_Armageddon/tree/main/lab1c_bonus_a)
+| Lab 1C: Bonus B: | [Deliverables](https://github.com/snailstampede-svg/C7_Armageddon/tree/main/lab1c_bonus_b)
+| Lab 1C: Bonus C&D: | [Deliverables](https://github.com/snailstampede-svg/C7_Armageddon/tree/main/lab1c_bonus_d)
+| Lab 1C: Bonus E: | [Deliverables](https://github.com/snailstampede-svg/C7_Armageddon/tree/main/lab1c_bonus_e)
+| Lab 1C: Bonus F: | [Deliverables](https://github.com/snailstampede-svg/C7_Armageddon/tree/main/lab1c_bonus_f)
+| Lab 2A: | [Deliverables](https://github.com/snailstampede-svg/C7_Armageddon/tree/main/lab2a)
 | Lab 2B: | [Deliverables](https://github.com/snailstampede-svg/C7_Armageddon/tree/main/lab2b)
 | Lab 2B Be_A_Man_A: | [Deliverables](https://github.com/snailstampede-svg/C7_Armageddon/tree/main/lab2b_Be_A_ManA)
 | Lab 2B Be_A_Man_B: | [Deliverables](https://github.com/snailstampede-svg/C7_Armageddon/tree/main/lab2b_Be_A_ManB)
 | Lab 2B Be_A_Man_C: | [Deliverables](https://github.com/snailstampede-svg/C7_Armageddon/tree/main/lab2b_Be_A_ManC)
+
 ---
+
 ### **Member: Michael Dale**
+
 | Lab  | Deliverables
 | ------------- |-------------|
 |Lab 1A through Lab 3B: | [Deliverables](https://github.com/MichaelDale1/Class-7-Armageddon-2026-Dale)
+
 ---
+
 ### **Member: Benji**
+
 | Lab  | Deliverables
 | ------------- |-------------|
 | Lab 1A through Lab 1G:| [Deliverables](https://github.com/Newest-IT-Bro/Armageddon-repo.git)
+
 ---
+
 ### **Member: Jordan**
+
 | Lab  | Deliverables |
 | ------------- |-------------|
 |Lab 1A, 1B, 1C-V2 + bonuses A–G: | [Deliverables](https://github.com/Jordan14Ford/Jordan-SEIR-Armageddon/tree/lab1B)
 
 - Lab 1 (1A, 1B, 1C-V2 + bonuses A–G): [Deliverables](https://github.com/Jordan14Ford/Jordan-SEIR-Armageddon/tree/lab1B)
 - Lab 2
-- Lab 3 https://github.com/Jordan14Ford/armageddon-C7-BHOEjM-Wolfpack/tree/main/Lab3
+- Lab 3 <https://github.com/Jordan14Ford/armageddon-C7-BHOEjM-Wolfpack/tree/main/Lab3>
+
 ---
 
 ### **Member: Vince**
+
 | Lab  | Deliverables |
 | ------------- |-------------|
 | Lab 1A: |[Deliverables](https://github.com/UriahVictorious/Class-7---Armageddon-Project/tree/Lab1A/Lab%201A)
@@ -102,8 +117,11 @@ Each LAB is tracked in its own branch with unique deliverables and tasks.
 | Lab 1C Bonus A: |[Deliverables](https://github.com/UriahVictorious/Class-7---Armageddon-Project/tree/Lab1C_Bonus/Lab1C_bonus_a/DELIVERABLES)
 | Lab 1C Bonus B: |[Deliverables](https://github.com/UriahVictorious/Class-7---Armageddon-Project/tree/Lab1C_Bonus/Lab1C_bonus_b/DELIVERABLES)
 | Lab 1C Bonus C: |[Deliverables](https://github.com/UriahVictorious/Class-7---Armageddon-Project/tree/Lab1C_Bonus/Lab1C_bonus_c/DELIVERABLES)
---- 
+
+---
+
 ### **Member: Ali Zachary**
+
 | Lab  | Deliverables |
 | ------------- |-------------|
 |Lab 1A: |[Deliverables](https://github.com/cloudfighter72/C7-armageddon/tree/Lab_1A_1B/Homework/Armageddon/armageddon_lab_1a_1b)
@@ -111,17 +129,30 @@ Each LAB is tracked in its own branch with unique deliverables and tasks.
 
 ---
 
-## Member: Samael King**
+## **Member: Samael King**
 
 - Lab 1 (A-C): [Deliverables & Repo](https://github.com/GodEmperorKing/Armageddon-7/tree/main/lab1)
 - Lab 2A: [Deliverables & Repo](https://github.com/GodEmperorKing/Armageddon-7/tree/main/lab2)
 
-### **Member: Anthony Bailey**
-- Lab 1A through Lab 1C-Bonus F
-    - [Deliverables](https://github.com/yearninlearnin/armageddon-dayo)
+---
 
-#
-#
+### **Member: Anthony Bailey**
+
+- Lab 1A through Lab 1C-Bonus F
+  - [Deliverables](https://github.com/yearninlearnin/armageddon-dayo)
+
+---
+
+### **Member: Dante Dorsey**
+
+- Lab 1A-1B and Lab 1C
+
+  - Lab 1a [Deliverables & Repo](https://github.com/demonte17/armageddon_class7_lab_1a.git)
+  - Lab 1b [Deliverables & Repo](https://github.com/demonte17/armageddon_class7_lab_1b.git)
+  - Lab 1c [Deliverables & Repo](https://github.com/demonte17/armageddon_class7_lab1c.git)
+
+---
+
 ### LAB 1A-B
 
 #### Deliverables
@@ -420,31 +451,30 @@ This repo is intentionally incomplete:
 - Incident runbook execution notes (alarm fired + recovered)
 
 ## 🌐 LAB 2
+
 #### Deliverables
+
 [John Sweeney: LAB 2 A-B - DELIVERABLES](https://github.com/jastek69/Armageddon-C7-SEIR_Foundations/tree/LAB2/)     | [Lab 2 - Code](https://github.com/jastek69/Armageddon-C7-SEIR_Foundations)
 
 ### Lab 2A = “Origin Cloaking + CloudFront as the only public ingress.”
+
 The clean, realistic interpretation of your requirement (and what big orgs actually do) is:
 Only CloudFront is publicly reachable. ALB is still “internet-facing” (because CloudFront must reach it), but it’s cloaked so direct access is blocked: Security Group allows inbound only from the AWS-managed CloudFront origin-facing prefix list (com.amazonaws.global.cloudfront.origin-facing). ALB listener requires a secret custom header that only CloudFront adds. WAF moves to CloudFront (WAFv2 scope = "CLOUDFRONT"), and it is associated to the distribution. chewbacca-growl.com (and app.chewbacca-growl.com) alias to CloudFront.
 
-### LAB 2B: stop “using CloudFront” and start operating CloudFront correctly.
+### LAB 2B: stop “using CloudFront” and start operating CloudFront correctly
 
-The entire lab is built around one idea AWS emphasizes: cache key (cache policy) and origin forwarding (origin request policy) are different knobs, and getting them wrong causes real incidents (user A sees user B’s data, auth breaks, “random 403s,” etc.). https://docs.aws.amazon.com/AmazonCloudFront/latest/DeveloperGuide/understanding-how-origin-request-policies-and-cache-policies-work-together.html?utm_source=chatgpt.com
+The entire lab is built around one idea AWS emphasizes: cache key (cache policy) and origin forwarding (origin request policy) are different knobs, and getting them wrong causes real incidents (user A sees user B’s data, auth breaks, “random 403s,” etc.). <https://docs.aws.amazon.com/AmazonCloudFront/latest/DeveloperGuide/understanding-how-origin-request-policies-and-cache-policies-work-together.html?utm_source=chatgpt.com>
 
 Below is a full Lab 2B package: project intro + workforce relevance expected deliverables Terraform overlay (Chewbacca style, skeleton where students fill values) correctness tests (curl + headers + “cache poisoning” checks)
 
-
-
-
-
-
-
 ## 🌐 LAB 3
+
 #### Deliverables
+
  [John Sweeney: Lab 3 A-B DELIVERABLES](https://github.com/jastek69/Armageddon-C7-Lab3-SEIR_Foundations/tree/main/LAB3-DELIVERABLES) | [Lab 3 - Code](https://github.com/jastek69/Armageddon-C7-Lab3-SEIR_Foundations/tree/main)
 
-
 #### Lab 3 — Japan Medical
+
 Cross-Region Architecture with Legal Data Residency (APPI Compliance)
 Scenario Overview
   A Japanese medical organization operates:
@@ -476,6 +506,7 @@ That single sentence is the key mental shift.
 Legal Reality → Architectural Consequence
 
 Because of APPI:
+
 | Component             | Allowed Location                           |
 | --------------------- | ------------------------------------------ |
 | RDS (Medical Records) | **Tokyo only** (`ap-northeast-1`)          |
@@ -539,7 +570,7 @@ In regulated environments:
 That matters for audits.
 
 CloudFront’s Role (Single URL, Multiple Regions)
-  There is only one public URL: https://chewbacca-growls.com
+  There is only one public URL: <https://chewbacca-growls.com>
 
 CloudFront:
     Terminates TLS
@@ -644,8 +675,8 @@ One Sentence to Remember
 
 That sentence is the heart of modern regulated cloud architecture.
 
-
 ### LAB 3A
+
 Lab 3A — Japan Medical
 Cross-Region Architecture with Transit Gateway (APPI-Compliant)
 
@@ -689,7 +720,7 @@ It contains:
     Transit Gateway (hub)
     Parameter Store & Secrets Manager (authoritative)
     Logging, auditing, backups
-    Really hot chicks who need men to impregnate them. 
+    Really hot chicks who need men to impregnate them.
 
 All data at rest lives here.
 If Tokyo is unavailable:
@@ -749,7 +780,7 @@ The entire path stays on the AWS backbone and is encrypted in transit.
 
 🌐 Single Global URL
 
-There is only one public URL: https://chewbacca-growls.com
+There is only one public URL: <https://chewbacca-growls.com>
 
 CloudFront:
     Terminates TLS
@@ -877,11 +908,8 @@ That answer will stop the room.
 🧠 One Sentence to Remember---> Global access does not require global storage.
     Anothe Sentence to Remember ---> I completed this lab in 2026 and now in 2029, I have a family.
 
-
-
-
-
 ### LAB 3B
+
 Deliverables (Students must submit)
 Deliverable A — “Audit Evidence Pack” (one folder)
 
@@ -900,6 +928,7 @@ Deliverable B — One paragraph “auditor narrative”
 “この設計が APPI 的に安全で、なぜ DB を海外に置けないか”を 8〜12 行で説明。
 
 Verification Commands (CLI proof students can paste)
+
 1) Data residency proof (RDS only in Tokyo)
 
     Tokyo: RDS exists
@@ -912,7 +941,6 @@ Verification Commands (CLI proof students can paste)
             aws rds describe-db-instances --region sa-east-1 \
           --query "DBInstances[].DBInstanceIdentifier"
 
-
 2) Edge proof (CloudFront logs show cache + access)
     Students capture request headers:
 
@@ -920,25 +948,24 @@ Verification Commands (CLI proof students can paste)
 
 And/or submit CloudFront standard log evidence (Hit/Miss/RefreshHit)
 
-3) WAF proof
+1) WAF proof
 
 Provide:
         WAF log snippet or Insights summary
-        WAF logging destination options are documented 
+        WAF logging destination options are documented
 
-
-4) Change proof (CloudTrail)
-CloudTrail has event history with a 90-day immutable record of management events 
+1) Change proof (CloudTrail)
+CloudTrail has event history with a 90-day immutable record of management events
 
 Students capture:
         --> “who changed SG / TGW route / WAF / CloudFront config”
 
-5) Network corridor proof (TGW)
+1) Network corridor proof (TGW)
 Students prove:
         TGW attachments exist in both regions
         routes point cross-region CIDRs to TGW
 
-6) AWS CLI verification (students can prove the bucket/logs exist)
+2) AWS CLI verification (students can prove the bucket/logs exist)
 
         aws s3 ls s3://Class_Lab3/
         # If logs are under a folder/prefix:
@@ -965,7 +992,7 @@ WAF logging destinations: CloudWatch Logs, S3, Firehose.
 Script 5 — malgus_cloudfront_log_explainer.py (optional)
 If you ingest CloudFront standard logs into S3, this script reads a log file and counts Hit/Miss/RefreshHit.
 
-CloudFront standard logs reference Hit / RefreshHit semantics. 
+CloudFront standard logs reference Hit / RefreshHit semantics.
 A) Standard logs in S3 (downloaded locally)
 
         python3 malgus_cloudfront_log_explainer.py --mode standard cloudfront.log.gz
@@ -986,7 +1013,6 @@ Running Scripts:
         python3 malgus_cloudfront_log_explainer.py --prefix cloudfront-logs/ --latest 10
         python3 malgus_cloudfront_log_explainer.py --prefix cloudfront-logs/ --latest 5 --keep
 
-
 From stdin (nice for pipelines)
 
         zcat cloudfront.log.gz | python3 malgus_cloudfront_log_explainer.py --mode standard -
@@ -999,19 +1025,21 @@ Where “Hit / Miss / RefreshHit” come from (student-facing truth)
     Values commonly include: Hit, Miss, RefreshHit, plus other states like Error, LimitExceeded, etc.
 
 That’s why the script reports “Other:*” — so students don’t blindly ignore unusual outcomes.
-        
+
 #
 
 ## 🌐 LAB 4
-#### Deliverables
-* [John Sweeney - Deliverables](https://github.com/jastek69/armageddon-C7-LAB1C-H/tree/main/LAB1C-H-DELIVERABLES)
 
+#### Deliverables
+
+* [John Sweeney - Deliverables](https://github.com/jastek69/armageddon-C7-LAB1C-H/tree/main/LAB1C-H-DELIVERABLES)
 
 What you’re building:
 
 When an alarm fires, you will automatically:
+
   1) collect evidence (alarm metadata + Logs Insights + param/secret reads)
-  2) generate a structured incident report using Amazon Bedrock Runtime InvokeModel 
+  2) generate a structured incident report using Amazon Bedrock Runtime InvokeModel
   3) store report + evidence bundle to S3
   4) notify the on-call engineer (SNS)
 
@@ -1028,6 +1056,7 @@ A) Evidence bundle (JSON)
 s3://<bucket>/reports/<incident_id>.json
 
 Must contain:
+
   1) incident_id
   2) time_window_utc (start/end)
   3) alarm (name, metric, threshold, state)
@@ -1040,7 +1069,7 @@ s3://<bucket>/reports/<incident_id>.md
 
 Must follow your template headings exactly.
 
-2) The Logs Insights Query Pack (Minimum required)
+1) The Logs Insights Query Pack (Minimum required)
 Your Lambda must run at least these via Logs Insights:
   App: error rate over time (bin 1m)
   App: latest 50 DB-related error lines
@@ -1049,24 +1078,22 @@ Your Lambda must run at least these via Logs Insights:
 
 This is built on StartQuery + GetQueryResults.
 
-3) Bedrock invocation: two supported paths (You need to pick one)
+1) Bedrock invocation: two supported paths (You need to pick one)
 
-Critical reality: Bedrock request bodies differ per model provider/family. 
-AWS explicitly warns that models differ in what they accept/return. 
-Documentation: https://docs.aws.amazon.com/bedrock/latest/userguide/inference-invoke.html?utm_source=chatgpt.com
-
+Critical reality: Bedrock request bodies differ per model provider/family.
+AWS explicitly warns that models differ in what they accept/return.
+Documentation: <https://docs.aws.amazon.com/bedrock/latest/userguide/inference-invoke.html?utm_source=chatgpt.com>
 
 Option 1: Anthropic Claude via Bedrock “messages” style payload
-Use AWS’s own examples as the canonical reference. 
-AWS Documentation: https://docs.aws.amazon.com/bedrock/latest/userguide/bedrock-runtime_example_bedrock-runtime_InvokeModel_AnthropicClaude_section.html?utm_source=chatgpt.com
-
+Use AWS’s own examples as the canonical reference.
+AWS Documentation: <https://docs.aws.amazon.com/bedrock/latest/userguide/bedrock-runtime_example_bedrock-runtime_InvokeModel_AnthropicClaude_section.html?utm_source=chatgpt.com>
 
 Python snippet (framework): claude.py (folder)
 
 Option 2: “Generic” InvokeModel (students adapt)
 This exists to teach them to read provider-specific schemas and not cargo-cult. Start here, then adapt based on the model chosen
 
-4) Lambda packaging: the clean “class-safe” way
+1) Lambda packaging: the clean “class-safe” way
 Directory
 
 lambda_ir_reporter/
@@ -1075,11 +1102,9 @@ lambda_ir_reporter/
   build.sh
   lambda_ir_reporter.zip
 
-
 build.sh (students run locally)
 
-
-#!/usr/bin/env bash
+# !/usr/bin/env bash
 set -euo pipefail
 
 rm -rf build lambda_ir_reporter.zip
@@ -1087,18 +1112,18 @@ mkdir -p build
 
 cp handler.py build/
 
-# If you add external deps (usually you don't need any for boto3):
+# If you add external deps (usually you don't need any for boto3)
+
 # pip install -r requirements.txt -t build/
 
 cd build
 zip -r ../lambda_ir_reporter.zip .
 cd ..
 
-
 Then in Terraform:
   filename = "lambda_ir_reporter.zip"
 
-5) “Fake alarm event” test harness (no waiting for real alarms)
+1) “Fake alarm event” test harness (no waiting for real alarms)
 SNS → Lambda payloads can vary, so students should make Lambda accept:
   direct SNS event (Records[0].Sns.Message)
   or direct test JSON
@@ -1116,7 +1141,7 @@ Local test event (paste into Lambda console “Test”)
   ]
 }
 
-Lambda parsing pattern (required) 
+Lambda parsing pattern (required)
 
 def parse_alarm_event(event):
     # SNS wrapped?
@@ -1128,7 +1153,7 @@ def parse_alarm_event(event):
             return {"raw_message": msg}
     return event
 
-6) How students validate success (objective)
+1) How students validate success (objective)
 A) Confirm Lambda invoked
   aws logs tail /aws/lambda/<function-name> --since 10m
 
@@ -1141,8 +1166,7 @@ C) Open the report
 D) Confirm the evidence bundle does NOT include secrets
   aws s3 cp s3://<REPORT_BUCKET>/reports/<incident_id>.json - | grep -i password && echo "FAIL"
 
-
-7) “No hallucinations” enforcement (advanced requirement)
+1) “No hallucinations” enforcement (advanced requirement)
 Inside the prompt you give Bedrock, include:
   “Use only evidence”
   “If unknown, say Unknown”
@@ -1150,14 +1174,14 @@ Inside the prompt you give Bedrock, include:
 
 This matches the Bedrock guidance that you pass model-specific inference parameters in the request body—students must shape the prompt accordingly.
 
-8) Add the missing Terraform glue (SNS publish + report-ready)
+1) Add the missing Terraform glue (SNS publish + report-ready)
 You already have SNS and Lambda wired. Add a second SNS message (optional but fun):
   Subject: IR Report Ready
   Message: S3 path + incident_id
 
 This is just sns.publish(...) (you already used it).
 
-9) Upgrade path (extra credit, very “enterprise”)
+1) Upgrade path (extra credit, very “enterprise”)
 A) Attach the report to the incident thread
   send the S3 path in SNS email
   or publish to Slack via webhook (optional)
@@ -1169,24 +1193,13 @@ B) Add a “Deep report” mode
 
 C) Add WAF redaction / filtering
 AWS WAF supports redacted fields and filtering when enabling logging.
-Documentation: https://docs.aws.amazon.com/waf/latest/developerguide/logging-destinations.html?utm_source=chatgpt.com
-
-
-
-
-
-
-
-
-
-
-
-
+Documentation: <https://docs.aws.amazon.com/waf/latest/developerguide/logging-destinations.html?utm_source=chatgpt.com>
 
 ## LAB1C-Bonus-I Auto-IR Runbook
-#### Deliverables
-* [John Sweeney - Deliverables](https://github.com/jastek69/armageddon-C7-LAB1C-H/tree/main/LAB1C-H-DELIVERABLES)
 
+#### Deliverables
+
+* [John Sweeney - Deliverables](https://github.com/jastek69/armageddon-C7-LAB1C-H/tree/main/LAB1C-H-DELIVERABLES)
 
 Human + Amazon Bedrock Incident Response
 
@@ -1196,61 +1209,57 @@ This runbook defines how a human on-call engineer uses the Bedrock-generated inc
 Core rule:
 Bedrock accelerates analysis. Humans own correctness.
 
-
-
-
-
-
 ---
 
 ## [🌐 LAB2]
-#### Deliverables
-* [John Sweeney LAB2 - DELIVERABLES](https://github.com/jastek69/Armageddon-C7-SEIR_Foundations/tree/LAB2/LAB2-DELIVERABLES)
-* [John Sweeney LAB2 - Code](https://github.com/jastek69/Armageddon-C7-SEIR_Foundations)
 
+#### Deliverables
+
+* [John Sweeney LAB2 - DELIVERABLES](https://github.com/jastek69/Armageddon-C7-SEIR_Foundations/tree/LAB2/LAB2-DELIVERABLES)
+- [John Sweeney LAB2 - Code](https://github.com/jastek69/Armageddon-C7-SEIR_Foundations)
 
 ### Repurpose
 
-* Build on **Be A Man 1.1**
-* Connect to the **running EC2 instance** via SSH
-* Use **Vim** to edit `/var/www/html/index.html`
-* Add additional deliverables (wife, yacht, motivation)
+- Build on **Be A Man 1.1**
+- Connect to the **running EC2 instance** via SSH
+- Use **Vim** to edit `/var/www/html/index.html`
+- Add additional deliverables (wife, yacht, motivation)
 
 ### Tasker 2
 
 ### HW - Be A Man Challenge 1.2 (10 pts)
 
-* Must be in a GitHub repo link
+- Must be in a GitHub repo link
 
-* Modify the currently running web server from 1.1 to add:
+- Modify the currently running web server from 1.1 to add:
 
   ```plaintext
   "I found my wife on a party yacht in <insert location here>! 
   Her name is <insert name here>!"
   ```
 
-* Include a picture of the **woman you will have 5 sons by after making your cloud money**
+- Include a picture of the **woman you will have 5 sons by after making your cloud money**
 
 ---
 
 ## [🌐 LAB 3]
+
 [John Sweeney LAB3 - Deliverables](https://github.com/jastek69/Armageddon-C7-Lab3-SEIR_Foundations/tree/main/LAB3-DELIVERABLES)
 [John Sweeney LAB3 - Code](https://github.com/jastek69/Armageddon-C7-Lab3-SEIR_Foundations/tree/main)
-
 
 ## 📝 Summary
 
 Through these challenges, you will learn how to:
 
-* Launch and configure a **custom webserver** on AWS EC2
-* Serve personalized content through Apache and HTML
-* Connect to a live instance and update it in real time
-* Troubleshoot AWS instances with security groups, Apache service, and logs
-* Build confidence in maintaining a **live cloud service**
-* Scale infrastructure using multi-region Terraform deployments
-* Perform Git operations including listing, branching, and pull requests
-* Practice Git merge workflows with pull requests and screenshots
-* **Automate and secure infrastructure** using Terraform for multi-region design
+- Launch and configure a **custom webserver** on AWS EC2
+- Serve personalized content through Apache and HTML
+- Connect to a live instance and update it in real time
+- Troubleshoot AWS instances with security groups, Apache service, and logs
+- Build confidence in maintaining a **live cloud service**
+- Scale infrastructure using multi-region Terraform deployments
+- Perform Git operations including listing, branching, and pull requests
+- Practice Git merge workflows with pull requests and screenshots
+- **Automate and secure infrastructure** using Terraform for multi-region design
 
 👉 Completing these tasks is the **next step in the Be A Man journey** toward mastering cloud automation.
 
@@ -1258,23 +1267,25 @@ Through these challenges, you will learn how to:
 
 ## ✍️ Authors & Acknowledgments
 
-* **Author and Group Leaders** T.I.Q.S., John Sweeney
-* **Team Member:**
+- **Author and Group Leaders** T.I.Q.S., John Sweeney
+- **Team Member:**
 
-* ## Anthony Core
+- ## Anthony Core
 
 Completed Labs:
+
 - Lab 1A
 - Lab 1B
 - Lab 1C
 
 Submission Repo:
-https://github.com/1taker/armageddon-C7-BHOEJM-Wolfpack
+<https://github.com/1taker/armageddon-C7-BHOEJM-Wolfpack>
  John Sweeney | [DELIVERABLES](https://github.com/jastek69/Armageddon-C7-LAB4-SEIR/tree/main/LAB4-DELIVERABLES) | [Lab 4 Code](https://github.com/jastek69/Armageddon-C7-LAB4-SEIR)
 
 #
 
 #### Lab 4 — Japan Medical
+
 Multi-Cloud Reality in Regulated Healthcare
 
 ⚖️ Why This Lab Exists
@@ -1324,7 +1335,6 @@ You will encounter:
 
 📌 Compliance does not change just because technology does.
 
-
 🏥 Legal Constraint Still Applies (This Does Not Change)
 Even in a multi-cloud world:
     --> Japanese patient medical data (PHI) must be stored only in Japan.
@@ -1340,7 +1350,6 @@ There is:
     No exemption
     No workaround
     No “temporary” exception
-
 
 🌎 What the New York Branch Is Allowed to Do
 The New York branch (on GCP) may:
@@ -1403,7 +1412,6 @@ Risks:
 Your responsibility:
     --> Design systems where doctors never have to think about compliance — because you already did.
 
-
 🧑‍🦽 Patient (Japanese Citizen)
 Expectations:
     Their data is protected
@@ -1449,7 +1457,6 @@ It is a constraint.
 Good engineers complain.
 Great engineers adapt without breaking the law.
 
-
 🗣️ How You Should Talk About This Lab
   If asked in an interview:
       “We supported a medical branch on GCP while keeping all PHI in Japan.
@@ -1459,6 +1466,7 @@ Great engineers adapt without breaking the law.
 That answer signals maturity.
 
 ### LAB 4 A Deliverables
+
 Lab 4A — Japan Medical
 AWS ↔ GCP Secure Connectivity (IPSec VPN + BGP)
 
@@ -1639,17 +1647,16 @@ This lab teaches you to:
 
 Many engineers can configure VPNs.
 Few can do it cleanly, safely, and defensibly.
-      
+
 🗣️ Interview Talk Track (Practice This)
 
   “We connected a GCP-based medical branch to AWS using IPSec VPN and BGP, while ensuring all PHI remained in Japan.
   The GCP side ran compute only, and routing was tightly controlled to meet compliance requirements.”
 
 That answer signals real-world readiness.
-        
+
 🧠 One Sentence to Remember
 Secure connectivity is as much about process as it is about packets.
-
 
 What you’re getting below (GCP / Iowa us-central1):
         VPC + subnet (placeholders for 10.x.x.x/xx)
@@ -1697,37 +1704,47 @@ Deliverable 1 — Private-only access proof
         Show that the internal LB IP works from inside VPN only
         Show it does not work from the public internet
 
-### Commands:
+### Commands
+
 ```
         gcloud compute forwarding-rules describe nihonmachi-fr01 --region us-central1
 ```
 
-
-
 From a host inside the VPN corridor:
+
 ```
         curl -k https://<INTERNAL_LB_IP>/health
         curl -k https://<INTERNAL_LB_IP>/
 ```
+
 #### Deliverable 2 — MIG proof
+
 ```
         gcloud compute instance-groups managed list --regions us-central1
         gcloud compute instances list --filter="name~nihonmachi-app"
 ```
+
 #### Deliverable 3 — Tokyo RDS connectivity proof
+
 From the VM (SSH via IAP or internal bastion), run:
+
 ```
         source /etc/profile.d/tokyo_rds.sh
         python3 /usr/local/bin/rds_test.py
 ```
+
 You submit the JSON output.
+
 #### Deliverable 4 — Process proof (PSK discipline reminder)
+
 Students must write 6–10 lines:
+
 - how PSKs were generated and shared (out-of-band)
 - why secrets must not go in Terraform state
 - what would be considered a compliance mistake (PHI in logs, local DB, etc.)
 
 #### Restrictions reminders (repeat to them)
+
 - No databases in GCP
 - No PHI in logs.
 - Only private access over VPN corridor.
