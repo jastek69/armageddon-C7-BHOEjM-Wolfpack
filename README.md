@@ -31,10 +31,8 @@ Each LAB is tracked in its own branch with unique deliverables and tasks.
 - Ernie Morris
 - Gavin Fogwe
 
+___
 
-Submission Repos:
-<https://github.com/1taker/armageddon-C7-BHOEJM-Wolfpack>
----
 
 ## GROUP MEMBER DELIVERABLES/REPOs
 
@@ -123,9 +121,7 @@ Submission Repos:
 | Lab 1 (1A–1C + Bonuses A–G) | [Deliverables](https://github.com/Jordan14Ford/Jordan-SEIR-Armageddon/tree/lab1B) |
 | Lab 2 | [Deliverables](https://github.com/Jordan14Ford/Jordan-SEIR-Armageddon/tree/main/Lab2) |
 | Lab 3 | [Deliverables](https://github.com/Jordan14Ford/Jordan-SEIR-Armageddon/tree/main/Lab3) |
-
-**Full Repository:**  
-https://github.com/Jordan14Ford/Jordan-SEIR-Armageddon/tree/main
+Full Repository | [Repo](https://github.com/Jordan14Ford/Jordan-SEIR-Armageddon/tree/main) |
 
 
 ### **Member: Vince**
@@ -173,6 +169,13 @@ https://github.com/Jordan14Ford/Jordan-SEIR-Armageddon/tree/main
 | Lab 1c | [Deliverables & Repo](https://github.com/demonte17/armageddon_class7_lab1c.git)
 
 ---
+### **Member: Cassiem Davids**
+
+| Lab  | Deliverables |
+| ------------- |-------------|
+| Lab 1 | [Repo](https://github.com/1taker/armageddon)|
+---
+
 
 ### [Lab1a Explanation](https://github.com/BalericaAI/armageddon/blob/main/SEIR_Foundations/LAB1/1a_explanation.md?plain=1)
 
