@@ -1,3 +1,0 @@
-Make sure of the following: 
-gate_secrets_and_role.sh
-gate_network_db.sh
