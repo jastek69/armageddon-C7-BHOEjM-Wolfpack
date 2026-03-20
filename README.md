@@ -121,7 +121,7 @@ ___
 | Lab 1 (1A–1C + Bonuses A–G) | [Deliverables](https://github.com/Jordan14Ford/Jordan-SEIR-Armageddon/tree/lab1B) |
 | Lab 2 | [Deliverables](https://github.com/Jordan14Ford/Jordan-SEIR-Armageddon/tree/main/Lab2) |
 | Lab 3 | [Deliverables](https://github.com/Jordan14Ford/Jordan-SEIR-Armageddon/tree/main/Lab3) |
-Full Repository | [repo](https://github.com/Jordan14Ford/Jordan-SEIR-Armageddon/tree/main) |
+Full Repository | [Repo](https://github.com/Jordan14Ford/Jordan-SEIR-Armageddon/tree/main) |
 
 
 ### **Member: Vince**
@@ -173,7 +173,7 @@ Full Repository | [repo](https://github.com/Jordan14Ford/Jordan-SEIR-Armageddon/
 
 | Lab  | Deliverables |
 | ------------- |-------------|
-| Lab 1 | [Deliverables](https://github.com/1taker/armageddon)|
+| Lab 1 | [Repo](https://github.com/1taker/armageddon)|
 ---
 
 
