@@ -1,4 +1,5 @@
 # ☁️ Class 7 Armageddon - Brotherhood of Evil jerMutants - Wolfpack
+![This is an alt text.](/images/Blackneto.jpg "This is a sample image.")
 
 ![AWS](https://img.shields.io/badge/AWS-Cloud-orange?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-%E2%89%A51.9-844FBA?style=for-the-badge&logo=terraform&logoColor=white)
@@ -13,6 +14,26 @@
 This repository contains links to repos of group members for multiple **Labs for Class 7 Armageddon (1a, 1b, 1c, 1d, 1e, 1f, 1g, 1h, 1i, 2a, 2b, 3a, 3b, and 4)**.  
 Each LAB is tracked in its own branch with unique deliverables and tasks.
 
+## ✍️ Authors & Acknowledgments
+
+**Author and Group Leaders** T.I.Q.S., John Sweeney
+**Team Members:**
+- Cassiem Davids
+- Vincent Woods
+- Benjamin Cooper
+- Michael Dale
+- Jordan Xavi
+- A.D. Bailey
+- Christian Jamieson
+- Samael King
+- Dante Dorsey-
+- Ali Zachary
+- Ernie Morris
+- Gavin Fogwe
+
+
+Submission Repos:
+<https://github.com/1taker/armageddon-C7-BHOEJM-Wolfpack>
 ---
 
 ## GROUP MEMBER DELIVERABLES/REPOs
@@ -56,7 +77,7 @@ Each LAB is tracked in its own branch with unique deliverables and tasks.
 | Lab 1 C-I:     | [LAB 1 C-I DELIVERABLES](https://github.com/jastek69/armageddon-C7-LAB1C-H/tree/main/LAB1-DELIVERABLES)| N/A
 | Lab 2 A-B:     |  [LAB 2 A-B - DELIVERABLES](https://github.com/jastek69/Armageddon-C7-SEIR_Foundations/tree/LAB2/)     | [Lab 2 - Code](https://github.com/jastek69/Armageddon-C7-SEIR_Foundations)
 | Lab 3 A-B   | [LAB 3 A-B DELIVERABLES](https://github.com/jastek69/Armageddon-C7-Lab3-SEIR_Foundations/tree/main/LAB3-DELIVERABLES) | [Lab 3 - Code](https://github.com/jastek69/Armageddon-C7-Lab3-SEIR_Foundations/tree/main)
-| Lab 4    | [LAB 4 DELIVERABLES](https://github.com/jastek69/Armageddon-C7-LAB4-SEIR/tree/main/LAB4-DELIVERABLES) | [Lab 4 Code](https://github.com/jastek69/Armageddon-C7-LAB4-SEIR)
+| Lab 4    | [LAB 4 DELIVERABLES](https://github.com/jastek69/Armageddon-C7-LAB4-SEIR/tree/main/LAB4-DELIVERABLES) | [Lab 4 - Code](https://github.com/jastek69/Armageddon-C7-LAB4-SEIR)
 
 ---
 
@@ -130,36 +151,28 @@ https://github.com/Jordan14Ford/Jordan-SEIR-Armageddon/tree/main
 ---
 
 ## **Member: Samael King**
-
-- Lab 1 (A-C): [Deliverables & Repo](https://github.com/GodEmperorKing/Armageddon-7/tree/main/lab1)
-- Lab 2A: [Deliverables & Repo](https://github.com/GodEmperorKing/Armageddon-7/tree/main/lab2)
+| Lab  | Deliverables |
+| ------------- |-------------|
+|Lab 1 (A-C): | [Deliverables & Repo](https://github.com/GodEmperorKing/Armageddon-7/tree/main/lab1)
+| Lab 2A: | [Deliverables & Repo](https://github.com/GodEmperorKing/Armageddon-7/tree/main/lab2)
 
 ---
 
 ### **Member: Anthony Bailey**
-
-- Lab 1A through Lab 1C-Bonus F
-  - [Deliverables](https://github.com/yearninlearnin/armageddon-dayo)
+| Lab  | Deliverables |
+| ------------- |-------------|
+| Lab 1A through Lab 1C-Bonus F | [Deliverables](https://github.com/yearninlearnin/armageddon-dayo)
 
 ---
 
 ### **Member: Dante Dorsey**
-
-- Lab 1A-1B and Lab 1C
-
-  - Lab 1a [Deliverables & Repo](https://github.com/demonte17/armageddon_class7_lab_1a.git)
-  - Lab 1b [Deliverables & Repo](https://github.com/demonte17/armageddon_class7_lab_1b.git)
-  - Lab 1c [Deliverables & Repo](https://github.com/demonte17/armageddon_class7_lab1c.git)
+| Lab  | Deliverables |
+| ------------- |-------------|
+| Lab 1a | [Deliverables & Repo](https://github.com/demonte17/armageddon_class7_lab_1a.git)
+| Lab 1b | [Deliverables & Repo](https://github.com/demonte17/armageddon_class7_lab_1b.git)
+| Lab 1c | [Deliverables & Repo](https://github.com/demonte17/armageddon_class7_lab1c.git)
 
 ---
-
-### LAB 1A-B
-
-#### Deliverables
-
-- [tiqsclass6 - Overview](https://github.com/tiqsclass6)
-- [John Sweeney - Deliverable](https://github.com/jastek69/Armageddon-C7-SEIR_Foundations/tree/LAB2/LAB1-DELIVERABLES)
-- [Ernest Morris - Deliverables](https://github.com/jastek69/armageddon-C7-BHOEjM-Wolfpack.git)
 
 ### [Lab1a Explanation](https://github.com/BalericaAI/armageddon/blob/main/SEIR_Foundations/LAB1/1a_explanation.md?plain=1)
 
@@ -452,10 +465,6 @@ This repo is intentionally incomplete:
 
 ## 🌐 LAB 2
 
-#### Deliverables
-
-[John Sweeney: LAB 2 A-B - DELIVERABLES](https://github.com/jastek69/Armageddon-C7-SEIR_Foundations/tree/LAB2/)     | [Lab 2 - Code](https://github.com/jastek69/Armageddon-C7-SEIR_Foundations)
-
 ### Lab 2A = “Origin Cloaking + CloudFront as the only public ingress.”
 
 The clean, realistic interpretation of your requirement (and what big orgs actually do) is:
@@ -468,10 +477,6 @@ The entire lab is built around one idea AWS emphasizes: cache key (cache policy)
 Below is a full Lab 2B package: project intro + workforce relevance expected deliverables Terraform overlay (Chewbacca style, skeleton where students fill values) correctness tests (curl + headers + “cache poisoning” checks)
 
 ## 🌐 LAB 3
-
-#### Deliverables
-
- [John Sweeney: Lab 3 A-B DELIVERABLES](https://github.com/jastek69/Armageddon-C7-Lab3-SEIR_Foundations/tree/main/LAB3-DELIVERABLES) | [Lab 3 - Code](https://github.com/jastek69/Armageddon-C7-Lab3-SEIR_Foundations/tree/main)
 
 #### Lab 3 — Japan Medical
 
@@ -1030,10 +1035,6 @@ That’s why the script reports “Other:*” — so students don’t blindly ig
 
 ## 🌐 LAB 4
 
-#### Deliverables
-
-* [John Sweeney - Deliverables](https://github.com/jastek69/armageddon-C7-LAB1C-H/tree/main/LAB1C-H-DELIVERABLES)
-
 What you’re building:
 
 When an alarm fires, you will automatically:
@@ -1197,10 +1198,6 @@ Documentation: <https://docs.aws.amazon.com/waf/latest/developerguide/logging-de
 
 ## LAB1C-Bonus-I Auto-IR Runbook
 
-#### Deliverables
-
-* [John Sweeney - Deliverables](https://github.com/jastek69/armageddon-C7-LAB1C-H/tree/main/LAB1C-H-DELIVERABLES)
-
 Human + Amazon Bedrock Incident Response
 
 Purpose
@@ -1212,11 +1209,6 @@ Bedrock accelerates analysis. Humans own correctness.
 ---
 
 ## [🌐 LAB2]
-
-#### Deliverables
-
-* [John Sweeney LAB2 - DELIVERABLES](https://github.com/jastek69/Armageddon-C7-SEIR_Foundations/tree/LAB2/LAB2-DELIVERABLES)
-- [John Sweeney LAB2 - Code](https://github.com/jastek69/Armageddon-C7-SEIR_Foundations)
 
 ### Repurpose
 
@@ -1242,11 +1234,6 @@ Bedrock accelerates analysis. Humans own correctness.
 
 ---
 
-## [🌐 LAB 3]
-
-[John Sweeney LAB3 - Deliverables](https://github.com/jastek69/Armageddon-C7-Lab3-SEIR_Foundations/tree/main/LAB3-DELIVERABLES)
-[John Sweeney LAB3 - Code](https://github.com/jastek69/Armageddon-C7-Lab3-SEIR_Foundations/tree/main)
-
 ## 📝 Summary
 
 Through these challenges, you will learn how to:
@@ -1264,25 +1251,6 @@ Through these challenges, you will learn how to:
 👉 Completing these tasks is the **next step in the Be A Man journey** toward mastering cloud automation.
 
 ---
-
-## ✍️ Authors & Acknowledgments
-
-- **Author and Group Leaders** T.I.Q.S., John Sweeney
-- **Team Member:**
-
-- ## Anthony Core
-
-Completed Labs:
-
-- Lab 1A
-- Lab 1B
-- Lab 1C
-
-Submission Repo:
-<https://github.com/1taker/armageddon-C7-BHOEJM-Wolfpack>
- John Sweeney | [DELIVERABLES](https://github.com/jastek69/Armageddon-C7-LAB4-SEIR/tree/main/LAB4-DELIVERABLES) | [Lab 4 Code](https://github.com/jastek69/Armageddon-C7-LAB4-SEIR)
-
-#
 
 #### Lab 4 — Japan Medical
 
