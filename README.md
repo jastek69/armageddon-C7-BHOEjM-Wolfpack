@@ -1,5 +1,6 @@
 # ☁️ Class 7 Armageddon - Brotherhood of Evil jerMutants - Wolfpack
-![This is an alt text.](/images/Blackneto.jpg "This is a sample image.")
+
+![Blackneto.jpg](/images/Blackneto.jpg "Class 7 jerMutants - Wolfpack")
 
 ![AWS](https://img.shields.io/badge/AWS-Cloud-orange?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-%E2%89%A51.9-844FBA?style=for-the-badge&logo=terraform&logoColor=white)
@@ -14,10 +15,14 @@
 This repository contains links to repos of group members for multiple **Labs for Class 7 Armageddon (1a, 1b, 1c, 1d, 1e, 1f, 1g, 1h, 1i, 2a, 2b, 3a, 3b, and 4)**.  
 Each LAB is tracked in its own branch with unique deliverables and tasks.
 
+---
+
 ## ✍️ Authors & Acknowledgments
 
-**Author and Group Leaders** T.I.Q.S., John Sweeney
+**Author and Group Leaders** T.I.Q.S. & John Sweeney
+
 **Team Members:**
+
 - Cassiem Davids
 - Vincent Woods
 - Benjamin Cooper
@@ -26,13 +31,12 @@ Each LAB is tracked in its own branch with unique deliverables and tasks.
 - A.D. Bailey
 - Christian Jamieson
 - Samael King
-- Dante Dorsey-
+- Dante Dorsey
 - Ali Zachary
 - Ernie Morris
 - Gavin Fogwe
 
-___
-
+---
 
 ## GROUP MEMBER DELIVERABLES/REPOs
 
@@ -69,115 +73,138 @@ ___
 
 ### **Group Co-Leader: John Sweeney**
 
-| Lab  | Deliverables | Repo |
-| ------------- |-------------|-------------:|
-| Lab 1 A-B:    | [LAB 1 A-B DELIVERABLES](https://github.com/jastek69/armageddon-C7-LAB1C-H/tree/main/LAB1-DELIVERABLES) | N/A
-| Lab 1 C-I:     | [LAB 1 C-I DELIVERABLES](https://github.com/jastek69/armageddon-C7-LAB1C-H/tree/main/LAB1-DELIVERABLES)| N/A
-| Lab 2 A-B:     |  [LAB 2 A-B - DELIVERABLES](https://github.com/jastek69/Armageddon-C7-SEIR_Foundations/tree/LAB2/)     | [Lab 2 - Code](https://github.com/jastek69/Armageddon-C7-SEIR_Foundations)
-| Lab 3 A-B   | [LAB 3 A-B DELIVERABLES](https://github.com/jastek69/Armageddon-C7-Lab3-SEIR_Foundations/tree/main/LAB3-DELIVERABLES) | [Lab 3 - Code](https://github.com/jastek69/Armageddon-C7-Lab3-SEIR_Foundations/tree/main)
-| Lab 4    | [LAB 4 DELIVERABLES](https://github.com/jastek69/Armageddon-C7-LAB4-SEIR/tree/main/LAB4-DELIVERABLES) | [Lab 4 - Code](https://github.com/jastek69/Armageddon-C7-LAB4-SEIR)
+| Lab           | Deliverables                                                                                                          | Repo                                                                                      |
+| ------------- |-----------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------|
+| Lab 1 A-B:    | [LAB 1 A-B DELIVERABLES](https://github.com/jastek69/armageddon-C7-LAB1C-H/tree/main/LAB1-DELIVERABLES)               | N/A                                                                                       |
+| Lab 1 C-I:    | [LAB 1 C-I DELIVERABLES](https://github.com/jastek69/armageddon-C7-LAB1C-H/tree/main/LAB1-DELIVERABLES)               | N/A                                                                                       |
+| Lab 2 A-B:    |  [LAB 2 A-B - DELIVERABLES](https://github.com/jastek69/Armageddon-C7-SEIR_Foundations/tree/LAB2/)                    | [Lab 2 - Code](https://github.com/jastek69/Armageddon-C7-SEIR_Foundations)                |
+| Lab 3 A-B     | [LAB 3 A-B DELIVERABLES](https://github.com/jastek69/Armageddon-C7-Lab3-SEIR_Foundations/tree/main/LAB3-DELIVERABLES) | [Lab 3 - Code](https://github.com/jastek69/Armageddon-C7-Lab3-SEIR_Foundations/tree/main) |
+| Lab 4         | [LAB 4 DELIVERABLES](https://github.com/jastek69/Armageddon-C7-LAB4-SEIR/tree/main/LAB4-DELIVERABLES)                 | [Lab 4 - Code](https://github.com/jastek69/Armageddon-C7-LAB4-SEIR)                       |
 
 ---
 
 ### **Member: Ernest Morris**
 
-| Lab  | Deliverables |
-| ------------- |-------------|
-| Labs 1A-B: | [Deliverables](https://github.com/snailstampede-svg/C7_Armageddon/tree/main/lab_1ab)
-|Lab 1C: | [Deliverables](https://github.com/snailstampede-svg/C7_Armageddon/tree/main/lab1c)
-| Lab 1C: Bonus A: | [Deliverables](https://github.com/snailstampede-svg/C7_Armageddon/tree/main/lab1c_bonus_a)
-| Lab 1C: Bonus B: | [Deliverables](https://github.com/snailstampede-svg/C7_Armageddon/tree/main/lab1c_bonus_b)
-| Lab 1C: Bonus C&D: | [Deliverables](https://github.com/snailstampede-svg/C7_Armageddon/tree/main/lab1c_bonus_d)
-| Lab 1C: Bonus E: | [Deliverables](https://github.com/snailstampede-svg/C7_Armageddon/tree/main/lab1c_bonus_e)
-| Lab 1C: Bonus F: | [Deliverables](https://github.com/snailstampede-svg/C7_Armageddon/tree/main/lab1c_bonus_f)
-| Lab 2A: | [Deliverables](https://github.com/snailstampede-svg/C7_Armageddon/tree/main/lab2a)
-| Lab 2B: | [Deliverables](https://github.com/snailstampede-svg/C7_Armageddon/tree/main/lab2b)
-| Lab 2B Be_A_Man_A: | [Deliverables](https://github.com/snailstampede-svg/C7_Armageddon/tree/main/lab2b_Be_A_ManA)
-| Lab 2B Be_A_Man_B: | [Deliverables](https://github.com/snailstampede-svg/C7_Armageddon/tree/main/lab2b_Be_A_ManB)
-| Lab 2B Be_A_Man_C: | [Deliverables](https://github.com/snailstampede-svg/C7_Armageddon/tree/main/lab2b_Be_A_ManC)
+| Lab                | Deliverables                                                                                  |
+| ------------------ |-----------------------------------------------------------------------------------------------|
+| Labs 1A-B:         | [Deliverables](https://github.com/snailstampede-svg/C7_Armageddon/tree/main/lab_1ab)          |
+| Lab 1C:            | [Deliverables](https://github.com/snailstampede-svg/C7_Armageddon/tree/main/lab1c)            |
+| Lab 1C: Bonus A:   | [Deliverables](https://github.com/snailstampede-svg/C7_Armageddon/tree/main/lab1c_bonus_a)    |
+| Lab 1C: Bonus B:   | [Deliverables](https://github.com/snailstampede-svg/C7_Armageddon/tree/main/lab1c_bonus_b)    |
+| Lab 1C: Bonus C&D: | [Deliverables](https://github.com/snailstampede-svg/C7_Armageddon/tree/main/lab1c_bonus_d)    |
+| Lab 1C: Bonus E:   | [Deliverables](https://github.com/snailstampede-svg/C7_Armageddon/tree/main/lab1c_bonus_e)    |
+| Lab 1C: Bonus F:   | [Deliverables](https://github.com/snailstampede-svg/C7_Armageddon/tree/main/lab1c_bonus_f)    |
+| Lab 2A:            | [Deliverables](https://github.com/snailstampede-svg/C7_Armageddon/tree/main/lab2a)            |
+| Lab 2B:            | [Deliverables](https://github.com/snailstampede-svg/C7_Armageddon/tree/main/lab2b)            |
+| Lab 2B Be_A_Man_A: | [Deliverables](https://github.com/snailstampede-svg/C7_Armageddon/tree/main/lab2b_Be_A_ManA)  |
+| Lab 2B Be_A_Man_B: | [Deliverables](https://github.com/snailstampede-svg/C7_Armageddon/tree/main/lab2b_Be_A_ManB)  |
+| Lab 2B Be_A_Man_C: | [Deliverables](https://github.com/snailstampede-svg/C7_Armageddon/tree/main/lab2b_Be_A_ManC)  |
 
 ---
 
 ### **Member: Michael Dale**
 
-| Lab  | Deliverables
-| ------------- |-------------|
-|Lab 1A through Lab 3B: | [Deliverables](https://github.com/MichaelDale1/Class-7-Armageddon-2026-Dale)
+| Lab                   | Deliverables                                                                 |
+| --------------------- |------------------------------------------------------------------------------|
+|Lab 1A through Lab 3B: | [Deliverables](https://github.com/MichaelDale1/Class-7-Armageddon-2026-Dale) |
 
 ---
 
 ### **Member: Benji**
 
-| Lab  | Deliverables
-| ------------- |-------------|
-| Lab 1A through Lab 1G:| [Deliverables](https://github.com/Newest-IT-Bro/Armageddon-repo.git)
+| Lab                   | Deliverables                                                         |
+| ----------------------|----------------------------------------------------------------------|
+| Lab 1A through Lab 1G:| [Deliverables](https://github.com/Newest-IT-Bro/Armageddon-repo.git) |
 
 ---
 
 ### **Member: Jordan**
 
-| Lab | Deliverables |
-|-----|-------------|
-| Lab 1 (1A–1C + Bonuses A–G) | [Deliverables](https://github.com/Jordan14Ford/Jordan-SEIR-Armageddon/tree/lab1B) |
-| Lab 2 | [Deliverables](https://github.com/Jordan14Ford/Jordan-SEIR-Armageddon/tree/main/Lab2) |
-| Lab 3 | [Deliverables](https://github.com/Jordan14Ford/Jordan-SEIR-Armageddon/tree/main/Lab3) |
-Full Repository | [Repo](https://github.com/Jordan14Ford/Jordan-SEIR-Armageddon/tree/main) |
-
+| Lab                         | Deliverables                                                                          |
+|-----------------------------|---------------------------------------------------------------------------------------|
+| Lab 1 (1A–1C + Bonuses A–G) | [Deliverables](https://github.com/Jordan14Ford/Jordan-SEIR-Armageddon/tree/lab1B)     |
+| Lab 2                       | [Deliverables](https://github.com/Jordan14Ford/Jordan-SEIR-Armageddon/tree/main/Lab2) |
+| Lab 3                       | [Deliverables](https://github.com/Jordan14Ford/Jordan-SEIR-Armageddon/tree/main/Lab3) |
+| Full Repository             | [Repo](https://github.com/Jordan14Ford/Jordan-SEIR-Armageddon/tree/main)              |
 
 ### **Member: Vince**
 
-| Lab  | Deliverables |
-| ------------- |-------------|
-| Lab 1A: |[Deliverables](https://github.com/UriahVictorious/Class-7---Armageddon-Project/tree/Lab1A/Lab%201A)
-| Lab 1B: |[Deliverables](https://github.com/UriahVictorious/Class-7---Armageddon-Project/tree/Lab1B/Screenshots)
-| Lab 1C: |[Deliverables](https://github.com/UriahVictorious/Class-7---Armageddon-Project/tree/Lab1C/screenshots)
-| Lab 1C Bonus A: |[Deliverables](https://github.com/UriahVictorious/Class-7---Armageddon-Project/tree/Lab1C_Bonus/Lab1C_bonus_a/DELIVERABLES)
-| Lab 1C Bonus B: |[Deliverables](https://github.com/UriahVictorious/Class-7---Armageddon-Project/tree/Lab1C_Bonus/Lab1C_bonus_b/DELIVERABLES)
-| Lab 1C Bonus C: |[Deliverables](https://github.com/UriahVictorious/Class-7---Armageddon-Project/tree/Lab1C_Bonus/Lab1C_bonus_c/DELIVERABLES)
+| Lab             | Deliverables                                                                                                                 |
+| ----------------|------------------------------------------------------------------------------------------------------------------------------|
+| Lab 1A:         | [Deliverables](https://github.com/UriahVictorious/Class-7---Armageddon-Project/tree/Lab1A/Lab%201A)                          |
+| Lab 1B:         | [Deliverables](https://github.com/UriahVictorious/Class-7---Armageddon-Project/tree/Lab1B/Screenshots)                       |
+| Lab 1C:         | [Deliverables](https://github.com/UriahVictorious/Class-7---Armageddon-Project/tree/Lab1C/screenshots)                       |
+| Lab 1C Bonus A: | [Deliverables](https://github.com/UriahVictorious/Class-7---Armageddon-Project/tree/Lab1C_Bonus/Lab1C_bonus_a/DELIVERABLES)  |
+| Lab 1C Bonus B: | [Deliverables](https://github.com/UriahVictorious/Class-7---Armageddon-Project/tree/Lab1C_Bonus/Lab1C_bonus_b/DELIVERABLES)  |
+| Lab 1C Bonus C: | [Deliverables](https://github.com/UriahVictorious/Class-7---Armageddon-Project/tree/Lab1C_Bonus/Lab1C_bonus_c/DELIVERABLES)  |
 
 ---
 
 ### **Member: Ali Zachary**
 
-| Lab  | Deliverables |
-| ------------- |-------------|
-|Lab 1A: |[Deliverables](https://github.com/cloudfighter72/C7-armageddon/tree/Lab_1A_1B/Homework/Armageddon/armageddon_lab_1a_1b)
-|Lab 1C: |[Deliverables](https://github.com/cloudfighter72/C7-armageddon/tree/lab_1c/scripts-results)
+| Lab    | Deliverables                                                                                                            |
+|--------|-------------------------------------------------------------------------------------------------------------------------|
+|Lab 1A: | [Deliverables](https://github.com/cloudfighter72/C7-armageddon/tree/Lab_1A_1B/Homework/Armageddon/armageddon_lab_1a_1b) |
+|Lab 1C: | [Deliverables](https://github.com/cloudfighter72/C7-armageddon/tree/lab_1c/scripts-results)                             |
 
 ---
 
 ## **Member: Samael King**
-| Lab  | Deliverables |
-| ------------- |-------------|
-|Lab 1 (A-C): | [Deliverables & Repo](https://github.com/GodEmperorKing/Armageddon-7/tree/main/lab1)
-| Lab 2A: | [Deliverables & Repo](https://github.com/GodEmperorKing/Armageddon-7/tree/main/lab2)
+
+| Lab          | Deliverables                                                                         |
+|--------------|--------------------------------------------------------------------------------------|
+| Lab 1 (A-C): | [Deliverables & Repo](https://github.com/GodEmperorKing/Armageddon-7/tree/main/lab1) |
+| Lab 2A:      | [Deliverables & Repo](https://github.com/GodEmperorKing/Armageddon-7/tree/main/lab2) |
 
 ---
 
 ### **Member: Anthony Bailey**
-| Lab  | Deliverables |
-| ------------- |-------------|
-| Lab 1A through Lab 1C-Bonus F | [Deliverables](https://github.com/yearninlearnin/armageddon-dayo)
+
+| Lab                           | Deliverables                                                      |
+|-------------------------------|-------------------------------------------------------------------|
+| Lab 1A through Lab 1C-Bonus F | [Deliverables](https://github.com/yearninlearnin/armageddon-dayo) |
 
 ---
 
 ### **Member: Dante Dorsey**
-| Lab  | Deliverables |
-| ------------- |-------------|
-| Lab 1a | [Deliverables & Repo](https://github.com/demonte17/armageddon_class7_lab_1a.git)
-| Lab 1b | [Deliverables & Repo](https://github.com/demonte17/armageddon_class7_lab_1b.git)
-| Lab 1c | [Deliverables & Repo](https://github.com/demonte17/armageddon_class7_lab1c.git)
+
+| Lab     | Deliverables                                                                     |
+|---------|----------------------------------------------------------------------------------|
+| Lab 1A: | [Deliverables & Repo](https://github.com/demonte17/armageddon_class7_lab_1a.git) |
+| Lab 1B: | [Deliverables & Repo](https://github.com/demonte17/armageddon_class7_lab_1b.git) |
+| Lab 1C: | [Deliverables & Repo](https://github.com/demonte17/armageddon_class7_lab1c.git)  |
 
 ---
+
 ### **Member: Cassiem Davids**
 
-| Lab  | Deliverables |
-| ------------- |-------------|
+| Lab   | Deliverables                                |
+| ------|---------------------------------------------|
 | Lab 1 | [Repo](https://github.com/1taker/armageddon)|
+
 ---
 
+## Anthony Core
 
-### [Lab1a Explanation](https://github.com/BalericaAI/armageddon/blob/main/SEIR_Foundations/LAB1/1a_explanation.md?plain=1)
+Submission Repo: <https://github.com/1taker/armageddon-C7-BHOEJM-Wolfpack>
+
+- Lab 1A
+- Lab 1B
+- Lab 1C
+
+---
+
+## LAB 1A-B
+
+### Deliverables
+
+- [T.I.Q.S.- Deliverables](https://github.com/tiqsclass6/aws-armageddon-class-7.0/blob/lab-1b-1c/README.md)
+- [John Sweeney - Deliverable](https://github.com/jastek69/Armageddon-C7-SEIR_Foundations/tree/LAB2/LAB1-DELIVERABLES)
+- [Ernest Morris - Deliverables](https://github.com/jastek69/armageddon-C7-BHOEjM-Wolfpack.git)
+
+---
+
+### [Lab 1a Explanation](https://github.com/BalericaAI/armageddon/blob/main/SEIR_Foundations/LAB1/1a_explanation.md?plain=1)
 
 **Project Overview (What You Are Building)**  
 In this lab, you will build a classic cloud application architecture:
@@ -188,7 +215,9 @@ In this lab, you will build a classic cloud application architecture:
 - Credential management using AWS Secrets Manager
 - A simple application that writes and reads data from the database
 
-### [Lab1b - explanation](https://github.com/BalericaAI/armageddon/blob/main/SEIR_Foundations/LAB1/1b_Incident_response.md?plain=1)
+---
+
+### [Lab 1b Explanation](https://github.com/BalericaAI/armageddon/blob/main/SEIR_Foundations/LAB1/1b_Incident_response.md?plain=1)
 
 **Lab 1b — Incident Response Scenario**  
 Prerequisite: Lab 1a + Lab 1b infrastructure completed
@@ -239,38 +268,39 @@ Students are not told which failure was injected.
    - `aws sns create-topic --name lab-db-incidents`
    - Email Subscription (PagerDuty Simulation)
 
-     ```bash
-     aws sns subscribe \
-       --topic-arn <TOPIC_ARN> \
-       --protocol email \
-       --notification-endpoint your-email@example.com
-     ```
+```bash
+aws sns subscribe \
+  --topic-arn <TOPIC_ARN> \
+  --protocol email \
+  --notification-endpoint your-email@example.com
+```
 
    This simulates PagerDuty / OpsGenie paging an engineer.
 
-2. **CloudWatch Alarm → SNS**  
+1. **CloudWatch Alarm → SNS**  
    **Alarm Concept**  
    Trigger when: DB connection errors ≥ 3 in 5 minutes
 
    **Alarm Creation (example)**
 
-   ```bash
-   aws cloudwatch put-metric-alarm \
-     --alarm-name lab-db-connection-failure \
-     --metric-name DBConnectionErrors \
-     --namespace Lab/RDSApp \
-     --statistic Sum \
-     --period 300 \
-     --threshold 3 \
-     --comparison-operator GreaterThanOrEqualToThreshold \
-     --evaluation-periods 1 \
-     --alarm-actions <SNS_TOPIC_ARN>
-   ```
+```bash
+aws cloudwatch put-metric-alarm \
+  --alarm-name lab-db-connection-failure \
+  --metric-name DBConnectionErrors \
+  --namespace Lab/RDSApp \
+  --statistic Sum \
+  --period 300 \
+  --threshold 3 \
+  --comparison-operator GreaterThanOrEqualToThreshold \
+  --evaluation-periods 1 \
+  --alarm-actions <SNS_TOPIC_ARN>
+```
 
-   **Expected Behavior**  
-   - Alarm transitions to ALARM  
-   - SNS notification sent  
-   - Student receives alert email
+**Expected Behavior**  
+
+- Alarm transitions to ALARM  
+- SNS notification sent  
+- Student receives alert email
 
 #### **PART IV — Mandatory Incident Runbook**
 
@@ -347,13 +377,10 @@ Students must explicitly state:
 Recovery Paths (Depends on Root Cause)
 
 - If Credential Drift
-  - Update RDS password to match Secrets Manager  
-    OR
+  - Update RDS password to match Secrets Manager  (OR)
   - Update Secrets Manager to known-good value
-
 - If Network Block
   - Restore EC2 security group access to RDS on 3306
-
 - If DB Stopped
   - Start RDS and wait for available
 
@@ -429,6 +456,8 @@ This is exactly what separates:
 from  
 “I can be trusted with production.”
 
+---
+
 ## Lab 1C — Terraform: EC2 → RDS + Secrets/Params + Observability + Incident Alerts
 
 ### LAB 1C-I
@@ -466,307 +495,382 @@ This repo is intentionally incomplete:
 - CLI verification commands (from Lab 1b)
 - Incident runbook execution notes (alarm fired + recovered)
 
+## LAB 1C - Bonus-I (Auto-IR Runbook)
+
+### Lab 1C Bonus I Deliverables
+
+- [John Sweeney - Deliverables](https://github.com/jastek69/armageddon-C7-LAB1C-H/tree/main/LAB1C-H-DELIVERABLES)
+
+Human + Amazon Bedrock Incident Response
+
+Purpose
+This runbook defines how a human on-call engineer uses the Bedrock-generated incident report safely, verifies it against raw evidence, and produces a final, auditable incident artifact.
+
+Core rule:
+Bedrock accelerates analysis. Humans own correctness.
+
+---
+
 ## 🌐 LAB 2
+
+### Lab 2 Deliverables
+
+| DELIVERABLES                                                                                                    | Lab 2 - Code                                                                                   |
+| --------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- |
+| [John Sweeney: LAB 2 A-B - DELIVERABLES](https://github.com/jastek69/Armageddon-C7-SEIR_Foundations/tree/LAB2/) | [Lab 2 - Code](https://github.com/jastek69/Armageddon-C7-SEIR_Foundations/tree/LAB2/LAB2-CODE) |
 
 ### Lab 2A = “Origin Cloaking + CloudFront as the only public ingress.”
 
 The clean, realistic interpretation of your requirement (and what big orgs actually do) is:
 Only CloudFront is publicly reachable. ALB is still “internet-facing” (because CloudFront must reach it), but it’s cloaked so direct access is blocked: Security Group allows inbound only from the AWS-managed CloudFront origin-facing prefix list (com.amazonaws.global.cloudfront.origin-facing). ALB listener requires a secret custom header that only CloudFront adds. WAF moves to CloudFront (WAFv2 scope = "CLOUDFRONT"), and it is associated to the distribution. chewbacca-growl.com (and app.chewbacca-growl.com) alias to CloudFront.
 
-### LAB 2B: stop “using CloudFront” and start operating CloudFront correctly
+---
 
-The entire lab is built around one idea AWS emphasizes: cache key (cache policy) and origin forwarding (origin request policy) are different knobs, and getting them wrong causes real incidents (user A sees user B’s data, auth breaks, “random 403s,” etc.). <https://docs.aws.amazon.com/AmazonCloudFront/latest/DeveloperGuide/understanding-how-origin-request-policies-and-cache-policies-work-together.html?utm_source=chatgpt.com>
+### LAB 2B: Stop “using CloudFront” and start operating CloudFront correctly
+
+The entire lab is built around one idea AWS emphasizes: cache key (cache policy) and origin forwarding (origin request policy) are different knobs, and getting them wrong causes real incidents (user A sees user B’s data, auth breaks, “random 403s,” etc.).
+
+- <https://docs.aws.amazon.com/AmazonCloudFront/latest/DeveloperGuide/understanding-how-origin-request-policies-and-cache-policies-work-together.html?utm_source=chatgpt.com>
 
 Below is a full Lab 2B package: project intro + workforce relevance expected deliverables Terraform overlay (Chewbacca style, skeleton where students fill values) correctness tests (curl + headers + “cache poisoning” checks)
 
+---
+
 ## 🌐 LAB 3
+
+### Lab 3 Deliverables
+
+| DELIVERABLES                                                                                                                        | Lab 3 - Code                                                                                        |
+| ----------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------- |
+| [John Sweeney: Lab 3 A-B DELIVERABLES](https://github.com/jastek69/Armageddon-C7-Lab3-SEIR_Foundations/tree/main/LAB3-DELIVERABLES) | [Lab 3 - Code](https://github.com/jastek69/Armageddon-C7-Lab3-SEIR_Foundations/tree/main/LAB3-CODE) |
 
 #### Lab 3 — Japan Medical
 
 Cross-Region Architecture with Legal Data Residency (APPI Compliance)
-Scenario Overview
-  A Japanese medical organization operates:
-  A primary medical data system in Tokyo
-  A satellite medical office in São Paulo
-  A single global application URL: chewbacca-growls.com
-  Global access via CloudFront
-  Strict legal requirement:
-    All Japanese patient medical data (PHI) must remain physically stored in Japan
 
-This is not a theoretical exercise.
-This is how regulated global healthcare systems are actually built.
+Scenario Overview
+
+- A Japanese medical organization operates:
+- A primary medical data system in Tokyo
+- A satellite medical office in São Paulo
+- A single global application URL: chewbacca-growls.com
+
+Global access via CloudFront
+
+- Strict legal requirement:
+  - All Japanese patient medical data (PHI) must remain physically stored in Japan
+- This is not a theoretical exercise.
+- This is how regulated global healthcare systems are actually built.
 
 Why This Lab Exists (Read This Carefully)
-Japan’s privacy law — 個人情報保護法 (APPI) — requires that personally identifiable medical information for Japanese citizens must not be stored outside Japan, unless extremely specific legal mechanisms are in place.
+
+- Japan’s privacy law — 個人情報保護法 (APPI) — requires that personally identifiable medical information for Japanese citizens must not be stored outside Japan, unless extremely specific legal mechanisms are in place.
 
 For healthcare:
-  The safe, standard interpretation is:
-    Store PHI only inside Japan
+
+- The safe, standard interpretation is:
+  - Store PHI only inside Japan
 
 Even if:
-    The patient is traveling
-    The doctor is overseas
-    The application is globally accessible
 
-📌 Access is allowed. Storage is not.
-That single sentence is the key mental shift.
+- The patient is traveling
+- The doctor is overseas
+- The application is globally accessible
+
+📌 Access is allowed. Storage is not. That single sentence is the key mental shift.
 
 Legal Reality → Architectural Consequence
 
 Because of APPI:
 
-| Component             | Allowed Location                           |
-| --------------------- | ------------------------------------------ |
-| RDS (Medical Records) | **Tokyo only** (`ap-northeast-1`)          |
-| Backups / snapshots   | **Tokyo only**                             |
+| Component             | Allowed Location                            |
+| --------------------- | ------------------------------------------- |
+| RDS (Medical Records) | **Tokyo only** (`ap-northeast-1`)           |
+| Backups / snapshots   | **Tokyo only**                              |
 | Read replicas         | ❌ Not allowed outside Japan                |
 | App access            | ✅ Allowed globally                         |
 | CloudFront            | ✅ Allowed (edge cache, no PHI persistence) |
 | EC2 in São Paulo      | ✅ Allowed (stateless compute only)         |
 
 This forces a hub-and-spoke architecture:
-  Tokyo is the data authority
-  Other regions are compute-only extensions
+
+- Tokyo is the data authority
+- Other regions are compute-only extensions
 
 Regional Architecture Breakdown
-🇯🇵 Tokyo — Primary Region (ap-northeast-1)
-Tokyo hosts everything that touches patient data at rest:
-    RDS (MySQL / PostgreSQL)
-    Primary VPC
-    Application tier (EC2 / ASG)
-    Transit Gateway attachment
-    Parameter Store & Secrets Manager (authoritative)
-    Logging, auditing, backups
+
+🇯🇵 **Tokyo — Primary Region (ap-northeast-1)** Tokyo hosts everything that touches patient data at rest:
+
+- RDS (MySQL / PostgreSQL)
+- Primary VPC
+- Application tier (EC2 / ASG)
+- Transit Gateway attachment
+- Parameter Store & Secrets Manager (authoritative)
+- Logging, auditing, backups
 
 Tokyo is the single source of truth.
+
 If Tokyo goes down:
-    The system degrades
-    But data residency is never violated
+
+- The system degrades
+- But data residency is never violated
 
 This is intentional.
 
-🇧🇷 São Paulo — Satellite Region (sa-east-1)
-São Paulo exists only to improve access latency for doctors and staff physically located there.
+🇧🇷 **São Paulo — Satellite Region (sa-east-1)** São Paulo exists only to improve access latency for doctors and staff physically located there.
+
 São Paulo contains:
-    VPC
-    EC2 + Auto Scaling Group
-    No databases
-    No local persistence of PHI
-    No backups
-    No replicas
+
+- VPC
+- EC2 + Auto Scaling Group
+- No databases
+- No local persistence of PHI
+- No backups
+- No replicas
 
 Every read/write:
-    Traverses the AWS backbone
-    Goes directly to Tokyo RDS
-    Is encrypted in transit
-    Is logged and auditable
+
+- Traverses the AWS backbone
+- Goes directly to Tokyo RDS
+- Is encrypted in transit
+- Is logged and auditable
+
 São Paulo is stateless compute.
 
 Why Transit Gateway Is Used (Not VPC Peering)
 At this scale and sensitivity:
-    VPC peering becomes brittle
-    Routing rules multiply
-    Auditing cross-region flows becomes harder
+
+- VPC peering becomes brittle
+- Routing rules multiply
+- Auditing cross-region flows becomes harder
+
 Transit Gateway provides:
-    Centralized routing
-    Explicit control of allowed paths
-    Clear inspection points
-    Enterprise-grade segmentation
+
+- Centralized routing
+- Explicit control of allowed paths
+- Clear inspection points
+- Enterprise-grade segmentation
+
 In regulated environments:
-    Transit Gateway is preferred because it creates a visible, controllable data corridor.
+
+- Transit Gateway is preferred because it creates a visible, controllable data corridor.
 
 That matters for audits.
 
 CloudFront’s Role (Single URL, Multiple Regions)
-  There is only one public URL: <https://chewbacca-growls.com>
+
+- There is only one public URL: <https://chewbacca-growls.com>
 
 CloudFront:
-    Terminates TLS
-    Applies WAF
-    Routes users to the nearest healthy region
-    Never stores PHI
-    Only caches:
-        Static assets
-        Non-sensitive responses
-        Content explicitly marked cacheable
 
-  CloudFront is legally safe because:
-    It is not a data stor
-    It does not persist medical records
-    It respects cache control rules
+- Terminates TLS
+- Applies WAF
+- Routes users to the nearest healthy region
+- Never stores PHI
+- Only caches:
+  - Static assets
+  - Non-sensitive responses
+  - Content explicitly marked cacheable
+
+CloudFront is legally safe because:
+
+- It is not a data store
+- It does not persist medical records
+- It respects cache control rules
 
 Data Flow (End-to-End)
 
 Let’s walk a real example.
 
 Example: Japanese patient visiting São Paulo
-    1. Patient visits clinic in São Paulo
-    2. Doctor opens chewbacca-growls.com
-    3. CloudFront routes request to São Paulo EC2
-    4. São Paulo EC2:
-        Authenticates request
-        Does not store PHI locally
-        Opens encrypted connection to Tokyo RDS via Transit Gateway
-    5. Data is read/written only in Tokyo
-    6. Response is returned to São Paulo doctor
+
+1. Patient visits clinic in São Paulo
+2. Doctor opens chewbacca-growls.com
+3. CloudFront routes request to São Paulo EC2
+
+4. São Paulo EC2:
+
+- Authenticates request
+- Does not store PHI locally
+- Opens encrypted connection to Tokyo RDS via Transit Gateway
+
+1. Data is read/written only in Tokyo
+2. Response is returned to São Paulo doctor
 
 At no point:
-    Is PHI stored outside Japan
-    Is data replicated
-    Is a local database created
+
+- Is PHI stored outside Japan
+- Is data replicated
+- Is a local database created
 
 This satisfies APPI compliance.
 
 Why This Is the Correct Tradeoff
 What Japan cares about
-    Data sovereignty
-    Auditability
-    Legal certainty
+
+- Data sovereignty
+- Auditability
+- Legal certainty
 
 What the business cares about
-    Doctors can work where patients are
-    Latency is reasonable
-    Single global app
-    No duplicated systems
+
+- Doctors can work where patients are
+- Latency is reasonable
+- Single global app
+- No duplicated systems
 
 This architecture:
-    Accepts slightly higher latency
-    In exchange for legal compliance and operational simplicity
+
+- Accepts slightly higher latency
+- In exchange for legal compliance and operational simplicity
 
 That is the correct trade in healthcare.
 
 What Would Be Illegal (And Why)
 
-❌ RDS Read Replica in São Paulo
-→ Data at rest outside Japan
-
-❌ Aurora Global Database
-→ Storage replication outside Japan
-
-❌ Local cache of patient records on EC2 disk
-→ Persistent PHI outside Japan
-
-❌ CloudFront caching PHI
-→ Edge persistence outside Japan
+```text
+❌ RDS Read Replica in São Paulo → Data at rest outside Japan
+❌ Aurora Global Database → Storage replication outside Japan
+❌ Local cache of patient records on EC2 disk → Persistent PHI outside Japan
+❌ CloudFront caching PHI → Edge persistence outside Japan
+```
 
 These are not “bad practices.”
 They are compliance violations.
 
 Why This Lab Matters for Your Career
-  Most engineers:
-    Learn “multi-region for availability”
-    Learn “replicate everything everywhere”
+
+- Most engineers:
+  - Learn “multi-region for availability”
+  - Learn “replicate everything everywhere”
 
 Regulated reality is different.
+
 This lab teaches you to:
-    Translate law into architecture
-    Design global systems with asymmetric constraints
-    Explain why a slower design is the correct one
-    Speak confidently to:
-      Security
-      Legal
-      Compliance
-      Auditors
+
+Translate law into architecture
+
+- Design global systems with asymmetric constraints
+- Explain why a slower design is the correct one
+- Speak confidently to:
+  - Security
+  - Legal
+  - Compliance
+  - Auditors
 
 If you can explain this architecture clearly, you are senior-level.
 
 How to Talk About This in an Interview
 
-    “I designed a multi-region medical application where all PHI remained in Japan to comply with APPI.
-    CloudFront provided global access, São Paulo ran stateless compute only, and all reads/writes traversed a Transit Gateway to Tokyo RDS.
-    The design intentionally traded some latency for legal certainty and auditability.”
+```text
+“I designed a multi-region medical application where all PHI remained in Japan to comply with APPI.
+CloudFront provided global access, São Paulo ran stateless compute only, and all reads/writes traversed a Transit Gateway to Tokyo RDS.
+The design intentionally traded some latency for legal certainty and auditability.”
+```
 
 That answer will stop the room.
 
-One Sentence to Remember
-  ---> Global access does not require global storage.
+- One Sentence to Remember ---> Global access does not require global storage.
+- That sentence is the heart of modern regulated cloud architecture.
 
-That sentence is the heart of modern regulated cloud architecture.
+---
 
 ### LAB 3A
 
-Lab 3A — Japan Medical
+#### Lab 3A — Japan Medical
+
 Cross-Region Architecture with Transit Gateway (APPI-Compliant)
 
-🎯 Lab Objective
+##### 🎯 Lab Objective
+
 In this lab, you will design and deploy a cross-region medical application architecture that:
-  Uses two AWS regions
-    Tokyo (ap-northeast-1) — data authority
-    São Paulo (sa-east-1) — compute extension
-  Connects regions using AWS Transit Gateway
-  Serves traffic through a single global URL
-  Stores all patient medical data (PHI) only in Japan
-  Allows doctors overseas to read/write records legally
+
+- Uses two AWS regions
+  - Tokyo (ap-northeast-1) — data authority
+  - São Paulo (sa-east-1) — compute extension
+- Connects regions using AWS Transit Gateway
+- Serves traffic through a single global URL
+- Stores all patient medical data (PHI) only in Japan
+- Allows doctors overseas to read/write records legally
 
 This lab is a warm-up for real DevOps and platform engineering, where:
-  environments are separated
-  Terraform state is split
-  pipelines are independent
-  coordination matters more than copy-paste
 
-🏥 Real-World Context (Why This Exists)
+- environments are separated
+- Terraform state is split
+- pipelines are independent
+- coordination matters more than copy-paste
+
+##### 🏥 Real-World Context (Why This Exists)
 
 Japan’s privacy law, 個人情報保護法 (APPI), places strict requirements on the handling of personal and medical data.
+
 For healthcare systems, the safest and most common interpretation is:
-    Japanese patient medical data must be stored physically inside Japan. (Don't even mess with this)
+  
+- Japanese patient medical data must be stored physically inside Japan. (Don't even mess with this)
 
 This applies even when:
-    the patient is traveling abroad
-    the doctor is located overseas
-    the application is accessed globally
 
-📌 Access is allowed. Storage is not.
-    --> This lab models how real medical systems comply with that rule.
+- the patient is traveling abroad
+- the doctor is located overseas
+- the application is accessed globally
 
-🌍 Regional Roles
-🇯🇵 Tokyo — Primary Region (Data Authority)
-Tokyo is the source of truth.
+📌 Access is allowed. Storage is not. --> This lab models how real medical systems comply with that rule.
+
+##### 🌍 Regional Roles
+
+🇯🇵 Tokyo — Primary Region (Data Authority) Tokyo is the source of truth.
+
 It contains:
-    RDS (medical records)
-    Primary VPC
-    Application tier (Lab 2 stack)
-    Transit Gateway (hub)
-    Parameter Store & Secrets Manager (authoritative)
-    Logging, auditing, backups
-    Really hot chicks who need men to impregnate them.
+
+- RDS (medical records)
+- Primary VPC
+- Application tier (Lab 2 stack)
+- Transit Gateway (hub)
+- Parameter Store & Secrets Manager (authoritative)
+- Logging, auditing, backups
+- Really hot chicks who need men to impregnate them.
 
 All data at rest lives here.
+
 If Tokyo is unavailable:
-    the system may degrade
-    but data residency is never violated
+
+- the system may degrade
+- but data residency is never violated
 
 This is intentional and correct.
 
-🇧🇷 São Paulo — Secondary Region (Compute-Only)
-
-São Paulo exists to serve doctors and staff physically located in South America.
+🇧🇷 São Paulo — Secondary Region (Compute-Only) São Paulo exists to serve doctors and staff physically located in South America.
 
 It contains:
-    VPC
-    EC2 + Auto Scaling Group
-    Application tier (Lab 2 stack)
-    Transit Gateway (spoke)
-    Even hotter chicks who need you to throw it down and impregnate them.
+
+- VPC
+- EC2 + Auto Scaling Group
+- Application tier (Lab 2 stack)
+- Transit Gateway (spoke)
+- Even hotter chicks who need you to throw it down and impregnate them.
 
 It does not contain:
-    RDS
-    Read replicas
-    Backups
-    Persistent storage of PHI
-    Keisha. No Keisha here.
 
-São Paulo is stateless compute.<----> All reads and writes go directly to Tokyo.
+- RDS
+- Read replicas
+- Backups
+- Persistent storage of PHI
+- Keisha. No Keisha here.
 
-🌐 Networking Model
-Why Transit Gateway?
-Transit Gateway is used instead of VPC peering because it provides:
-    Clear, auditable traffic paths
-    Centralized routing control
-    Enterprise-grade segmentation
-    A visible “data corridor” for compliance reviews
+São Paulo is stateless compute. <----> All reads and writes go directly to Tokyo.
+
+##### 🌐 Networking Model
+
+Why Transit Gateway? Transit Gateway is used instead of VPC peering because it provides:
+
+- Clear, auditable traffic paths
+- Centralized routing control
+- Enterprise-grade segmentation
+- A visible “data corridor” for compliance reviews
 
 In regulated environments, clarity beats convenience.
 
+```text
 How Traffic Flows
 
 Doctor (São Paulo)
@@ -785,39 +889,46 @@ Tokyo VPC
    ↓
 Tokyo RDS (PHI stored here only)
 The entire path stays on the AWS backbone and is encrypted in transit.
+```
 
-🌐 Single Global URL
+##### 🌐 Single Global URL
 
 There is only one public URL: <https://chewbacca-growls.com>
 
 CloudFront:
-    Terminates TLS
-    Applies WAF
-    Routes users to the nearest healthy region
-    Never stores patient data
-    Caches only content explicitly marked safe
+
+- Terminates TLS
+- Applies WAF
+- Routes users to the nearest healthy region
+- Never stores patient data
+- Caches only content explicitly marked safe
 
 CloudFront is allowed because:
-    it is not a database
-    it does not persist PHI
-    it respects cache-control rules
 
-🏗️ Terraform & DevOps Structure
+- it is not a database
+- it does not persist PHI
+- it respects cache-control rules
+
+##### 🏗️ Terraform & DevOps Structure
+
 Important: Multi-Terraform-State Reality
 
 In real organizations, regions are not deployed from one Terraform state.
 
 For this lab:
-    Tokyo and São Paulo are separate Terraform states
-    Each state will eventually map to a separate Jenkins job
-    States communicate only through:
-        Terraform outputs
-        Remote state references
-        Explicit variables
 
-This is intentional.---> You are learning how real DevOps teams coordinate infrastructure.
+- Tokyo and São Paulo are separate Terraform states
+- Each state will eventually map to a separate Jenkins job
+- States communicate only through:
+  - Terraform outputs
+  - Remote state references
+  - Explicit variables
+
+This is intentional. ---> You are learning how real DevOps teams coordinate infrastructure.
 
 Expected Repository Layout
+
+```text
 lab-3/
 ├── tokyo/
 │   ├── main.tf        # Lab 2 + marginal TGW hub code
@@ -828,35 +939,37 @@ lab-3/
 │   ├── main.tf        # Lab 2 minus DB + TGW spoke code
 │   ├── variables.tf
 │   └── data.tf        # Reads Tokyo remote state
+```
 
-🚆 Naming Conventions (Important)
+##### 🚆 Naming Conventions (Important)
 
 To make the architecture feel local and intentional:
-Tokyo (train stations)
-    shinjuku-*
-    shibuya-*
-    ueno-*
-    akihabara-*
 
-São Paulo (Japanese district)
-    liberdade-*
+- Tokyo (train stations)
+  - shinjuku-*
+  - shibuya-*
+  - ueno-*
+  - akihabara-*
+- São Paulo (Japanese district)
+  - liberdade-*
 
 You should be able to look at a resource name and know the region immediately.
 
-🔧 What Changes from Lab 2
-Tokyo (minimal changes)
-    Add Transit Gateway
-    Attach Tokyo VPC to TGW
-    Create TGW peering request
-    Add return routes for São Paulo CIDR
-    Update RDS security group to allow São Paulo VPC CIDR
+##### 🔧 What Changes from Lab 2
 
-São Paulo (new deployment)
-    Deploy Lab 2 stack without RDS
-    Create São Paulo Transit Gateway
-    Accept TGW peering
-    Attach São Paulo VPC to TGW
-    Add routes pointing Tokyo CIDR → TGW
+- Tokyo (minimal changes)
+  - Add Transit Gateway
+  - Attach Tokyo VPC to TGW
+  - Create TGW peering request
+  - Add return routes for São Paulo CIDR
+  - Update RDS security group to allow São Paulo VPC CIDR
+
+- São Paulo (new deployment)
+  - Deploy Lab 2 stack without RDS
+  - Create São Paulo Transit Gateway
+  - Accept TGW peering
+  - Attach São Paulo VPC to TGW
+  - Add routes pointing Tokyo CIDR → TGW
 
 🔐 Security Model (Read Carefully)
   RDS allows inbound only from:
@@ -907,9 +1020,9 @@ If you can explain this lab clearly, you are operating at a Senior level.
 
 🗣️ Interview Talk Track (Memorize This)
 
-    “I designed a cross-region medical system where all PHI remained in Japan to comply with APPI.
-    Tokyo hosted the database, São Paulo ran stateless compute, and Transit Gateway provided a controlled data corridor.
-    CloudFront delivered a single global URL without violating data residency.”
+```text
+“I designed a cross-region medical system where all PHI remained in Japan to comply with APPI. Tokyo hosted the database, São Paulo ran stateless compute, and Transit Gateway provided a controlled data corridor. CloudFront delivered a single global URL without violating data residency.”
+```
 
 That answer will stop the room.
 
@@ -918,11 +1031,13 @@ That answer will stop the room.
 
 ### LAB 3B
 
-Deliverables (Students must submit)
-Deliverable A — “Audit Evidence Pack” (one folder)
+#### Deliverables (Students must submit)
+
+- **Deliverable A — “Audit Evidence Pack” (one folder)**
 
 学生は audit-pack/ フォルダを提出。
 
+```text
 audit-pack/
 ├── 00_architecture-summary.md
 ├── 01_data-residency-proof.txt
@@ -930,39 +1045,48 @@ audit-pack/
 ├── 03_waf-proof.txt
 ├── 04_cloudtrail-change-proof.txt
 ├── 05_network-corridor-proof.txt
-└── evidence.json   (Malgus scripts output)
+└── 06_evidence.json   (Malgus scripts output)
+```
 
-Deliverable B — One paragraph “auditor narrative”
+- **Deliverable B — One paragraph “auditor narrative”**
 “この設計が APPI 的に安全で、なぜ DB を海外に置けないか”を 8〜12 行で説明。
 
-Verification Commands (CLI proof students can paste)
+#### Verification Commands (CLI proof students can paste)
 
 1) Data residency proof (RDS only in Tokyo)
 
-    Tokyo: RDS exists
+Tokyo: RDS exists
 
-            aws rds describe-db-instances --region ap-northeast-1 \
-          --query "DBInstances[].{DB:DBInstanceIdentifier,AZ:AvailabilityZone,Region:'ap-northeast-1',Endpoint:Endpoint.Address}"
+```bash
+aws rds describe-db-instances --region ap-northeast-1 \
+--query "DBInstances[].{DB:DBInstanceIdentifier,AZ:AvailabilityZone,Region:'ap-northeast-1',Endpoint:Endpoint.Address}"
+```
 
-    São Paulo: No RDS
+São Paulo: No RDS
 
-            aws rds describe-db-instances --region sa-east-1 \
-          --query "DBInstances[].DBInstanceIdentifier"
+```bash
+aws rds describe-db-instances --region sa-east-1 \
+--query "DBInstances[].DBInstanceIdentifier"
+```
 
 2) Edge proof (CloudFront logs show cache + access)
     Students capture request headers:
 
-        curl -I https://chewbacca-growls.com/api/public-feed
+```bash
+curl -I https://chewbacca-growls.com/api/public-feed
+```
 
 And/or submit CloudFront standard log evidence (Hit/Miss/RefreshHit)
-
-1) WAF proof
+#
+#### WAF proof
 
 Provide:
-        WAF log snippet or Insights summary
-        WAF logging destination options are documented
 
-1) Change proof (CloudTrail)
+- WAF log snippet or Insights summary
+- WAF logging destination options are documented
+#
+#### Change proof (CloudTrail)
+
 CloudTrail has event history with a 90-day immutable record of management events
 
 Students capture:
@@ -975,70 +1099,87 @@ Students prove:
 
 2) AWS CLI verification (students can prove the bucket/logs exist)
 
-        aws s3 ls s3://Class_Lab3/
-        # If logs are under a folder/prefix:
-        aws s3 ls s3://Class_Lab3/cloudfront-logs/ --recursive | tail -n 20
+```bash
+aws s3 ls s3://Class_Lab3/
+# If logs are under a folder/prefix:
+aws s3 ls s3://Class_Lab3/cloudfront-logs/ --recursive | tail -n 20
+```
 
 Download one file manually (sanity check):
 
-    aws s3 cp s3://Class_Lab3/cloudfront-logs/<somefile>.gz .
+```bash
+aws s3 cp s3://Class_Lab3/cloudfront-logs/<somefile>.gz .
+```
 
-Script 1 — malgus_residency_proof.py
-Creates a “DB only in Tokyo” proof file.
+- Script 1 — malgus_residency_proof.py
+  - Creates a “DB only in Tokyo” proof file.
 
-Script 2 — malgus_tgw_corridor_proof.py
-Shows TGW attachments + routes that form the “legal corridor”.
+- Script 2 — malgus_tgw_corridor_proof.py
+  - Shows TGW attachments + routes that form the “legal corridor”.
 
-Script 3 — malgus_cloudtrail_last_changes.py
-Pulls recent CloudTrail events for “who changed what”.
-        --> Event history is available by default; it provides a 90-day record of management events.
+- Script 3 — malgus_cloudtrail_last_changes.py
+  - Pulls recent CloudTrail events for “who changed what”.
+  - Event history is available by default; it provides a 90-day record of management events.
 
-Script 4 — malgus_waf_summary.py
-Summarizes WAF logs (Allow vs Block) from CloudWatch Logs destination.
-WAF logging destinations: CloudWatch Logs, S3, Firehose.
+- Script 4 — malgus_waf_summary.py
+  - Summarizes WAF logs (Allow vs Block) from CloudWatch Logs destination.
+  - WAF logging destinations: CloudWatch Logs, S3, Firehose.
 
-Script 5 — malgus_cloudfront_log_explainer.py (optional)
-If you ingest CloudFront standard logs into S3, this script reads a log file and counts Hit/Miss/RefreshHit.
+- Script 5 — malgus_cloudfront_log_explainer.py (optional)
+  - If you ingest CloudFront standard logs into S3, this script reads a log file and counts Hit/Miss/RefreshHit.
 
 CloudFront standard logs reference Hit / RefreshHit semantics.
 A) Standard logs in S3 (downloaded locally)
 
-        python3 malgus_cloudfront_log_explainer.py --mode standard cloudfront.log.gz
-        python3 malgus_cloudfront_log_explainer.py --mode standard cloudfront_part1.log cloudfront_part2.log
+```python
+python3 malgus_cloudfront_log_explainer.py --mode standard cloudfront.log.gz
+python3 malgus_cloudfront_log_explainer.py --mode standard cloudfront_part1.log cloudfront_part2.log
+```
 
 B) Real-time logs as JSON lines
 
-        python3 malgus_cloudfront_log_explainer.py --mode realtime realtime_logs.jsonl
+```python
+python3 malgus_cloudfront_log_explainer.py --mode realtime realtime_logs.jsonl
+```
 
 Final Lab Assumptions (Locked)
-    S3 Bucket: Class_Lab3
-    CloudFront Logs Prefix: Chwebacca-logs/ ← intentionally misspelled
-    AWS Account ID: 200819971986
+
+- S3 Bucket: Class_Lab3
+- CloudFront Logs Prefix: Chwebacca-logs/ ← intentionally misspelled
+- AWS Account ID: 200819971986
 
 Running Scripts:
 
-        python3 malgus_cloudfront_log_explainer.py --latest 5
-        python3 malgus_cloudfront_log_explainer.py --prefix cloudfront-logs/ --latest 10
-        python3 malgus_cloudfront_log_explainer.py --prefix cloudfront-logs/ --latest 5 --keep
+```python
+python3 malgus_cloudfront_log_explainer.py --latest 5
+python3 malgus_cloudfront_log_explainer.py --prefix cloudfront-logs/ --latest 10
+python3 malgus_cloudfront_log_explainer.py --prefix cloudfront-logs/ --latest 5 --keep
+```
 
 From stdin (nice for pipelines)
 
-        zcat cloudfront.log.gz | python3 malgus_cloudfront_log_explainer.py --mode standard -
+```bash
+zcat cloudfront.log.gz | python3 malgus_cloudfront_log_explainer.py --mode standard -
+```
 
 Where “Hit / Miss / RefreshHit” come from (student-facing truth)
-    In standard CloudFront logs, you usually read the field:
-        x-edge-result-type (primary)
-        sometimes also x-edge-response-result-type
 
-    Values commonly include: Hit, Miss, RefreshHit, plus other states like Error, LimitExceeded, etc.
+In standard CloudFront logs, you usually read the field:
 
-That’s why the script reports “Other:*” — so students don’t blindly ignore unusual outcomes.
+- x-edge-result-type (primary)
+- sometimes also x-edge-response-result-type
 
-#
+Values commonly include: Hit, Miss, RefreshHit, plus other states like Error, LimitExceeded, etc. That’s why the script reports “Other:*” — so students don’t blindly ignore unusual outcomes.
+
+---
 
 ## 🌐 LAB 4
 
-What you’re building:
+### Lab 4 Deliverables
+
+- [John Sweeney - Deliverables](https://github.com/jastek69/armageddon-C7-LAB1C-H/tree/main/LAB1C-H-DELIVERABLES)
+
+#### What you’re building:
 
 When an alarm fires, you will automatically:
 
@@ -1047,20 +1188,24 @@ When an alarm fires, you will automatically:
   3) store report + evidence bundle to S3
   4) notify the on-call engineer (SNS)
 
-Why it matters
-This is how mature companies reduce MTTR:
-  A) evidence collection is automated (less guesswork)
-  B) postmortems are consistent (better prevention)
-  C) alerts include context (fewer “what’s happening?” pages)
+#### Why it matters
 
-1) The “Integration Contract” (what Lambda must output)
+This is how mature companies reduce MTTR:
+
+  1) evidence collection is automated (less guesswork)
+  2) postmortems are consistent (better prevention)
+  3) alerts include context (fewer “what’s happening?” pages)
+
+A) The “Integration Contract” (what Lambda must output)
 You must write two objects to S3:
 
-A) Evidence bundle (JSON)
+B) Evidence bundle (JSON)
+
+```bash
 s3://<bucket>/reports/<incident_id>.json
+```
 
-Must contain:
-
+<font color='red'>Must contain:
   1) incident_id
   2) time_window_utc (start/end)
   3) alarm (name, metric, threshold, state)
@@ -1068,29 +1213,37 @@ Must contain:
   5) ssm_params (endpoint/port/name)
   6) secret_meta (host/port/dbname/username only — no password)
 
-B) Human report (Markdown)
+</font>
+C) Human report (Markdown)
+
+```text
 s3://<bucket>/reports/<incident_id>.md
+```
 
 Must follow your template headings exactly.
 
 1) The Logs Insights Query Pack (Minimum required)
+
 Your Lambda must run at least these via Logs Insights:
-  App: error rate over time (bin 1m)
-  App: latest 50 DB-related error lines
-  WAF: allow vs block
-  WAF: top blocked IP/URI pairs
+
+- App: error rate over time (bin 1m)
+- App: latest 50 DB-related error lines
+- WAF: allow vs block
+- WAF: top blocked IP/URI pairs
 
 This is built on StartQuery + GetQueryResults.
 
 1) Bedrock invocation: two supported paths (You need to pick one)
 
 Critical reality: Bedrock request bodies differ per model provider/family.
-AWS explicitly warns that models differ in what they accept/return.
-Documentation: <https://docs.aws.amazon.com/bedrock/latest/userguide/inference-invoke.html?utm_source=chatgpt.com>
+
+- AWS explicitly warns that models differ in what they accept/return.
+- Documentation: <https://docs.aws.amazon.com/bedrock/latest/userguide/inference-invoke.html?utm_source=chatgpt.com>
 
 Option 1: Anthropic Claude via Bedrock “messages” style payload
-Use AWS’s own examples as the canonical reference.
-AWS Documentation: <https://docs.aws.amazon.com/bedrock/latest/userguide/bedrock-runtime_example_bedrock-runtime_InvokeModel_AnthropicClaude_section.html?utm_source=chatgpt.com>
+
+- Use AWS’s own examples as the canonical reference.
+- AWS Documentation: <https://docs.aws.amazon.com/bedrock/latest/userguide/bedrock-runtime_example_bedrock-runtime_InvokeModel_AnthropicClaude_section.html?utm_source=chatgpt.com>
 
 Python snippet (framework): claude.py (folder)
 
@@ -1098,17 +1251,22 @@ Option 2: “Generic” InvokeModel (students adapt)
 This exists to teach them to read provider-specific schemas and not cargo-cult. Start here, then adapt based on the model chosen
 
 1) Lambda packaging: the clean “class-safe” way
+
 Directory
 
+```text
 lambda_ir_reporter/
   handler.py
   requirements.txt   (optional)
   build.sh
   lambda_ir_reporter.zip
-
 build.sh (students run locally)
+```
 
-# !/usr/bin/env bash
+#
+#### !/usr/bin/env bash
+
+```bash
 set -euo pipefail
 
 rm -rf build lambda_ir_reporter.zip
@@ -1117,12 +1275,12 @@ mkdir -p build
 cp handler.py build/
 
 # If you add external deps (usually you don't need any for boto3)
-
 # pip install -r requirements.txt -t build/
 
 cd build
 zip -r ../lambda_ir_reporter.zip .
 cd ..
+```
 
 Then in Terraform:
   filename = "lambda_ir_reporter.zip"
@@ -1134,6 +1292,7 @@ SNS → Lambda payloads can vary, so students should make Lambda accept:
 
 Local test event (paste into Lambda console “Test”)
 
+```json
 {
   "Records": [
     {
@@ -1144,9 +1303,11 @@ Local test event (paste into Lambda console “Test”)
     }
   ]
 }
+```
 
-Lambda parsing pattern (required)
+#### Lambda parsing pattern (required)
 
+```python
 def parse_alarm_event(event):
     # SNS wrapped?
     if "Records" in event and event["Records"] and "Sns" in event["Records"][0]:
@@ -1156,557 +1317,548 @@ def parse_alarm_event(event):
         except json.JSONDecodeError:
             return {"raw_message": msg}
     return event
+```
 
 1) How students validate success (objective)
-A) Confirm Lambda invoked
-  aws logs tail /aws/lambda/<function-name> --since 10m
+    A) Confirm Lambda invoked
 
-B) Confirm report objects exist
-  aws s3 ls s3://<REPORT_BUCKET>/reports/ --recursive | tail
+    ```bash
+    aws logs tail /aws/lambda/<function-name> --since 10m
+    ```
 
-C) Open the report
-  aws s3 cp s3://<REPORT_BUCKET>/reports/<incident_id>.md -
+    B) Confirm report objects exist
 
-D) Confirm the evidence bundle does NOT include secrets
-  aws s3 cp s3://<REPORT_BUCKET>/reports/<incident_id>.json - | grep -i password && echo "FAIL"
+    ```bash
+    aws s3 ls s3://<REPORT_BUCKET>/reports/ --recursive | tail
+    ```
 
-1) “No hallucinations” enforcement (advanced requirement)
-Inside the prompt you give Bedrock, include:
-  “Use only evidence”
-  “If unknown, say Unknown”
-  “Cite the evidence key used for each claim”
+    C) Open the report
+
+    ```bash
+    aws s3 cp s3://<REPORT_BUCKET>/reports/<incident_id>.md -
+    ```
+
+    D) Confirm the evidence bundle does NOT include secrets
+
+    ```bash
+    aws s3 cp s3://<REPORT_BUCKET>/reports/<incident_id>.json - | grep -i password && echo "FAIL"
+    ```
+
+2) “No hallucinations” enforcement (advanced requirement)
+
+    Inside the prompt you give Bedrock, include:
+
+- “Use only evidence”
+- “If unknown, say Unknown”
+- “Cite the evidence key used for each claim”
 
 This matches the Bedrock guidance that you pass model-specific inference parameters in the request body—students must shape the prompt accordingly.
 
 1) Add the missing Terraform glue (SNS publish + report-ready)
-You already have SNS and Lambda wired. Add a second SNS message (optional but fun):
-  Subject: IR Report Ready
-  Message: S3 path + incident_id
+    You already have SNS and Lambda wired. Add a second SNS message (optional but fun):
+    Subject: IR Report Ready
+    Message: S3 path + incident_id
 
-This is just sns.publish(...) (you already used it).
+    This is just sns.publish(...) (you already used it).
 
-1) Upgrade path (extra credit, very “enterprise”)
-A) Attach the report to the incident thread
-  send the S3 path in SNS email
-  or publish to Slack via webhook (optional)
 
-B) Add a “Deep report” mode
-  Run 60-minute window queries
-  Add top URIs, top IPs, block rate bins
-  Add ALB metrics query (GetMetricData)
+2) Upgrade path (extra credit, very “enterprise”)
+    1. Attach the report to the incident thread send the S3 path in SNS email or publish to Slack via webhook (optional)
 
-C) Add WAF redaction / filtering
-AWS WAF supports redacted fields and filtering when enabling logging.
-Documentation: <https://docs.aws.amazon.com/waf/latest/developerguide/logging-destinations.html?utm_source=chatgpt.com>
+    2. Add a “Deep report” mode
+        Run 60-minute window queries
+        Add top URIs, top IPs, block rate bins
+        Add ALB metrics query (GetMetricData)
 
-## LAB1C-Bonus-I Auto-IR Runbook
-
-Human + Amazon Bedrock Incident Response
-
-Purpose
-This runbook defines how a human on-call engineer uses the Bedrock-generated incident report safely, verifies it against raw evidence, and produces a final, auditable incident artifact.
-
-Core rule:
-Bedrock accelerates analysis. Humans own correctness.
+    3. Add WAF redaction / filtering
+        AWS WAF supports redacted fields and filtering when enabling logging.
+        Documentation: <https://docs.aws.amazon.com/waf/latest/developerguide/logging-destinations.html?utm_source=chatgpt.com>
 
 ---
 
-## [🌐 LAB2]
-
-### Repurpose
-
-- Build on **Be A Man 1.1**
-- Connect to the **running EC2 instance** via SSH
-- Use **Vim** to edit `/var/www/html/index.html`
-- Add additional deliverables (wife, yacht, motivation)
-
-### Tasker 2
-
-### HW - Be A Man Challenge 1.2 (10 pts)
-
-- Must be in a GitHub repo link
-
-- Modify the currently running web server from 1.1 to add:
-
-  ```plaintext
-  "I found my wife on a party yacht in <insert location here>! 
-  Her name is <insert name here>!"
-  ```
-
-- Include a picture of the **woman you will have 5 sons by after making your cloud money**
+| Lab           | Deliverables                                                                                    | Repo                                                                                  |
+| ------------- |-------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------|
+| John Sweeney  | [DELIVERABLES](https://github.com/jastek69/Armageddon-C7-LAB4-SEIR/tree/main/LAB4-DELIVERABLES) | [Lab 4 Code](https://github.com/jastek69/Armageddon-C7-LAB4-SEIR/tree/main/LAB4-CODE) |
 
 ---
 
-## 📝 Summary
+### Lab 4 — Japan Medical
 
-Through these challenges, you will learn how to:
+#### Multi-Cloud Reality in Regulated Healthcare
 
-- Launch and configure a **custom webserver** on AWS EC2
-- Serve personalized content through Apache and HTML
-- Connect to a live instance and update it in real time
-- Troubleshoot AWS instances with security groups, Apache service, and logs
-- Build confidence in maintaining a **live cloud service**
-- Scale infrastructure using multi-region Terraform deployments
-- Perform Git operations including listing, branching, and pull requests
-- Practice Git merge workflows with pull requests and screenshots
-- **Automate and secure infrastructure** using Terraform for multi-region design
+#### ⚖️ Why This Lab Exists
 
-👉 Completing these tasks is the **next step in the Be A Man journey** toward mastering cloud automation.
-
----
-
-#### Lab 4 — Japan Medical
-
-Multi-Cloud Reality in Regulated Healthcare
-
-⚖️ Why This Lab Exists
 Many engineers fail in real life because:
-    They optimize locally
-    They assume uniform platforms
-    They treat compliance as “someone else’s problem”
+
+- They optimize locally
+- They assume uniform platforms
+- They treat compliance as “someone else’s problem”
 
 This lab teaches:
-    Cross-cloud thinking
-    Legal translation into architecture
-    Responsibility beyond your own stack
-    Professional restraint
 
-🎯 What This Lab Is About
+- Cross-cloud thinking
+- Legal translation into architecture
+- Responsibility beyond your own stack
+- Professional restraint
 
-In this lab, you are not solving a technical problem first.
-You are solving a human, legal, and organizational problem.
+#### 🎯 What This Lab Is About
 
-A Japanese medical center operates globally.
-    Tokyo is the data authority
-    Compliance is non-negotiable
-    And now:
-      The New York branch refuses to use AWS.
+In this lab, you are not solving a technical problem first. You are solving a human, legal, and organizational problem.
+
+1. Japanese medical center operates globally.
+2. Tokyo is the data authority
+3. Compliance is non-negotiable
+4. And now, the New York branch refuses to use AWS.
 
 Instead, they deploy on Google Cloud Platform (GCP).
-No negotiations. No exceptions.
-Your job is not to convince them otherwise.
-Your job is to make the system work — legally and responsibly.
 
-🧠 The First Reality: Technology Is Not the Decision
+- No negotiations. No exceptions.
+- Your job is not to convince them otherwise.
+- Your job is to make the system work — legally and responsibly.
+
+#### 🧠 The First Reality: Technology Is Not the Decision
+
 Many engineers assume:
-    “If we pick the right platform, the problem goes away.”
+  
+- “If we pick the right platform, the problem goes away.”
 
 In real organizations:
-    Technology choices are political
-    Vendor preferences exist
-    Contracts predate architecture
-    Teams have autonomy
-    Mergers create fragmentation
+
+- Technology choices are political
+- Vendor preferences exist
+- Contracts predate architecture
+- Teams have autonomy
+- Mergers create fragmentation
 
 You will encounter:
-    AWS in one region
-    GCP in another
-    Azure somewhere else
-    Oracle, IBM, OpenShift, or on-prem in legacy branches
+
+- AWS in one region
+- GCP in another
+- Azure somewhere else
+- Oracle, IBM, OpenShift, or on-prem in legacy branches
 
 📌 Compliance does not change just because technology does.
 
-🏥 Legal Constraint Still Applies (This Does Not Change)
-Even in a multi-cloud world:
-    --> Japanese patient medical data (PHI) must be stored only in Japan.
+#### 🏥 Legal Constraint Still Applies (This Does Not Change)
+
+Even in a multi-cloud world: --> Japanese patient medical data (PHI) must be stored only in Japan.
 
 This rule does not bend for:
-    GCP
-    Azure
-    “Better latency”
-    “Local autonomy”
-    “It’s inconvenient”
+
+- GCP
+- Azure
+- “Better latency”
+- “Local autonomy”
+- “It’s inconvenient”
 
 There is:
-    No exemption
-    No workaround
-    No “temporary” exception
 
-🌎 What the New York Branch Is Allowed to Do
+- No exemption
+- No workaround
+- No “temporary” exception
+
+#### 🌎 What the New York Branch Is Allowed to Do
+
 The New York branch (on GCP) may:
-    Deploy compute only (VMs, autoscaling groups)
-    Serve doctors locally
-    Authenticate users
-    Process requests in memory
-    Call APIs across providers
-    Read and write data remotely
+
+- Deploy compute only (VMs, autoscaling groups)
+- Serve doctors locally
+- Authenticate users
+- Process requests in memory
+- Call APIs across providers
+- Read and write data remotely
 
 The New York branch may not:
-    Store patient data at rest
-    Deploy databases
-    Cache medical records
-    Replicate data
-    Snapshot, export, or log PHI
+
+- Store patient data at rest
+- Deploy databases
+- Cache medical records
+- Replicate data
+- Snapshot, export, or log PHI
 
 This is exactly the same rule as São Paulo — the platform changed, the law did not.
 
-🔗 Connectivity Must Respect Compliance
+#### 🔗 Connectivity Must Respect Compliance
+
 You are now operating across:
-    Cloud providers
-    Legal jurisdictions
-    Organizational boundaries
+
+- Cloud providers
+- Legal jurisdictions
+- Organizational boundaries
 
 The system must ensure:
-    Secure connectivity from GCP → Japan
-    Clear network paths
-    Encryption in transit
-    Strong identity and access controls
-    Complete auditability
 
-And critically:
-    --> No accidental data persistence outside Japan
+- Secure connectivity from GCP → Japan
+- Clear network paths
+- Encryption in transit
+- Strong identity and access controls
+- Complete auditability
+
+And critically: --> No accidental data persistence outside Japan
 
 This includes:
-    Disk
-    Logs
-    Queues
-    Caches
-    Backups
-    Temporary files
 
-🧑‍⚕️ Focus on the Human Experience
-    This lab is not just infrastructure.
-    You must consider three people:
+- Disk
+- Logs
+- Queues
+- Caches
+- Backups
+- Temporary files
 
-👩‍⚕️ Doctor (New York)
-Expectations:
-    Fast, reliable access to patient records
-    No concern about where data lives
-    No manual compliance steps
-    Trust that the system is legal
+#### 🧑‍⚕️ Focus on the Human Experience
 
-Risks:
-    Latency
-    Connectivity failures
-    Partial outages
+This lab is not just infrastructure. You must consider three people:
 
-Your responsibility:
-    --> Design systems where doctors never have to think about compliance — because you already did.
+- 👩‍⚕️ Doctor (New York)
+  - Expectations:
+    - Fast, reliable access to patient records
+    - No concern about where data lives
+    - No manual compliance steps
+    - Trust that the system is legal
+  - Risks:
+    - Latency
+    - Connectivity failures
+    - Partial outages
+  - Your responsibility:
+    - Design systems where doctors never have to think about compliance — because you already did.
 
-🧑‍🦽 Patient (Japanese Citizen)
-Expectations:
-    Their data is protected
-    Their data is not exported
-    Their rights are respected
-    Their records are accurate
+- 🧑‍🦽 Patient (Japanese Citizen)
+  - Expectations:
+    - Their data is protected
+    - Their data is not exported
+    - Their rights are respected
+    - Their records are accurate
+  - Patients do not care about:
+    - AWS vs GCP
+    - Cloud vendors
+    - Network topology
+  - They care about: --> Trust
+  - Your responsibility: --> Architect in a way that never betrays that trust.
 
-Patients do not care about:
-    AWS vs GCP
-    Cloud vendors
-    Network topology
+- 🧑‍💼 Manager / Executive
+  - Expectations:
+    - Branch autonomy
+    - Regulatory safety
+    - No headlines
+    - No fines
+    - No “why didn’t you tell us?”
+  - Managers expect engineers to:
+    - Anticipate risk
+    - Explain tradeoffs clearly
+    - Say “no” when required
+    - Provide defensible designs
+  - Your responsibility: --> Make compliance boring and invisible.
 
-They care about:
-    --> Trust
+#### 🧠 The Core Lesson of Lab 4
 
-Your responsibility:
-    --> Architect in a way that never betrays that trust.
+- You do not control the technology landscape.
+- You control how responsibly it is connected.
+- Multi-cloud is not a badge of honor.
+- It is a constraint.
+- Good engineers complain.
+- Great engineers adapt without breaking the law.
 
-🧑‍💼 Manager / Executive
-Expectations:
-    Branch autonomy
-    Regulatory safety
-    No headlines
-    No fines
-    No “why didn’t you tell us?”
+#### 🗣️ How You Should Talk About This Lab
+  
+- If asked in an interview:
 
-Managers expect engineers to:
-    Anticipate risk
-    Explain tradeoffs clearly
-    Say “no” when required
-    Provide defensible designs
-
-Your responsibility:
-    --> Make compliance boring and invisible.
-
-🧠 The Core Lesson of Lab 4
-    You do not control the technology landscape.
-    You control how responsibly it is connected.
-
-Multi-cloud is not a badge of honor.
-It is a constraint.
-
-Good engineers complain.
-Great engineers adapt without breaking the law.
-
-🗣️ How You Should Talk About This Lab
-  If asked in an interview:
-      “We supported a medical branch on GCP while keeping all PHI in Japan.
-      The branch ran stateless compute only, and all patient data was accessed remotely under strict controls.
-      Compliance dictated the architecture — not cloud preference.”
+  ```text
+  “We supported a medical branch on GCP while keeping all PHI in Japan. The branch ran stateless compute only, and all patient data was accessed remotely under strict controls. Compliance dictated the architecture — not cloud preference.”
+  ```
 
 That answer signals maturity.
 
-### LAB 4 A Deliverables
+---
 
-Lab 4A — Japan Medical
-AWS ↔ GCP Secure Connectivity (IPSec VPN + BGP)
+### LAB 4 Deliverables
 
-🎯 Lab Objective
+#### Japan Medical AWS ↔ GCP Secure Connectivity (IPSec VPN + BGP)
+
+#### 🎯 Lab 4 Objective
+
 In this lab, you will design and validate secure, compliant connectivity between:
-    AWS Tokyo (ap-northeast-1) — authoritative data region
-    GCP Iowa (us-central1) — New York branch compute (GCP side)
+
+- AWS Tokyo (ap-northeast-1) — authoritative data region
+- GCP Iowa (us-central1) — New York branch compute (GCP side)
 
 using:
-    IPSec VPN
-    BGP for dynamic routing
-    No databases outside Japan
-    Strict process discipline
+
+- IPSec VPN
+- BGP for dynamic routing
+- No databases outside Japan
+- Strict process discipline
 
 This lab focuses on how regulated organizations connect clouds safely, not on “fastest possible networking.”
 
-🧠 Why This Lab Exists (Reality Check)
+#### 🧠 Why This Lab Exists (Reality Check)
+
 In real enterprises:
-    Not all branches use the same cloud
-    Not all teams report to the same platform group
-    Legal obligations override technical preference
-    Connectivity requires coordination, not heroics
+
+- Not all branches use the same cloud
+- Not all teams report to the same platform group
+- Legal obligations override technical preference
+- Connectivity requires coordination, not heroics
 
 This lab simulates a real multi-team, multi-provider connection where mistakes have consequences.
 
-🌍 Architecture Overview
-Regions
-    AWS: Tokyo (ap-northeast-1)
-    GCP: Iowa (us-central1)
+#### 🌍 Architecture Overview
 
-Roles
-  AWS Tokyo
-    RDS (PHI lives here only)
-    Transit Gateway (hub)
-    VPN termination (TGW VPN attachment)
+- Regions
+  - AWS: Tokyo (ap-northeast-1)
+  - GCP: Iowa (us-central1)
+- Roles
+  - AWS Tokyo
+    - RDS (PHI lives here only)
+    - Transit Gateway (hub)
+    - VPN termination (TGW VPN attachment)
+  - GCP Iowa
+    - VMs only (no databases)
+    - Network Connectivity Center (NCC)
+    - Cloud VPN (HA VPN)
+    - Cloud Router (BGP)
 
-  GCP Iowa
-    VMs only (no databases)
-    Network Connectivity Center (NCC)
-    Cloud VPN (HA VPN)
-    Cloud Router (BGP)
+#### 🔗 Connectivity Model
 
-🔗 Connectivity Model
-Technology Used
-    IPSec VPN (site-to-site)
-    BGP for dynamic route exchange
-    Private IP routing only
-    Encrypted in transit
+- Technology Used
+  - IPSec VPN (site-to-site)
+  - BGP for dynamic route exchange
+  - Private IP routing only
+  - Encrypted in transit
 
-BGP Link-Local Ranges (Given)
-You must use the following BGP IP ranges:
-  169.254.12.0/30
-  169.254.12.4/30
+- BGP Link-Local Ranges (Given)
+  - You must use the following BGP IP ranges:
+    - 169.254.12.0/30
+    - 169.254.12.4/30
 
 These are link-local and used only inside the tunnel.
 
-🔐 Security & Compliance Constraints (Non-Negotiable)
-    No PHI stored in GCP
-    No databases in GCP
-    No disk persistence of medical data
-    No logging of PHI
-    All traffic encrypted
-    All routing explicit and auditable
+#### 🔐 <font color='red'>Security & Compliance Constraints (Non-Negotiable)
+
+- No PHI stored in GCP
+- No databases in GCP
+- No disk persistence of medical data
+- No logging of PHI
+- All traffic encrypted
+- All routing explicit and auditable
 
 If a solution “works” but violates these rules, it fails the lab.
+</font>
+#### 🧩 What Each Side Is Responsible For
 
-🧩 What Each Side Is Responsible For
-AWS Tokyo Team (You)
-    Create Transit Gateway VPN attachment
-    Configure BGP ASN and peers
-    Advertise only Tokyo VPC CIDR
-    Accept routes from GCP
-    Ensure return routing is correct
-    Keep PHI inside Japan
+- AWS Tokyo Team (You)
+  - Create Transit Gateway VPN attachment
+  - Configure BGP ASN and peers
+  - Advertise only Tokyo VPC CIDR
+  - Accept routes from GCP
+  - Ensure return routing is correct
+  - Keep PHI inside Japan
+- GCP Iowa Team (You)
+  - Create HA VPN gateway
+  - Create Cloud Router (BGP enabled)
+  - Integrate with Network Connectivity Center
+  - Configure BGP peers with AWS
+  - Advertise only GCP VPC CIDR
+  - Ensure no data persistence
 
-GCP Iowa Team (You)
-    Create HA VPN gateway
-    Create Cloud Router (BGP enabled)
-    Integrate with Network Connectivity Center
-    Configure BGP peers with AWS
-    Advertise only GCP VPC CIDR
-    Ensure no data persistence
+#### 🔑 Process Reminder: Pre-Shared Keys (PSKs)
 
-🔑 Process Reminder: Pre-Shared Keys (PSKs)
-This Is Important
-In real environments:
-    --> Pre-Shared Keys are never sent over chat, screenshots, or tickets.
+This Is Important:
 
-For this lab:
-    Each VPN tunnel uses a PSK
-    PSKs must be:
-      Generated securely
-      Stored temporarily
-      Shared out-of-band
+##### <font color='red'>In real environments: --> Pre-Shared Keys are never sent over chat, screenshots, or tickets.</font>
 
-Acceptable Methods (Lab Simulation)
-    Password manager entry
-    Secure note shared verbally
-    Encrypted file (temporary)
-    One-time secure message
 
-Not Acceptable
-    Slack / Teams plaintext
-    Email
-    Hard-coding in Terraform repos
-    Screenshots
+For this lab: Each VPN tunnel uses a PSK
+
+- PSKs must be:
+  - Generated securely
+  - Stored temporarily
+  - Shared out-of-band
+- Acceptable Methods (Lab Simulation)
+  - Password manager entry
+  - Secure note shared verbally
+  - Encrypted file (temporary)
+  - One-time secure message
+
+- Not Acceptable
+  - Slack / Teams plaintext
+  - Email
+  - Hard-coding in Terraform repos
+  - Screenshots
 
 📌 Process discipline is part of the grade.
 
-🔧 High-Level Build Steps (No Code Yet)
-Step 1 — AWS Tokyo
-    Confirm Transit Gateway exists
-    Create Site-to-Site VPN attached to TGW
-    Enable dynamic routing (BGP)
-    Configure:
-      Local ASN (AWS side)
-      BGP peer IPs (169.254.12.x)
-      Two tunnels for HA
-    Export:
-      Tunnel outside IPs
-      BGP inside IPs
-      ASN
-      PSKs
+#### 🔧 High-Level Build Steps (No Code Yet)
 
-Step 2 — GCP Iowa
-    Create HA VPN gateway
-    Create Cloud Router
-    Enable BGP
-    Configure:
-      Peer ASN
-      Link-local IPs
-      Matching PSKs
-    Attach VPN to Network Connectivity Center
-    Advertise GCP VPC CIDR
+- Step 1 — AWS Tokyo
+  - Confirm Transit Gateway exists
+  - Create Site-to-Site VPN attached to TGW
+    - Enable dynamic routing (BGP)
+    - Configure:
+      - Local ASN (AWS side)
+      - BGP peer IPs (169.254.12.x)
+      - Two tunnels for HA
+    -Export
+      - Tunnel outside IPs
+      - BGP inside IPs
+      - ASN
+      - PSKs
+- Step 2 — GCP Iowa
+  - Create HA VPN gateway
+  - Create Cloud Router
+  - Enable BGP
+  - Configure:
+    - Peer ASN
+    - Link-local IPs
+    - Matching PSKs
+  - Attach VPN to Network Connectivity Center
+    - Advertise GCP VPC CIDR
+- Step 3 — Routing Validation
+  - Confirm
+    - AWS sees GCP routes
+    - GCP sees Tokyo routes
+    - No extra CIDRs exchanged
 
-Step 3 — Routing Validation
-    Confirm:
-      AWS sees GCP routes
-      GCP sees Tokyo routes
-      No extra CIDRs exchanged
+#### ✅ What Students Must Prove (Deliverables)
 
-✅ What Students Must Prove (Deliverables)
-📦 Deliverable 1 — Connectivity Evidence
+##### 📦 Deliverable 1 — Connectivity Evidence
+
 Submit screenshots or CLI output showing:
-    BGP session Established
-    Routes learned on both sides
-    Only approved CIDRs exchanged
 
-📦 Deliverable 2 — Network Diagram
+- BGP session Established
+- Routes learned on both sides
+- Only approved CIDRs exchanged
+
+##### 📦 Deliverable 2 — Network Diagram
+
 A simple diagram showing:
-    AWS TGW
-    VPN tunnels
-    GCP HA VPN
-    Cloud Router
-    CIDR flow direction
+
+- AWS TGW
+- VPN tunnels
+- GCP HA VPN
+- Cloud Router
+- CIDR flow direction
 
 Clarity > artwork.
 
-📦 Deliverable 3 — Process Write-Up (Short)
+##### 📦 Deliverable 3 — Process Write-Up (Short)
+
 Answer in 6–10 sentences:
-    How PSKs were generated
-    How they were shared
-    Why this matters in regulated environments
 
-📦 Deliverable 4 — Compliance Statement
+- How PSKs were generated
+- How they were shared
+- Why this matters in regulated environments
+
+##### 📦 Deliverable 4 — Compliance Statement
+
 One paragraph explaining:
-    Why no data is stored in GCP
-    Why this satisfies Japanese privacy requirements
-    Why “multi-cloud” does not mean “multi-storage”
 
-🎓 Why This Lab Matters for Your Career
+- Why no data is stored in GCP
+- Why this satisfies Japanese privacy requirements
+- Why “multi-cloud” does not mean “multi-storage”
+
+##### 🎓 Why This Lab Matters for Your Career
+
 This lab teaches you to:
-    Work across providers
-    Coordinate between teams
-    Respect legal boundaries
-    Treat networking as shared responsibility
-    Value process as much as code
 
-Many engineers can configure VPNs.
-Few can do it cleanly, safely, and defensibly.
+- Work across providers
+- Coordinate between teams
+- Respect legal boundaries
+- Treat networking as shared responsibility
+- Value process as much as code
 
-🗣️ Interview Talk Track (Practice This)
+Many engineers can configure VPNs. Few can do it cleanly, safely, and defensibly.
 
-  “We connected a GCP-based medical branch to AWS using IPSec VPN and BGP, while ensuring all PHI remained in Japan.
-  The GCP side ran compute only, and routing was tightly controlled to meet compliance requirements.”
+##### 🗣️ Interview Talk Track (Practice This)
+
+```text
+“We connected a GCP-based medical branch to AWS using IPSec VPN and BGP, while ensuring all PHI remained in Japan. The GCP side ran compute only, and routing was tightly controlled to meet compliance requirements.”
+```
 
 That answer signals real-world readiness.
 
-🧠 One Sentence to Remember
+##### 🧠 One Sentence to Remember
+
 Secure connectivity is as much about process as it is about packets.
 
 What you’re getting below (GCP / Iowa us-central1):
-        VPC + subnet (placeholders for 10.x.x.x/xx)
-        Firewall rules so the HTTPS URL is ONLY reachable from VPN/TGW CIDRs
-        Managed Instance Group (MIG) behind an Internal HTTPS Load Balancer (so it’s only reachable over VPN)
-        Self-signed cert generated at boot on each VM (simple)
-        Startup script that:
-                installs Nginx + Python
-                hosts a tiny internal app endpoint
-                includes a basic “write/read to Tokyo RDS” Python test script (students wire the DB params)
-            Optional: Cloud NAT (so instances can apt-get without making the service public)
-        This assumes AWS↔GCP VPN/BGP (Lab 4A) already exists and routes are working.
+
+- VPC + subnet (placeholders for 10.x.x.x/xx)
+- Firewall rules so the HTTPS URL is ONLY reachable from VPN/TGW CIDRs
+- Managed Instance Group (MIG) behind an Internal HTTPS Load Balancer (so it’s only reachable over VPN)
+- Self-signed cert generated at boot on each VM (simple)
+- Startup script that:
+  - installs Nginx + Python
+  - hosts a tiny internal app endpoint
+  - includes a basic “write/read to Tokyo RDS” Python test script (students wire the DB params)
+  - Optional: Cloud NAT (so instances can apt-get without making the service public)
+  - This assumes AWS↔GCP VPN/BGP (Lab 4A) already exists and routes are working.
 
 Lab 4A-2 — GCP MIG “NY Branch” (Compute Only) + Private HTTPS + Tokyo RDS Access
 What changes from AWS Lab 2
 
-        1) In GCP, you do not use CloudFront as the entrypoint here.
-                --> This “NY branch” app is private-only: reachable via VPN/TGW only.
-        2) The VM/MIG must connect to Tokyo RDS across the VPN corridor.
-        3) No DB resources in GCP. Ever.
+1) In GCP, you do not use CloudFront as the entrypoint here.
+
+- This “NY branch” app is private-only: reachable via VPN/TGW only.
+
+1) The VM/MIG must connect to Tokyo RDS across the VPN corridor.
+2) No DB resources in GCP. Ever.
 
 Terraform Skeleton (GCP)
 
+```text
 Naming convention suggestion for NY Japanese-town flavor: nihonmachi-* (NY branch “Japan Town”)
+
 Region: us-central1 (Iowa)
 
 providers.tf
 variables.tf
 network.tf
-Optional: Cloud NAT (so instances can install packages without being public)
 nat.tf (optional but recommended)
-Firewall: allow HTTPS only from VPN/TGW, and allow health checks internally
 firewall.tf
-Service account + Secret access (password not in TF state)
 iam.tf
-Instance template with self-signed HTTPS + tiny app + Tokyo RDS test script
 compute.tf
-Internal HTTPS Load Balancer (private URL over VPN only)
 ilb.tf
 startup.sh.tftpl (VM bootstrap)
-Create a file named startup.sh.tftpl:
+```
 
 How Students Verify It (Deliverables)
-Deliverable 1 — Private-only access proof
-        Show that the internal LB IP works from inside VPN only
-        Show it does not work from the public internet
 
-### Commands
+- ✅ Deliverable 1 — Private-only access proof
+  - Show that the internal LB IP works from inside VPN only
+  - Show it does not work from the public internet
 
-```
-        gcloud compute forwarding-rules describe nihonmachi-fr01 --region us-central1
-```
+- ✅Commands
 
-From a host inside the VPN corridor:
-
-```
-        curl -k https://<INTERNAL_LB_IP>/health
-        curl -k https://<INTERNAL_LB_IP>/
+```bash
+gcloud compute forwarding-rules describe nihonmachi-fr01 --region us-central1
 ```
 
-#### Deliverable 2 — MIG proof
+- ✅ From a host inside the VPN corridor:
 
-```
-        gcloud compute instance-groups managed list --regions us-central1
-        gcloud compute instances list --filter="name~nihonmachi-app"
+```bash
+curl -k https://<INTERNAL_LB_IP>/health
+curl -k https://<INTERNAL_LB_IP>/
 ```
 
-#### Deliverable 3 — Tokyo RDS connectivity proof
+- ✅ Deliverable 2 — MIG proof
+
+```bash
+gcloud compute instance-groups managed list --regions us-central1
+gcloud compute instances list --filter="name~nihonmachi-app"
+```
+
+- ✅ Deliverable 3 — Tokyo RDS connectivity proof
 
 From the VM (SSH via IAP or internal bastion), run:
 
-```
-        source /etc/profile.d/tokyo_rds.sh
-        python3 /usr/local/bin/rds_test.py
+```python
+source /etc/profile.d/tokyo_rds.sh
+python3 /usr/local/bin/rds_test.py
 ```
 
 You submit the JSON output.
 
-#### Deliverable 4 — Process proof (PSK discipline reminder)
+- ✅ Deliverable 4 — Process proof (PSK discipline reminder)
 
 Students must write 6–10 lines:
 
@@ -1714,9 +1866,11 @@ Students must write 6–10 lines:
 - why secrets must not go in Terraform state
 - what would be considered a compliance mistake (PHI in logs, local DB, etc.)
 
-#### Restrictions reminders (repeat to them)
+Restrictions reminders (repeat to them)
 
 - No databases in GCP
 - No PHI in logs.
 - Only private access over VPN corridor.
 - Passwords/secrets must not be hardcoded in TF or Git.
+
+---
