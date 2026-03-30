@@ -186,14 +186,28 @@ Each LAB is tracked in its own branch with unique deliverables and tasks.
 
 ## Anthony Core
 
-Submission Repo: <https://github.com/1taker/armageddon-C7-BHOEJM-Wolfpack>
-
-- Lab 1A
-- Lab 1B
-- Lab 1C
+| Lab   | Deliverables                                |
+| ------|---------------------------------------------|
+|Submission| Repo: <https://github.com/1taker/armageddon-C7-BHOEJM-Wolfpack>
 
 ---
 
+## Christian Jamieson
+
+| Lab   | Deliverables                                |
+| ------|---------------------------------------------|
+| Lab | [Deliverables](https://github.com/cjjamieson1983/armageddon-C7-BHOEjM-Wolfpack/tree/chris-project-upload/Lab1a) |
+| Lab1b | [Deliverables](https://github.com/cjjamieson1983/armageddon-C7-BHOEjM-Wolfpack/tree/chris-project-upload/Lab1b) |
+| Lab1c | [Deliverables](https://github.com/cjjamieson1983/armageddon-C7-BHOEjM-Wolfpack/tree/chris-project-upload/lab1c) |
+| Lab1C.A | [Deliverables](https://github.com/cjjamieson1983/armageddon-C7-BHOEjM-Wolfpack/tree/chris-project-upload/lab1c.A) |
+| Lab1C.B | [Deliverables](https://github.com/cjjamieson1983/armageddon-C7-BHOEjM-Wolfpack/tree/chris-project-upload/lab1c.B) |
+| Lab1C.C | [Deliverables](https://github.com/cjjamieson1983/armageddon-C7-BHOEjM-Wolfpack/tree/chris-project-upload/lab1c.C) |
+| Lab1C.D | [Deliverables](https://github.com/cjjamieson1983/armageddon-C7-BHOEjM-Wolfpack/tree/chris-project-upload/lab1c.D) |
+| Lab1C.E | [Deliverables](https://github.com/cjjamieson1983/armageddon-C7-BHOEjM-Wolfpack/tree/chris-project-upload/lab1c.e) |
+| Lab1C.F | [Deliverables](https://github.com/cjjamieson1983/armageddon-C7-BHOEjM-Wolfpack/tree/chris-project-upload/lab1c.F) |
+| Lab2A | [Deliverables](https://github.com/cjjamieson1983/armageddon-C7-BHOEjM-Wolfpack/tree/chris-project-upload/lab2a) |
+
+---
 ## LAB 1A-B
 
 ### Deliverables
