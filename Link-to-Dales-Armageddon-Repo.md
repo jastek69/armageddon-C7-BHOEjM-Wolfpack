@@ -1,5 +1,9 @@
 # Link to Michael Dale's, Wolfpack Member, Armageddon Repo
 
+![Greatest Lantern](https://github.com/jastek69/armageddon-C7-BHOEjM-Wolfpack/raw/Dale/images-for-later/Greatest_Lantern.png)
+
+
+
 ![AWS](https://img.shields.io/badge/AWS-Cloud-orange?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-%E2%89%A51.9-844FBA?style=for-the-badge&logo=terraform&logoColor=white)
 ![CloudFront](https://img.shields.io/badge/CloudFront-Edge_Security-yellow?style=for-the-badge&logo=amazon-aws)
