@@ -106,7 +106,7 @@ Each LAB is tracked in its own branch with unique deliverables and tasks.
 
 | Lab                   | Deliverables                                                                 |
 | --------------------- |------------------------------------------------------------------------------|
-|Lab 1A through Lab 3B: | [Deliverables](https://github.com/MichaelDale1/Class-7-Armageddon-2026-Dale) |
+|Lab 1A through Lab 3B: | [Deliverables](https://github.com/MichaelDale1/Class-7-Armageddon-2026-Dale/tree/Lab-3A-and-3B) |
 
 ---
 
