@@ -149,12 +149,13 @@ Each LAB is tracked in its own branch with unique deliverables and tasks.
 
 ---
 
-## **Member: Samael King**
+### **Member: Samael King**
 
 | Lab          | Deliverables                                                                         |
 |--------------|--------------------------------------------------------------------------------------|
-| Lab 1 (A-C): | [Deliverables & Repo](https://github.com/GodEmperorKing/Armageddon-7/tree/main/lab1) |
-| Lab 2A:      | [Deliverables & Repo](https://github.com/GodEmperorKing/Armageddon-7/tree/main/lab2) |
+| Lab 1 (A-C): | [Deliverables & Repo](https://github.com/GodEmperorKing/Armageddon-7/tree/main/lab-1a-c_deliverables)|
+| Lab 2 (A-B): | [Deliverables & Repo](https://github.com/GodEmperorKing/Armageddon-7/tree/main/lab-2a-b_deliverables)|
+| Lab 3 (A-B): | [Deliverables & Repo](https://github.com/GodEmperorKing/Armageddon-7/tree/main/lab-3a-b_deliverables)|
 
 ---
 
